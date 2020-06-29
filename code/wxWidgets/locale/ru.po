@@ -1,0 +1,5106 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: wxWidgets-2.6.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2005-08-21 17:37+0200\n"
+"PO-Revision-Date: 2005-08-11 19:48+1100\n"
+"Last-Translator: Dennis Prochko <wolfsoft@mail.ru>\n"
+"Language-Team: wx-translators <wx-translators@wxwidgets.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=koi8-r\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../src/common/debugrpt.cpp:569
+#, c-format
+msgid "\t%s: %s\n"
+msgstr "\t%s: %s\n"
+
+#: ../src/common/debugrpt.cpp:572
+msgid ""
+"\n"
+"Please send this report to the program maintainer, thank you!\n"
+msgstr ""
+"\n"
+"ðÏÖÁÌÕÊÓÔÁ, ÏÔÐÒÁ×ØÔÅ ÜÔÏÔ ÏÔÞÅÔ ÓÌÕÖÂÅ ÐÏÄÄÅÒÖËÉ ÐÒÏÇÒÁÍÍÙ, ÂÌÁÇÏÄÁÒÉÍ "
+"ÚÁÒÁÎÅÅ!\n"
+
+#: ../src/palmos/utils.cpp:206
+msgid " "
+msgstr " "
+
+#: ../src/generic/dbgrptg.cpp:312
+msgid "              Thank you and we're sorry for the inconvenience!\n"
+msgstr ""
+"              ðÒÉÎÏÓÉÍ ÉÚ×ÉÎÅÎÉÑ ÚÁ ÄÏÓÔÁ×ÌÅÎÎÙÅ ÎÅÕÄÏÂÓÔ×Á, ÓÐÁÓÉÂÏ!\n"
+
+#: ../src/common/log.cpp:321
+#, c-format
+msgid " (error %ld: %s)"
+msgstr " (ÏÛÉÂËÁ %ld: %s)"
+
+#: ../src/common/docview.cpp:1419
+msgid " - "
+msgstr " - "
+
+#: ../src/html/htmprint.cpp:570
+msgid " Preview"
+msgstr " ðÒÅÄ×ÁÒÉÔÅÌØÎÙÊ ÐÒÏÓÍÏÔÒ"
+
+#: ../src/common/paper.cpp:124
+msgid "#10 Envelope, 4 1/8 x 9 1/2 in"
+msgstr "ëÏÎ×ÅÒÔ #10, 4 1/8 x 9 1/2 ÄÀÊÍÁ"
+
+#: ../src/common/paper.cpp:125
+msgid "#11 Envelope, 4 1/2 x 10 3/8 in"
+msgstr "ëÏÎ×ÅÒÔ #11, 4 1/2 x 10 3/8 ÄÀÊÍÁ"
+
+#: ../src/common/paper.cpp:126
+msgid "#12 Envelope, 4 3/4 x 11 in"
+msgstr "ëÏÎ×ÅÒÔ #12, 4 3/4 x 11 ÄÀÊÍÁ"
+
+#: ../src/common/paper.cpp:127
+msgid "#14 Envelope, 5 x 11 1/2 in"
+msgstr "ëÏÎ×ÅÒÔ #14, 5 x 11 1/2 ÄÀÊÍÁ"
+
+#: ../src/common/paper.cpp:123
+msgid "#9 Envelope, 3 7/8 x 8 7/8 in"
+msgstr "ëÏÎ×ÅÒÔ #9, 3 7/8 x 8 7/8 ÄÀÊÍÁ"
+
+#: ../contrib/src/deprecated/resource.cpp:1808
+#: ../contrib/src/deprecated/resource.cpp:1938
+#: ../contrib/src/deprecated/resource.cpp:3026
+#, c-format
+msgid "#define %s must be an integer."
+msgstr "#define %s ÄÏÌÖÎÏ ÂÙÔØ ÃÅÌÙÍ ÞÉÓÌÏÍ."
+
+#: ../src/html/helpfrm.cpp:1042 ../src/html/helpfrm.cpp:1044
+#: ../src/html/helpfrm.cpp:1703 ../src/html/helpfrm.cpp:1736
+#, c-format
+msgid "%i of %i"
+msgstr "%i ÉÚ %i"
+
+#: ../src/generic/filedlgg.cpp:288
+#, c-format
+msgid "%ld bytes"
+msgstr "%ld ÂÁÊÔ"
+
+#: ../src/common/cmdline.cpp:851
+#, c-format
+msgid "%s (or %s)"
+msgstr "%s (ÉÌÉ %s)"
+
+#: ../src/generic/logg.cpp:261
+#, c-format
+msgid "%s Error"
+msgstr "ïÛÉÂËÁ %s"
+
+#: ../src/generic/logg.cpp:269
+#, c-format
+msgid "%s Information"
+msgstr "éÎÆÏÒÍÁÃÉÑ %s"
+
+#: ../src/generic/logg.cpp:265
+#, c-format
+msgid "%s Warning"
+msgstr "ðÒÅÄÕÐÒÅÖÄÅÎÉÅ %s"
+
+#: ../src/common/fldlgcmn.cpp:81
+#, c-format
+msgid "%s files (%s)|%s"
+msgstr "%s ÆÁÊÌÙ (%s)|%s"
+
+#: ../src/common/msgout.cpp:229
+#, c-format
+msgid "%s message"
+msgstr "ÓÏÏÂÝÅÎÉÅ %s"
+
+#: ../contrib/src/deprecated/resource.cpp:2390
+#, c-format
+msgid "%s not a bitmap resource specification."
+msgstr "%s ÎÅ Ñ×ÌÑÅÔÓÑ ÏÐÒÅÄÅÌÅÎÉÅÍ ÇÒÁÆÉÞÅÓËÏÇÏ ÒÅÓÕÒÓÁ."
+
+#: ../contrib/src/deprecated/resource.cpp:2544
+#, c-format
+msgid "%s not an icon resource specification."
+msgstr "%s ÎÅ Ñ×ÌÑÅÔÓÑ ÏÐÒÅÄÅÌÅÎÉÅÍ ÒÅÓÕÒÓÁ ÐÉËÔÏÇÒÁÍÍÙ."
+
+#: ../contrib/src/deprecated/resource.cpp:1901
+#: ../contrib/src/deprecated/resource.cpp:2030
+#: ../contrib/src/deprecated/resource.cpp:3123
+#, c-format
+msgid "%s: ill-formed resource file syntax."
+msgstr "%s: ÎÅ×ÅÒÎÏ ÓÆÏÒÍÉÒÏ×ÁÎÎÙÊ ÓÉÎÔÁËÓÉÓ ÆÁÊÌÁ ÒÅÓÕÒÓÁ."
+
+#: ../src/html/helpfrm.cpp:357 ../src/html/helpfrm.cpp:359
+msgid "&About..."
+msgstr "ï &ÐÒÏÇÒÁÍÍÅ"
+
+#: ../src/common/stockitem.cpp:153
+msgid "&Actual Size"
+msgstr "&éÓÈÏÄÎÙÊ ÒÁÚÍÅÒ"
+
+#: ../src/common/stockitem.cpp:108
+msgid "&Apply"
+msgstr "&ðÒÉÍÅÎÉÔØ"
+
+#: ../src/msw/mdi.cpp:187
+msgid "&Arrange Icons"
+msgstr "&õÐÏÒÑÄÏÞÉÔØ ÚÎÁÞËÉ"
+
+#: ../src/common/stockitem.cpp:118
+msgid "&Back"
+msgstr "&îÁÚÁÄ"
+
+#: ../src/common/stockitem.cpp:109
+msgid "&Bold"
+msgstr "&öÉÒÎÙÊ"
+
+#: ../src/common/stockitem.cpp:110 ../src/generic/fontdlgg.cpp:363
+#: ../src/generic/fontdlgg.cpp:382 ../src/generic/wizard.cpp:422
+msgid "&Cancel"
+msgstr "&ïÔÍÅÎÁ"
+
+#: ../src/msw/mdi.cpp:183
+msgid "&Cascade"
+msgstr "&ëÁÓËÁÄ"
+
+#: ../src/common/stockitem.cpp:111
+msgid "&Clear"
+msgstr "ï&ÞÉÓÔÉÔØ"
+
+#: ../src/common/prntbase.cpp:875 ../src/common/stockitem.cpp:112
+#: ../src/generic/logg.cpp:509 ../src/html/helpfrm.cpp:354
+msgid "&Close"
+msgstr "&úÁËÒÙÔØ"
+
+#: ../src/common/stockitem.cpp:113 ../src/mac/carbon/textctrl.cpp:1074
+#: ../src/msw/textctrl.cpp:2064
+msgid "&Copy"
+msgstr "&ëÏÐÉÒÏ×ÁÔØ"
+
+#: ../src/generic/dbgrptg.cpp:320
+msgid "&Debug report preview:"
+msgstr "ðÒÅÄ×ÁÒÉÔÅÌØÎÙÊ ÐÒÏÓÍÏÔÒ ÏÔÞÅÔÁ &ÏÔÌÁÄËÉ:"
+
+#: ../src/common/stockitem.cpp:115 ../src/mac/carbon/textctrl.cpp:1076
+#: ../src/msw/textctrl.cpp:2066
+msgid "&Delete"
+msgstr "&õÄÁÌÉÔØ"
+
+#: ../src/generic/logg.cpp:717
+msgid "&Details"
+msgstr "&ðÏÄÒÏÂÎÏÓÔÉ"
+
+#: ../src/common/stockitem.cpp:119
+msgid "&Down"
+msgstr "&÷ÎÉÚ"
+
+#: ../src/html/helpfrm.cpp:361
+msgid "&File"
+msgstr "&æÁÊÌ"
+
+#: ../src/common/stockitem.cpp:116
+msgid "&Find"
+msgstr "&îÁÊÔÉ"
+
+#: ../src/generic/wizard.cpp:634
+msgid "&Finish"
+msgstr "&úÁ×ÅÒÛÉÔØ"
+
+#: ../src/generic/fontdlgg.cpp:273
+msgid "&Font family:"
+msgstr "òÁÚÍÅÒ &ÛÒÉÆÔÁ:"
+
+#: ../src/common/stockitem.cpp:120
+msgid "&Forward"
+msgstr "&÷ÐÅÒÅÄ"
+
+#: ../src/common/prntbase.cpp:910
+msgid "&Goto..."
+msgstr "&ðÅÒÅÊÔÉ..."
+
+#: ../src/common/stockitem.cpp:122 ../src/generic/wizard.cpp:418
+#: ../src/generic/wizard.cpp:425 ../src/html/helpfrm.cpp:362
+msgid "&Help"
+msgstr "&ðÏÍÏÝØ"
+
+#: ../src/common/stockitem.cpp:123
+msgid "&Home"
+msgstr "÷ &ÎÁÞÁÌÏ"
+
+#: ../src/common/stockitem.cpp:125
+msgid "&Index"
+msgstr "&ïÇÌÁ×ÌÅÎÉÅ"
+
+#: ../src/common/stockitem.cpp:126
+msgid "&Italic"
+msgstr "&ëÕÒÓÉ×"
+
+#: ../src/generic/logg.cpp:510
+msgid "&Log"
+msgstr "&öÕÒÎÁÌ"
+
+#: ../src/univ/themes/win32.cpp:4923
+msgid "&Move"
+msgstr "ð&ÅÒÅÍÅÓÔÉÔØ"
+
+#: ../src/common/stockitem.cpp:131
+msgid "&New"
+msgstr "&îÏ×ÙÊ"
+
+#: ../src/generic/mdig.cpp:118 ../src/msw/mdi.cpp:188
+msgid "&Next"
+msgstr "&óÌÅÄÕÀÝÉÊ"
+
+#: ../src/generic/wizard.cpp:421 ../src/generic/wizard.cpp:636
+msgid "&Next >"
+msgstr "&óÌÅÄÕÀÝÉÊ >"
+
+#: ../src/generic/tipdlg.cpp:243
+msgid "&Next Tip"
+msgstr "&óÌÅÄÕÀÝÉÊ ÓÏ×ÅÔ"
+
+#: ../src/common/stockitem.cpp:132
+msgid "&No"
+msgstr "&îÅÔ"
+
+#: ../src/generic/dbgrptg.cpp:342
+msgid "&Notes:"
+msgstr "&úÁÍÅÔËÉ:"
+
+#: ../src/common/stockitem.cpp:133 ../src/generic/fontdlgg.cpp:368
+#: ../src/generic/fontdlgg.cpp:375
+msgid "&OK"
+msgstr "&OK"
+
+#: ../src/common/stockitem.cpp:134
+msgid "&Open"
+msgstr "&ïÔËÒÙÔØ"
+
+#: ../src/html/helpfrm.cpp:352
+msgid "&Open..."
+msgstr "&ïÔËÒÙÔØ..."
+
+#: ../src/common/stockitem.cpp:135 ../src/mac/carbon/textctrl.cpp:1075
+#: ../src/msw/textctrl.cpp:2065
+msgid "&Paste"
+msgstr "÷ÓÔ&Á×ÉÔØ"
+
+#: ../src/generic/fontdlgg.cpp:324
+msgid "&Point size:"
+msgstr "&òÁÚÍÅÒ ÛÒÉÆÔÁ:"
+
+#: ../src/common/stockitem.cpp:136
+msgid "&Preferences"
+msgstr "&ðÁÒÁÍÅÔÒÙ"
+
+#: ../src/generic/mdig.cpp:119 ../src/msw/mdi.cpp:189
+msgid "&Previous"
+msgstr "&ðÒÅÄÙÄÕÝÁÑ"
+
+#: ../src/common/stockitem.cpp:137
+msgid "&Print"
+msgstr "&ðÅÞÁÔØ"
+
+#: ../src/common/prntbase.cpp:880
+msgid "&Print..."
+msgstr "&ðÅÞÁÔØ..."
+
+#: ../src/common/stockitem.cpp:139
+msgid "&Properties"
+msgstr "&ó×ÏÊÓÔ×Á"
+
+#: ../src/common/stockitem.cpp:140
+msgid "&Quit"
+msgstr "÷Ù&ÈÏÄ"
+
+#: ../src/common/cmdproc.cpp:292 ../src/common/cmdproc.cpp:299
+#: ../src/common/stockitem.cpp:141 ../src/mac/carbon/textctrl.cpp:1071
+#: ../src/msw/textctrl.cpp:2061
+msgid "&Redo"
+msgstr "&÷ÅÒÎÕÔØ"
+
+#: ../src/common/cmdproc.cpp:288 ../src/common/cmdproc.cpp:308
+msgid "&Redo "
+msgstr "&÷ÅÒÎÕÔØ "
+
+#: ../src/generic/fdrepdlg.cpp:185
+msgid "&Replace"
+msgstr "&úÁÍÅÎÉÔØ"
+
+#: ../src/univ/themes/win32.cpp:4922
+msgid "&Restore"
+msgstr "&÷ÏÓÓÔÁÎÏ×ÉÔØ"
+
+#: ../src/common/stockitem.cpp:145
+msgid "&Save"
+msgstr "&óÏÈÒÁÎÉÔØ"
+
+#: ../src/generic/logg.cpp:505
+msgid "&Save..."
+msgstr "&óÏÈÒÁÎÉÔØ..."
+
+#: ../src/generic/tipdlg.cpp:238
+msgid "&Show tips at startup"
+msgstr "&ðÏËÁÚÙ×ÁÔØ ÓÏ×ÅÔÙ ÐÒÉ ÓÔÁÒÔÅ"
+
+#: ../src/univ/themes/win32.cpp:4925
+msgid "&Size"
+msgstr "&òÁÚÍÅÒ"
+
+#: ../src/common/stockitem.cpp:147
+msgid "&Stop"
+msgstr "&ïÓÔÁÎÏ×ÉÔØ"
+
+#: ../src/generic/fontdlgg.cpp:284
+msgid "&Style:"
+msgstr "&óÔÉÌØ:"
+
+#: ../src/common/stockitem.cpp:149 ../src/generic/fontdlgg.cpp:337
+msgid "&Underline"
+msgstr "&ðÏÄÞÅÒËÉ×ÁÎÉÅ"
+
+#: ../src/common/cmdproc.cpp:270 ../src/common/stockitem.cpp:150
+#: ../src/mac/carbon/textctrl.cpp:1070 ../src/msw/textctrl.cpp:2060
+msgid "&Undo"
+msgstr "&ïÔÍÅÎÉÔØ"
+
+#: ../src/common/cmdproc.cpp:264
+msgid "&Undo "
+msgstr "&ïÔÍÅÎÉÔØ "
+
+#: ../src/common/stockitem.cpp:151
+msgid "&Unindent"
+msgstr "õÂÒÁÔØ &ÏÔÓÔÕÐ"
+
+#: ../src/common/stockitem.cpp:121
+msgid "&Up"
+msgstr "&÷×ÅÒÈ"
+
+#: ../src/generic/fontdlgg.cpp:295
+msgid "&Weight:"
+msgstr "&ûÉÒÉÎÁ:"
+
+#: ../src/generic/mdig.cpp:298 ../src/generic/mdig.cpp:314
+#: ../src/generic/mdig.cpp:318 ../src/msw/mdi.cpp:1410 ../src/msw/mdi.cpp:1417
+#: ../src/msw/mdi.cpp:1447
+msgid "&Window"
+msgstr "&ïËÎÏ"
+
+#: ../src/common/stockitem.cpp:152
+msgid "&Yes"
+msgstr "&äÁ"
+
+#: ../src/common/config.cpp:433 ../src/msw/regconf.cpp:258
+#, c-format
+msgid "'%s' has extra '..', ignored."
+msgstr "'%s' ÓÏÄÅÒÖÉÔ ÌÉÛÎÉÅ '..', ÐÒÏÉÇÎÏÒÉÒÏ×ÁÎÏ."
+
+#: ../src/common/valtext.cpp:132 ../src/common/valtext.cpp:162
+#: ../src/common/valtext.cpp:168
+#, c-format
+msgid "'%s' is invalid"
+msgstr "'%s' ÎÅÄÏÐÕÓÔÉÍÏ"
+
+#: ../src/common/cmdline.cpp:769
+#, c-format
+msgid "'%s' is not a correct numeric value for option '%s'."
+msgstr "'%s' - ÎÅËÏÒÒÅËÔÎÏÅ ÞÉÓÌÏ×ÏÅ ÚÎÁÞÅÎÉÅ ÄÌÑ ÐÁÒÁÍÅÔÒÁ '%s'."
+
+#: ../src/common/intl.cpp:1147
+#, c-format
+msgid "'%s' is not a valid message catalog."
+msgstr "'%s' - ÎÅ×ÅÒÎÙÊ ËÁÔÁÌÏÇ ÓÏÏÂÝÅÎÉÊ."
+
+#: ../src/common/textbuf.cpp:246
+#, c-format
+msgid "'%s' is probably a binary buffer."
+msgstr "'%s' ×ÏÚÍÏÖÎÏ Ñ×ÌÑÅÔÓÑ Ä×ÏÉÞÎÙÍ ÂÕÆÅÒÏÍ."
+
+#: ../src/common/valtext.cpp:157
+#, c-format
+msgid "'%s' should be numeric."
+msgstr "'%s' ÄÏÌÖÎÏ ÂÙÔØ ÞÉÓÌÏÍ."
+
+#: ../src/common/valtext.cpp:139
+#, c-format
+msgid "'%s' should only contain ASCII characters."
+msgstr "'%s' ÄÏÌÖÎÏ ÓÏÄÅÒÖÁÔØ ÔÏÌØËÏ ÓÉÍ×ÏÌÙ ASCII."
+
+#: ../src/common/valtext.cpp:145
+#, c-format
+msgid "'%s' should only contain alphabetic characters."
+msgstr "'%s' ÄÏÌÖÎÏ ÓÏÄÅÒÖÁÔØ ÔÏÌØËÏ ÓÉÍ×ÏÌÙ ÁÌÆÁ×ÉÔÁ."
+
+#: ../src/common/valtext.cpp:151
+#, c-format
+msgid "'%s' should only contain alphabetic or numeric characters."
+msgstr "'%s' ÄÏÌÖÎÏ ÓÏÄÅÒÖÁÔØ ÔÏÌØËÏ ÓÉÍ×ÏÌÙ ÁÌÆÁ×ÉÔÁ ÉÌÉ ÃÉÆÒÙ."
+
+#: ../src/html/helpfrm.cpp:976
+msgid "(Help)"
+msgstr "(ðÏÍÏÝØ)"
+
+#: ../src/html/helpfrm.cpp:431 ../src/html/helpfrm.cpp:1114
+#: ../src/html/helpfrm.cpp:1764
+msgid "(bookmarks)"
+msgstr "(ÚÁËÌÁÄËÉ)"
+
+#: ../src/common/debugrpt.cpp:559
+msgid "*** A debug report has been generated\n"
+msgstr "*** ïÔÞÅÔ ÏÂ ÏÔÌÁÄËÅ ÂÙÌ ÓÆÏÒÍÉÒÏ×ÁÎ\n"
+
+#: ../src/common/debugrpt.cpp:562
+msgid "*** And includes the following files:\n"
+msgstr "*** é ×ËÌÀÞÁÅÔ ÓÌÅÄÕÀÝÉÅ ÆÁÊÌÙ:\n"
+
+#: ../src/common/debugrpt.cpp:560
+#, c-format
+msgid "*** It can be found in \"%s\"\n"
+msgstr "*** ïÎ ÍÏÖÅÔ ÂÙÔØ ÎÁÊÄÅÎ × \"%s\"\n"
+
+#: ../contrib/src/deprecated/resource.cpp:1840
+#: ../contrib/src/deprecated/resource.cpp:1970
+#: ../contrib/src/deprecated/resource.cpp:3062
+msgid ""
+", expected static, #include or #define\n"
+"while parsing resource."
+msgstr ""
+", ÏÖÉÄÁÅÔÓÑ ÓÔÁÔÉÞÅÓËÉÍ, #include ÉÌÉ #define\n"
+"×Ï ×ÒÅÍÑ ÒÁÚÂÏÒÁ ÒÅÓÕÒÓÁ."
+
+#: ../src/generic/dirctrlg.cpp:683 ../src/generic/filedlgg.cpp:740
+msgid "."
+msgstr "."
+
+#: ../src/generic/dirctrlg.cpp:684 ../src/generic/filedlgg.cpp:741
+msgid ".."
+msgstr ".."
+
+#: ../src/common/paper.cpp:147
+#, fuzzy
+msgid "10 x 11 in"
+msgstr "10 x 14 ÄÀÊÍÁ"
+
+#: ../src/common/paper.cpp:120
+msgid "10 x 14 in"
+msgstr "10 x 14 ÄÀÊÍÁ"
+
+#: ../src/common/paper.cpp:121
+msgid "11 x 17 in"
+msgstr "11 x 17 ÄÀÊÍÁ"
+
+#: ../src/common/paper.cpp:191
+#, fuzzy
+msgid "12 x 11 in"
+msgstr "10 x 14 ÄÀÊÍÁ"
+
+#: ../src/common/paper.cpp:148
+#, fuzzy
+msgid "15 x 11 in"
+msgstr "10 x 14 ÄÀÊÍÁ"
+
+#: ../src/common/paper.cpp:139
+msgid "6 3/4 Envelope, 3 5/8 x 6 1/2 in"
+msgstr "ëÏÎ×ÅÒÔ 6 3/4, 3 5/8 x 6 1/2 ÄÀÊÍÁ"
+
+#: ../src/common/paper.cpp:146
+#, fuzzy
+msgid "9 x 11 in"
+msgstr "11 x 17 ÄÀÊÍÁ"
+
+#: ../src/html/htmprint.cpp:309
+msgid ": file does not exist!"
+msgstr ": ÆÁÊÌ ÎÅ ÓÕÝÅÓÔ×ÕÅÔ!"
+
+#: ../src/common/fontmap.cpp:200
+msgid ": unknown charset"
+msgstr ": ÎÅÉÚ×ÅÓÔÎÙÊ ÎÁÂÏÒ ÓÉÍ×ÏÌÏ×"
+
+#: ../src/common/fontmap.cpp:414
+msgid ": unknown encoding"
+msgstr ": ÎÅÉÚ×ÅÓÔÎÁÑ ËÏÄÉÒÏ×ËÁ"
+
+#: ../src/generic/wizard.cpp:427
+msgid "< &Back"
+msgstr "< &îÁÚÁÄ"
+
+#: ../src/common/prntbase.cpp:892
+msgid "<<"
+msgstr "<<"
+
+#: ../src/generic/filedlgg.cpp:259 ../src/generic/filedlgg.cpp:282
+msgid "<DIR>"
+msgstr "<ëáôáìïç>"
+
+#: ../src/generic/filedlgg.cpp:263 ../src/generic/filedlgg.cpp:286
+msgid "<DRIVE>"
+msgstr "<äéóë>"
+
+#: ../src/generic/filedlgg.cpp:261 ../src/generic/filedlgg.cpp:284
+msgid "<LINK>"
+msgstr "<óóùìëá>"
+
+#: ../src/html/helpfrm.cpp:1276
+msgid "<b><i>Bold italic face.</i></b><br>"
+msgstr "<b><i>öÉÒÎÙÊ ËÕÒÓÉ×ÎÙÊ ÛÒÉÆÔ.</i></b><br>"
+
+#: ../src/html/helpfrm.cpp:1280
+msgid "<b><i>bold italic <u>underlined</u></i></b><br>"
+msgstr "<b><i>ÖÉÒÎÙÊ ËÕÒÓÉ×ÎÙÊ <u>ÐÏÄÞÅÒËÎÕÔÙÊ</u></i></b><br>"
+
+#: ../src/html/helpfrm.cpp:1275
+msgid "<b>Bold face.</b> "
+msgstr "<b>öÉÒÎÙÊ ÛÒÉÆÔ.</b> "
+
+#: ../src/html/helpfrm.cpp:1274
+msgid "<i>Italic face.</i> "
+msgstr "<i>ëÕÒÓÉ×ÎÙÊ ÛÒÉÆÔ.</i> "
+
+#: ../src/common/prntbase.cpp:898
+msgid ">>"
+msgstr ">>"
+
+#: ../src/common/prntbase.cpp:904
+msgid ">>|"
+msgstr ">>|"
+
+#: ../src/generic/dbgrptg.cpp:304
+msgid "A debug report has been generated in the directory\n"
+msgstr "ïÔÞÅÔ ÏÂ ÏÔÌÁÄËÅ ÂÙÌ ÓÏÚÄÁÎ × ÐÁÐËÅ\n"
+
+#: ../src/common/xtixml.cpp:409
+msgid "A non empty collection must consist of 'element' nodes"
+msgstr "îÅ ÐÕÓÔÁÑ ËÏÌÌÅËÃÉÑ ÄÏÌÖÎÁ ÓÏÓÔÏÑÔØ ÉÚ ÕÚÌÏ× 'element'"
+
+#: ../src/common/paper.cpp:166
+msgid "A2 420 x 594 mm"
+msgstr ""
+
+#: ../src/common/paper.cpp:163
+#, fuzzy
+msgid "A3 Extra 322 x 445 mm"
+msgstr "ëÏÎ×ÅÒÔ C3, 324 x 458 ÍÍ"
+
+#: ../src/common/paper.cpp:168
+#, fuzzy
+msgid "A3 Extra Transverse 322 x 445 mm"
+msgstr "ëÏÎ×ÅÒÔ C3, 324 x 458 ÍÍ"
+
+#: ../src/common/paper.cpp:177
+#, fuzzy
+msgid "A3 Rotated 420 x 297 mm"
+msgstr "ìÉÓÔ A4, 210 x 297 ÍÍ"
+
+#: ../src/common/paper.cpp:167
+#, fuzzy
+msgid "A3 Transverse 297 x 420 mm"
+msgstr "ìÉÓÔ A3 297 x 420 ÍÍ"
+
+#: ../src/common/paper.cpp:113
+msgid "A3 sheet, 297 x 420 mm"
+msgstr "ìÉÓÔ A3 297 x 420 ÍÍ"
+
+#: ../src/common/paper.cpp:153
+msgid "A4 Extra 9.27 x 12.69 in"
+msgstr ""
+
+#: ../src/common/paper.cpp:160
+#, fuzzy
+msgid "A4 Plus 210 x 330 mm"
+msgstr "ìÉÓÔ A4, 210 x 297 ÍÍ"
+
+#: ../src/common/paper.cpp:178
+#, fuzzy
+msgid "A4 Rotated 297 x 210 mm"
+msgstr "ìÉÓÔ A3 297 x 420 ÍÍ"
+
+#: ../src/common/paper.cpp:155
+#, fuzzy
+msgid "A4 Transverse 210 x 297 mm"
+msgstr "ìÉÓÔ A4, 210 x 297 ÍÍ"
+
+#: ../src/common/paper.cpp:104
+msgid "A4 sheet, 210 x 297 mm"
+msgstr "ìÉÓÔ A4, 210 x 297 ÍÍ"
+
+#: ../src/common/paper.cpp:114
+msgid "A4 small sheet, 210 x 297 mm"
+msgstr "íÁÌÙÊ ÌÉÓÔ A4, 210 x 297 ÍÍ"
+
+#: ../src/common/paper.cpp:164
+#, fuzzy
+msgid "A5 Extra 174 x 235 mm"
+msgstr "ìÉÓÔ A5, 148 x 210 ÍÍ"
+
+#: ../src/common/paper.cpp:179
+msgid "A5 Rotated 210 x 148 mm"
+msgstr ""
+
+#: ../src/common/paper.cpp:161
+#, fuzzy
+msgid "A5 Transverse 148 x 210 mm"
+msgstr "ìÉÓÔ A5, 148 x 210 ÍÍ"
+
+#: ../src/common/paper.cpp:115
+msgid "A5 sheet, 148 x 210 mm"
+msgstr "ìÉÓÔ A5, 148 x 210 ÍÍ"
+
+#: ../src/common/paper.cpp:171
+#, fuzzy
+msgid "A6 105 x 148 mm"
+msgstr "10 x 14 ÄÀÊÍÁ"
+
+#: ../src/common/paper.cpp:184
+#, fuzzy
+msgid "A6 Rotated 148 x 105 mm"
+msgstr "ìÉÓÔ A5, 148 x 210 ÍÍ"
+
+#: ../src/generic/fontdlgg.cpp:87
+msgid "ABCDEFGabcdefg12345"
+msgstr "ABCDEFGabcdefg12345"
+
+#: ../src/common/ftp.cpp:385
+msgid "ASCII"
+msgstr "ASCII"
+
+#: ../src/common/stockitem.cpp:107
+msgid "Add"
+msgstr "äÏÂÁ×ÉÔØ"
+
+#: ../src/html/helpfrm.cpp:444
+msgid "Add current page to bookmarks"
+msgstr "äÏÂÁ×ÉÔØ ÔÅËÕÝÕÀ ÓÔÒÁÎÉÃÕ Ë ÚÁËÌÁÄËÁÍ"
+
+#: ../src/generic/colrdlgg.cpp:299
+msgid "Add to custom colours"
+msgstr "äÏÂÁ×ÉÔØ Ë Ã×ÅÔÁÍ ÐÏÌØÚÏ×ÁÔÅÌÑ"
+
+#: ../include/wx/xti.h:902
+msgid "AddToPropertyCollection called on a generic accessor"
+msgstr "AddToPropertyCollection ×ÙÚ×ÁÎÏ ÉÚ ÏÂÝÅÇÏ ÐÒÅÄËÁ"
+
+#: ../include/wx/xti.h:849
+msgid "AddToPropertyCollection called w/o valid adder"
+msgstr "AddToPropertyCollection ×ÙÚ×ÁÎÏ ÂÅÚ ÉÓÐÏÌØÚÏ×ÁÎÉÑ ×ÅÒÎÏÇÏ adder"
+
+#: ../src/html/helpctrl.cpp:106
+#, c-format
+msgid "Adding book %s"
+msgstr "äÏÂÁ×ÌÅÎÉÅ ËÎÉÇÉ %s"
+
+#: ../src/common/stockitem.cpp:129
+msgid "Align Left"
+msgstr "÷ÙÒÏ×ÎÑÔØ ×ÌÅ×Ï"
+
+#: ../src/common/stockitem.cpp:130
+msgid "Align Right"
+msgstr "÷ÙÒÏ×ÎÑÔØ ×ÐÒÁ×Ï"
+
+#: ../src/generic/prntdlgg.cpp:209
+msgid "All"
+msgstr "÷ÓÅ"
+
+#: ../src/common/fldlgcmn.cpp:64
+#, c-format
+msgid "All files (%s)|%s"
+msgstr "÷ÓÅ ÆÁÊÌÙ (%s)|%s"
+
+#: ../include/wx/defs.h:2302
+msgid "All files (*)|*"
+msgstr "÷ÓÅ ÆÁÊÌÙ (*)|*"
+
+#: ../src/html/helpfrm.cpp:1578
+msgid "All files (*.*)|*"
+msgstr "÷ÓÅ ÆÁÊÌÙ (*.*)|*"
+
+#: ../include/wx/defs.h:2299
+msgid "All files (*.*)|*.*"
+msgstr "÷ÓÅ ÆÁÊÌÙ (*.*)|*.*"
+
+#: ../src/common/xtistrm.cpp:385
+msgid "Already Registered Object passed to SetObjectClassInfo"
+msgstr "õÖÅ ÚÁÒÅÇÉÓÔÒÉÒÏ×ÁÎÎÙÊ ÏÂßÅËÔ ÐÅÒÅÄÁÎ × SetObjectClassInfo"
+
+#: ../src/unix/dialup.cpp:362
+msgid "Already dialling ISP."
+msgstr "õÖÅ Ú×ÏÎÉÍ ISP."
+
+#: ../src/generic/logg.cpp:1163
+#, c-format
+msgid "Append log to file '%s' (choosing [No] will overwrite it)?"
+msgstr "äÏÂÁ×ÉÔØ × ÆÁÊÌ ÖÕÒÎÁÌÁ '%s' (×ÙÂÏÒ [îÅÔ] ÐÅÒÅÐÉÛÅÔ ÅÇÏ)?"
+
+#: ../src/common/fmapbase.cpp:109
+msgid "Arabic (ISO-8859-6)"
+msgstr "áÒÁÂÓËÉÊ (ISO-8859-6)"
+
+#: ../src/html/chm.cpp:564
+msgid "Archive doesnt contain #SYSTEM file"
+msgstr "áÒÈÉ× ÎÅ ÓÏÄÅÒÖÉÔ ÆÁÊÌÁ #SYSTEM"
+
+#: ../src/generic/filedlgg.cpp:440
+msgid "Attributes"
+msgstr "áÔÒÉÂÕÔÙ"
+
+#: ../src/common/paper.cpp:144
+#, fuzzy
+msgid "B4 (ISO) 250 x 353 mm"
+msgstr "ìÉÓÔ B4, 250 x 354 ÍÍ"
+
+#: ../src/common/paper.cpp:180
+msgid "B4 (JIS) Rotated 364 x 257 mm"
+msgstr ""
+
+#: ../src/common/paper.cpp:134
+msgid "B4 Envelope, 250 x 353 mm"
+msgstr "ëÏÎ×ÅÒÔ B4, 250 x 353 ÍÍ"
+
+#: ../src/common/paper.cpp:116
+msgid "B4 sheet, 250 x 354 mm"
+msgstr "ìÉÓÔ B4, 250 x 354 ÍÍ"
+
+#: ../src/common/paper.cpp:165
+msgid "B5 (ISO) Extra 201 x 276 mm"
+msgstr ""
+
+#: ../src/common/paper.cpp:181
+msgid "B5 (JIS) Rotated 257 x 182 mm"
+msgstr ""
+
+#: ../src/common/paper.cpp:162
+#, fuzzy
+msgid "B5 (JIS) Transverse 182 x 257 mm"
+msgstr "ìÉÓÔ B5, 182 x 257 ÍÍ"
+
+#: ../src/common/paper.cpp:135
+msgid "B5 Envelope, 176 x 250 mm"
+msgstr "ëÏÎ×ÅÒÔ B5, 176 x 250 ÍÍ"
+
+#: ../src/common/paper.cpp:117
+msgid "B5 sheet, 182 x 257 millimeter"
+msgstr "ìÉÓÔ B5, 182 x 257 ÍÍ"
+
+#: ../src/common/paper.cpp:189
+msgid "B6 (JIS) 128 x 182 mm"
+msgstr ""
+
+#: ../src/common/paper.cpp:190
+msgid "B6 (JIS) Rotated 182 x 128 mm"
+msgstr ""
+
+#: ../src/common/paper.cpp:136
+msgid "B6 Envelope, 176 x 125 mm"
+msgstr "ëÏÎ×ÅÒÔ B6, 176 x 125 ÍÍ"
+
+#: ../src/common/imagbmp.cpp:477 ../src/common/imagbmp.cpp:493
+msgid "BMP: Couldn't allocate memory."
+msgstr "BMP: îÅ×ÏÚÍÏÖÎÏ ×ÙÄÅÌÉÔØ ÐÁÍÑÔØ."
+
+#: ../src/common/imagbmp.cpp:94
+msgid "BMP: Couldn't save invalid image."
+msgstr "BMP: îÅ×ÏÚÍÏÖÎÏ ÓÏÈÒÁÎÉÔØ ÎÅÄÅÊÓÔ×ÉÔÅÌØÎÏÅ ÉÚÏÂÒÁÖÅÎÉÅ."
+
+#: ../src/common/imagbmp.cpp:298
+msgid "BMP: Couldn't write RGB color map."
+msgstr "BMP: îÅ×ÏÚÍÏÖÎÏ ÚÁÐÉÓÁÔØ Ã×ÅÔÏ×ÕÀ ËÁÒÔÕ RGB."
+
+#: ../src/common/imagbmp.cpp:431
+msgid "BMP: Couldn't write data."
+msgstr "BMP: îÅ×ÏÚÍÏÖÎÏ ÚÁÐÉÓÁÔØ ÄÁÎÎÙÅ."
+
+#: ../src/common/imagbmp.cpp:203
+msgid "BMP: Couldn't write the file (Bitmap) header."
+msgstr "BMP: îÅ×ÏÚÍÏÖÎÏ ÚÁÐÉÓÁÔØ ÚÁÇÏÌÏ×ÏË ÆÁÊÌÁ (Bitmap)."
+
+#: ../src/common/imagbmp.cpp:224
+msgid "BMP: Couldn't write the file (BitmapInfo) header."
+msgstr "BMP: îÅ×ÏÚÍÏÖÎÏ ÚÁÐÉÓÁÔØ ÚÁÇÏÌÏ×ÏË ÆÁÊÌÁ (BitmapInfo)."
+
+#: ../src/common/imagbmp.cpp:128
+msgid "BMP: wxImage doesn't have own wxPalette."
+msgstr "BMP: wxImage ÎÅ ÉÍÅÅÔ ÓÏÂÓÔ×ÅÎÎÏÇÏ wxPalette."
+
+#: ../src/common/fmapbase.cpp:116
+msgid "Baltic (ISO-8859-13)"
+msgstr "âÁÌÔÉÊÓËÉÊ (ISO-8859-13)"
+
+#: ../src/common/fmapbase.cpp:107
+msgid "Baltic (old) (ISO-8859-4)"
+msgstr "âÁÌÔÉÊÓËÉÊ (ÓÔÁÒÙÊ) (ISO-8859-4)"
+
+#: ../contrib/src/deprecated/resource.cpp:2524
+#, c-format
+msgid "Bitmap resource specification %s not found."
+msgstr "îÅ ÎÁÊÄÅÎÁ ÓÐÅÃÉÆÉËÁÃÉÑ ÇÒÁÆÉÞÅÓËÏÇÏ ÒÅÓÕÒÓÁ %s."
+
+#: ../src/generic/fontdlgg.cpp:237
+msgid "Bold"
+msgstr "öÉÒÎÙÊ"
+
+#: ../src/generic/prntdlgg.cpp:892
+msgid "Bottom margin (mm):"
+msgstr "îÉÖÎÅÅ ÐÏÌÅ (ÍÍ):"
+
+#: ../src/common/paper.cpp:105
+msgid "C sheet, 17 x 22 in"
+msgstr "ìÉÓÔ C, 17 x 22 ÄÀÊÍÁ"
+
+#: ../src/generic/logg.cpp:507
+msgid "C&lear"
+msgstr "ï&ÞÉÓÔÉÔØ"
+
+#: ../src/generic/fontdlgg.cpp:308
+msgid "C&olour:"
+msgstr "&ã×ÅÔ:"
+
+#: ../src/common/paper.cpp:130
+msgid "C3 Envelope, 324 x 458 mm"
+msgstr "ëÏÎ×ÅÒÔ C3, 324 x 458 ÍÍ"
+
+#: ../src/common/paper.cpp:131
+msgid "C4 Envelope, 229 x 324 mm"
+msgstr "ëÏÎ×ÅÒÔ C4, 229 x 324 ÍÍ"
+
+#: ../src/common/paper.cpp:129
+msgid "C5 Envelope, 162 x 229 mm"
+msgstr "ëÏÎ×ÅÒÔ C5, 162 x 229 ÍÍ"
+
+#: ../src/common/paper.cpp:132
+msgid "C6 Envelope, 114 x 162 mm"
+msgstr "ëÏÎ×ÅÒÔ C6, 114 x 162 ÍÍ"
+
+#: ../src/common/paper.cpp:133
+msgid "C65 Envelope, 114 x 229 mm"
+msgstr "ëÏÎ×ÅÒÔ C65, 114 x 229 ÍÍ"
+
+#: ../src/html/chm.cpp:797 ../src/html/chm.cpp:856
+msgid "CHM handler currently supports only local files!"
+msgstr "÷ ÎÁÓÔÏÑÝÅÅ ×ÒÅÍÑ ÏÂÒÁÂÏÔÞÉË CHM ÐÏÄÄÅÒÖÉ×ÁÅÔ ÔÏÌØËÏ ÌÏËÁÌØÎÙÅ ÆÁÊÌÙ!"
+
+#: ../src/os2/thread.cpp:117
+msgid "Can not create mutex."
+msgstr "îÅ×ÏÚÍÏÖÎÏ ÓÏÚÄÁÔØ ÍÕÔÅËÓ."
+
+#: ../src/common/filefn.cpp:1297
+#, c-format
+msgid "Can not enumerate files '%s'"
+msgstr "îÅ ÍÏÇÕ ÐÏÄÓÞÉÔÁÔØ ËÏÌÉÞÅÓÔ×Ï ÆÁÊÌÏ× '%s'"
+
+#: ../src/msw/dir.cpp:205 ../src/unix/dir.cpp:232
+#, c-format
+msgid "Can not enumerate files in directory '%s'"
+msgstr "îÅ ÍÏÇÕ ÐÅÒÅÓÞÉÔÁÔØ ÆÁÊÌÙ × ËÁÔÁÌÏÇÅ '%s'"
+
+#: ../src/os2/thread.cpp:519
+#, c-format
+msgid "Can not resume thread %lu"
+msgstr "îÅ×ÏÚÍÏÖÎÏ ×ÏÚÏÂÎÏ×ÉÔØ ×ÙÐÏÌÎÅÎÉÅ ÐÏÔÏËÁ %lu"
+
+#: ../src/mac/classic/thread.cpp:491 ../src/msw/thread.cpp:827
+#, c-format
+msgid "Can not resume thread %x"
+msgstr "îÅ×ÏÚÍÏÖÎÏ ×ÏÚÏÂÎÏ×ÉÔØ ×ÙÐÏÌÎÅÎÉÅ ÐÏÔÏËÁ %x"
+
+#: ../src/msw/thread.cpp:498
+msgid "Can not start thread: error writing TLS."
+msgstr "îÅ×ÏÚÍÏÖÎÏ ÚÁÐÕÓÔÉÔØ ×ÙÐÏÌÎÅÎÉÅ ÐÏÔÏËÁ: ÏÛÉÂËÁ ÚÁÐÉÓÉ TLS."
+
+#: ../src/os2/thread.cpp:505
+#, c-format
+msgid "Can not suspend thread %lu"
+msgstr "îÅ×ÏÚÍÏÖÎÏ ÐÒÉÏÓÔÁÎÏ×ÉÔØ ×ÙÐÏÌÎÅÎÉÅ ÐÏÔÏËÁ %lu"
+
+#: ../src/mac/classic/thread.cpp:464 ../src/msw/thread.cpp:812
+#, c-format
+msgid "Can not suspend thread %x"
+msgstr "îÅ×ÏÚÍÏÖÎÏ ÐÒÉÏÓÔÁÎÏ×ÉÔØ ×ÙÐÏÌÎÅÎÉÅ ÐÏÔÏËÁ %x"
+
+#: ../src/msw/thread.cpp:725
+msgid "Can not wait for thread termination"
+msgstr "îÅ×ÏÚÍÏÖÎÏ ÄÏÖÄÁÔØÓÑ ÏËÏÎÞÁÎÉÑ ×ÙÐÏÌÎÅÎÉÑ ÐÏÔÏËÁ"
+
+#: ../src/common/cmdproc.cpp:266
+msgid "Can't &Undo "
+msgstr "ï&ÔÍÅÎÁ ÎÅ×ÏÚÍÏÖÎÁ "
+
+#: ../src/common/image.cpp:1939
+#, c-format
+msgid "Can't check image format of file '%s': file does not exist."
+msgstr ""
+"îÅ×ÏÚÍÏÖÎÏ ÐÒÏ×ÅÒÉÔØ ÆÏÒÍÁÔ ÉÚÏÂÒÁÖÅÎÉÑ Õ ÆÁÊÌÁ '%s': ÆÁÊÌ ÎÅ ÓÕÝÅÓÔ×ÕÅÔ."
+
+#: ../src/msw/registry.cpp:442
+#, c-format
+msgid "Can't close registry key '%s'"
+msgstr "îÅ×ÏÚÍÏÖÎÏ ÚÁËÒÙÔØ ËÌÀÞ ÒÅÅÓÔÒÁ '%s'"
+
+#: ../src/msw/registry.cpp:518
+#, c-format
+msgid "Can't copy values of unsupported type %d."
+msgstr "îÅ×ÏÚÍÏÖÎÏ ÓËÏÐÉÒÏ×ÁÔØ ÚÎÁÞÅÎÉÑ ÎÅÐÏÄÄÅÒÖÉ×ÁÅÍÏÇÏ ÔÉÐÁ %d."
+
+#: ../src/msw/registry.cpp:423
+#, c-format
+msgid "Can't create registry key '%s'"
+msgstr "îÅ×ÏÚÍÏÖÎÏ ÓÏÚÄÁÔØ ËÌÀÞ ÒÅÅÓÔÒÁ '%s'"
+
+#: ../src/mac/carbon/mpthread.cpp:911 ../src/mac/carbon/thread.cpp:1100
+#: ../src/mac/classic/thread.cpp:439 ../src/msw/thread.cpp:594
+#: ../src/os2/thread.cpp:486
+msgid "Can't create thread"
+msgstr "îÅ×ÏÚÍÏÖÎÏ ÓÏÚÄÁÔØ ÐÏÔÏË"
+
+#: ../src/msw/window.cpp:3130
+#, c-format
+msgid "Can't create window of class %s"
+msgstr "îÅ×ÏÚÍÏÖÎÏ ÓÏÚÄÁÔØ ÏËÎÏ ËÌÁÓÓÁ %s"
+
+#: ../src/msw/registry.cpp:694
+#, c-format
+msgid "Can't delete key '%s'"
+msgstr "îÅ×ÏÚÍÏÖÎÏ ÕÄÁÌÉÔØ ËÌÀÞ '%s'"
+
+#: ../src/msw/iniconf.cpp:444 ../src/os2/iniconf.cpp:458
+#, c-format
+msgid "Can't delete the INI file '%s'"
+msgstr "îÅ×ÏÚÍÏÖÎÏ ÕÄÁÌÉÔØ INI-ÆÁÊÌ '%s'"
+
+#: ../src/msw/registry.cpp:722
+#, c-format
+msgid "Can't delete value '%s' from key '%s'"
+msgstr "îÅ×ÏÚÍÏÖÎÏ ÕÄÁÌÉÔØ ÚÎÁÞÅÎÉÅ '%s' ÉÚ ËÌÀÞÁ '%s'"
+
+#: ../src/msw/registry.cpp:1071
+#, c-format
+msgid "Can't enumerate subkeys of key '%s'"
+msgstr "îÅ×ÏÚÍÏÖÎÏ ÐÅÒÅÓÞÉÔÁÔØ ÐÏÄËÌÀÞÉ ËÌÀÞÁ '%s'"
+
+#: ../src/msw/registry.cpp:1026
+#, c-format
+msgid "Can't enumerate values of key '%s'"
+msgstr "îÅ×ÏÚÍÏÖÎÏ ÐÅÒÅÓÞÉÔÁÔØ ÚÎÁÞÅÎÉÑ ËÌÀÞÁ '%s'"
+
+#: ../src/msw/registry.cpp:1288
+#, c-format
+msgid "Can't export value of unsupported type %d."
+msgstr "üËÓÐÏÒÔ ÚÎÁÞÅÎÉÑ ÎÅÐÏÄÄÅÒÖÉ×ÁÅÍÏÇÏ ÔÉÐÁ %d ÎÅ×ÏÚÍÏÖÅÎ."
+
+#: ../src/common/ffile.cpp:238
+#, c-format
+msgid "Can't find current position in file '%s'"
+msgstr "îÅ ÍÏÇÕ ÎÁÊÔÉ ÔÅËÕÝÕÀ ÐÏÚÉÃÉÀ × ÆÁÊÌÅ '%s'"
+
+#: ../src/msw/registry.cpp:351
+#, c-format
+msgid "Can't get info about registry key '%s'"
+msgstr "îÅ×ÏÚÍÏÖÎÏ ÐÏÌÕÞÉÔØ ÉÎÆÏÒÍÁÃÉÀ Ï ËÌÀÞÅ ÒÅÅÓÔÒÁ '%s'"
+
+#: ../src/common/zstream.cpp:237
+msgid "Can't initialize zlib deflate stream."
+msgstr "îÅ×ÏÚÍÏÖÎÏ ÐÒÏÉÎÉÃÉÁÌÉÚÉÒÏ×ÁÔØ ÐÏÔÏË, ÒÁÚÖÉÍÁÅÍÙÊ zlib."
+
+#: ../src/common/zstream.cpp:99
+msgid "Can't initialize zlib inflate stream."
+msgstr "îÅ×ÏÚÍÏÖÎÏ ÐÒÏÉÎÉÃÉÁÌÉÚÉÒÏ×ÁÔØ ÐÏÔÏË, ÓÖÉÍÁÅÍÙÊ zlib."
+
+#: ../src/common/image.cpp:1367 ../src/common/image.cpp:1387
+#, c-format
+msgid "Can't load image from file '%s': file does not exist."
+msgstr "úÁÇÒÕÚËÁ ÉÚÏÂÒÁÖÅÎÉÑ ÉÚ ÆÁÊÌÁ '%s' ÎÅ×ÏÚÍÏÖÎÁ: ÆÁÊÌ ÎÅ ÓÕÝÅÓÔ×ÕÅÔ."
+
+#: ../src/msw/registry.cpp:387
+#, c-format
+msgid "Can't open registry key '%s'"
+msgstr "îÅ×ÏÚÍÏÖÎÏ ÏÔËÒÙÔØ ËÌÀÞ ÒÅÅÓÔÒÁ '%s'"
+
+#: ../src/common/zstream.cpp:166
+#, c-format
+msgid "Can't read from inflate stream: %s"
+msgstr "îÅ×ÏÚÍÏÖÎÏ ÞÔÅÎÉÅ ÓÖÉÍÁÅÍÏÇÏ ÐÏÔÏËÁ: %s"
+
+#: ../src/common/zstream.cpp:159
+msgid "Can't read inflate stream: unexpected EOF in underlying stream."
+msgstr ""
+"îÅ×ÏÚÍÏÖÎÏ ÞÔÅÎÉÅ ÓÖÉÍÁÅÍÏÇÏ ÐÏÔÏËÁ: ÎÅÏÖÉÄÁÎÎÙÊ EOF × ÎÉÖÌÅÖÁÝÅÍ ÐÏÔÏËÅ."
+
+#: ../src/msw/registry.cpp:960
+#, c-format
+msgid "Can't read value of '%s'"
+msgstr "îÅ×ÏÚÍÏÖÎÏ ÐÒÏÞÉÔÁÔØ ÚÎÁÞÅÎÉÅ '%s'"
+
+#: ../src/msw/registry.cpp:795 ../src/msw/registry.cpp:825
+#: ../src/msw/registry.cpp:885
+#, c-format
+msgid "Can't read value of key '%s'"
+msgstr "îÅ×ÏÚÍÏÖÎÏ ÐÒÏÞÉÔÁÔØ ÚÎÁÞÅÎÉÅ ËÌÀÞÁ '%s'"
+
+#: ../src/common/image.cpp:1409
+#, c-format
+msgid "Can't save image to file '%s': unknown extension."
+msgstr ""
+"îÅ×ÏÚÍÏÖÎÏ ÓÏÈÒÁÎÉÔØ ÉÚÏÂÒÁÖÅÎÉÅ × ÆÁÊÌ '%s': ÎÅÉÚ×ÅÓÔÎÏÅ ÒÁÓÛÉÒÅÎÉÅ ÆÁÊÌÁ."
+
+#: ../src/generic/logg.cpp:569 ../src/generic/logg.cpp:1020
+msgid "Can't save log contents to file."
+msgstr "îÅ×ÏÚÍÏÖÎÏ ÓÏÈÒÁÎÅÎÉÅ ÓÏÄÅÒÖÁÎÉÑ ÖÕÒÎÁÌÁ × ÆÁÊÌ."
+
+#: ../src/msw/thread.cpp:550 ../src/os2/thread.cpp:469
+msgid "Can't set thread priority"
+msgstr "îÅ×ÏÚÍÏÖÎÏ ÕÓÔÁÎÏ×ÉÔØ ÐÒÉÏÒÉÔÅÔ ÐÏÔÏËÁ"
+
+#: ../src/msw/registry.cpp:812 ../src/msw/registry.cpp:854
+#: ../src/msw/registry.cpp:975
+#, c-format
+msgid "Can't set value of '%s'"
+msgstr "îÅ×ÏÚÍÏÖÎÏ ÕÓÔÁÎÏ×ÉÔØ ÚÎÁÞÅÎÉÅ '%s'"
+
+#: ../src/common/zstream.cpp:316
+#, c-format
+msgid "Can't write to deflate stream: %s"
+msgstr "îÅ×ÏÚÍÏÖÎÏ ÚÁÐÉÓÁÔØ × ÒÁÚÖÉÍÁÅÍÙÊ ÐÏÔÏË: %s"
+
+#: ../src/generic/choicdgg.cpp:291 ../src/generic/dirdlgg.cpp:114
+#: ../src/generic/numdlgg.cpp:136 ../src/generic/textdlgg.cpp:120
+#: ../src/gtk/fontdlg.cpp:155 ../src/motif/msgdlg.cpp:204
+#: ../contrib/src/deprecated/proplist.cpp:518
+msgid "Cancel"
+msgstr "ïÔÍÅÎÁ"
+
+#: ../src/xrc/xmlres.cpp:1188 ../src/xrc/xmlres.cpp:1236
+msgid "Cannot convert dialog units: dialog unknown."
+msgstr ""
+"ðÒÅÏÂÒÁÚÏ×ÁÎÉÅ ÄÉÁÌÏÇÏ×ÙÈ ÅÄÉÎÉÃ ÉÚÍÅÒÅÎÉÑ ÎÅ×ÏÚÍÏÖÎÏ: ÄÉÁÌÏÇ ÎÅÉÚ×ÅÓÔÅÎ."
+
+#: ../src/common/strconv.cpp:2665
+#, c-format
+msgid "Cannot convert from the charset '%s'!"
+msgstr "ðÅÒÅËÏÄÉÒÏ×ËÁ ÉÚ ËÏÄÉÒÏ×ËÉ ÓÉÍ×ÏÌÏ× '%s' ÎÅ×ÏÚÍÏÖÎÁ!"
+
+#: ../src/msw/dialup.cpp:546
+#, c-format
+msgid "Cannot find active dialup connection: %s"
+msgstr "îÅ×ÏÚÍÏÖÎÏ ÎÁÊÔÉ ÁËÔÉ×ÎÏÅ ÍÏÄÅÍÎÏÅ ÓÏÅÄÉÎÅÎÉÅ: %s"
+
+#: ../src/xrc/xmlres.cpp:330
+#, c-format
+msgid "Cannot find container for unknown control '%s'."
+msgstr "îÅ×ÏÚÍÏÖÎÏ ÎÁÊÔÉ ËÏÎÔÅÊÎÅÒ ÄÌÑ ÎÅÉÚ×ÅÓÔÎÏÇÏ ÜÌÅÍÅÎÔÁ ÕÐÒÁ×ÌÅÎÉÑ '%s'."
+
+#: ../src/xrc/xmlres.cpp:1271
+#, c-format
+msgid "Cannot find font node '%s'."
+msgstr "îÅ×ÏÚÍÏÖÎÏ ÎÁÊÔÉ ÕÚÅÌ ÛÒÉÆÔÁ '%s'"
+
+#: ../src/msw/dialup.cpp:851
+msgid "Cannot find the location of address book file"
+msgstr "æÁÊÌ Ó ÁÄÒÅÓÎÏÊ ËÎÉÖËÏÊ ÎÅ ÎÁÊÄÅÎ"
+
+#: ../src/unix/threadpsx.cpp:1100
+#, c-format
+msgid "Cannot get priority range for scheduling policy %d."
+msgstr "îÅ×ÏÚÍÏÖÎÏ ÐÏÌÕÞÉÔØ ÉÎÔÅÒ×ÁÌ ÐÒÉÏÒÉÔÅÔÁ ÄÌÑ ÐÌÁÎÉÒÏ×ËÉ ÐÏÌÉÔÉËÉ %d."
+
+#: ../src/unix/utilsunx.cpp:775
+msgid "Cannot get the hostname"
+msgstr "îÅ×ÏÚÍÏÖÎÏ ÐÏÌÕÞÉÔØ ÉÍÑ ÈÏÓÔÁ"
+
+#: ../src/unix/utilsunx.cpp:811
+msgid "Cannot get the official hostname"
+msgstr "îÅ×ÏÚÍÏÖÎÏ ÐÏÌÕÞÉÔØ ÏÆÉÃÉÁÌØÎÏÅ ÉÍÑ ÈÏÓÔÁ"
+
+#: ../src/msw/dialup.cpp:945
+msgid "Cannot hang up - no active dialup connection."
+msgstr "îÅ×ÏÚÍÏÖÎÏ ÐÏ×ÅÓÉÔØ ÔÒÕÂËÕ - ÎÅÔ ÁËÔÉ×ÎÏÇÏ ÍÏÄÅÍÎÏÇÏ ÓÏÅÄÉÎÅÎÉÑ."
+
+#: ../include/wx/msw/ole/oleutils.h:47
+msgid "Cannot initialize OLE"
+msgstr "îÅ×ÏÚÍÏÖÎÏ ÐÒÏÉÎÉÃÉÁÌÉÚÉÒÏ×ÁÔØ OLE"
+
+#: ../src/mgl/app.cpp:286
+msgid "Cannot initialize SciTech MGL!"
+msgstr "îÅ×ÏÚÍÏÖÎÏ ÐÒÏÉÎÉÃÉÁÌÉÚÉÒÏ×ÁÔØ SciTech MGL!"
+
+#: ../src/mgl/window.cpp:546
+msgid "Cannot initialize display."
+msgstr "îÅ×ÏÚÍÏÖÎÏ ÐÒÏÉÎÉÃÉÁÌÉÚÉÒÏ×ÁÔØ ÄÉÓÐÌÅÊ."
+
+#: ../src/msw/volume.cpp:601
+#, c-format
+msgid "Cannot load icon from '%s'."
+msgstr "îÅ×ÏÚÍÏÖÎÏ ÚÁÇÒÕÚÉÔØ ÐÉËÔÏÇÒÁÍÍÕ ÉÚ '%s'."
+
+#: ../src/xrc/xmlres.cpp:453
+#, c-format
+msgid "Cannot load resources from file '%s'."
+msgstr "îÅ×ÏÚÍÏÖÎÏ ÚÁÇÒÕÚÉÔØ ÒÅÓÕÒÓÙ ÉÚ ÆÁÊÌÁ '%s'."
+
+#: ../src/html/htmlfilt.cpp:164
+#, c-format
+msgid "Cannot open HTML document: %s"
+msgstr "îÅ×ÏÚÍÏÖÎÏ ÏÔËÒÙÔØ HTML ÄÏËÕÍÅÎÔ: %s"
+
+#: ../src/html/helpdata.cpp:672
+#, c-format
+msgid "Cannot open HTML help book: %s"
+msgstr "îÅ×ÏÚÍÏÖÎÏ ÏÔËÒÙÔØ ËÎÉÇÕ ÐÏÍÏÝÉ HTML: %s"
+
+#: ../src/generic/helpext.cpp:123
+#, c-format
+msgid "Cannot open URL '%s'"
+msgstr "îÅ×ÏÚÍÏÖÎÏ ÏÔËÒÙÔØ URL '%s'"
+
+#: ../src/html/helpdata.cpp:312
+#, c-format
+msgid "Cannot open contents file: %s"
+msgstr "îÅ×ÏÚÍÏÖÎÏ ÏÔËÒÙÔØ ÆÁÊÌ ÓÏÄÅÒÖÁÎÉÑ: %s"
+
+#: ../src/xrc/xmlres.cpp:421
+#, c-format
+msgid "Cannot open file '%s'."
+msgstr "îÅ×ÏÚÍÏÖÎÏ ÏÔËÒÙÔØ ÆÁÊÌ '%s'."
+
+#: ../src/generic/dcpsg.cpp:1569
+msgid "Cannot open file for PostScript printing!"
+msgstr "îÅ×ÏÚÍÏÖÎÏ ÏÔËÒÙÔØ ÆÁÊÌ ÄÌÑ ÐÅÞÁÔÉ × PostScript!"
+
+#: ../src/html/helpdata.cpp:326
+#, c-format
+msgid "Cannot open index file: %s"
+msgstr "îÅ×ÏÚÍÏÖÎÏ ÏÔËÒÙÔØ ÆÁÊÌ ÉÎÄÅËÓÁ: %s"
+
+#: ../src/common/intl.cpp:1203
+#, c-format
+msgid "Cannot parse Plural-Forms:'%s'"
+msgstr "îÅ×ÏÚÍÏÖÎÏ ÒÁÚÏÂÒÁÔØ ÍÎÏÖÅÓÔ×ÅÎÎÙÅ ÆÏÒÍÙ: %s"
+
+#: ../src/xrc/xmlres.cpp:1172
+#, c-format
+msgid "Cannot parse coordinates from '%s'."
+msgstr "îÅ×ÏÚÍÏÖÎÏ ÒÁÚÏÂÒÁÔØ ËÏÏÒÄÉÎÁÔÙ ÉÚ '%s'."
+
+#: ../src/xrc/xmlres.cpp:1220
+#, c-format
+msgid "Cannot parse dimension from '%s'."
+msgstr "îÅ×ÏÚÍÏÖÎÏ ÒÁÚÏÂÒÁÔØ ÉÚÍÅÒÅÎÉÅ ÉÚ '%s'."
+
+#: ../src/html/helpfrm.cpp:1562
+msgid "Cannot print empty page."
+msgstr "îÅ×ÏÚÍÏÖÎÏ ÎÁÐÅÞÁÔÁÔØ ÐÕÓÔÕÀ ÓÔÒÁÎÉÃÕ."
+
+#: ../src/msw/volume.cpp:160 ../src/msw/volume.cpp:491
+#, c-format
+msgid "Cannot read typename from '%s'!"
+msgstr "þÔÅÎÉÅ ÉÍÅÎÉ ÔÉÐÁ ÉÚ '%s' ÎÅ×ÏÚÍÏÖÎÏ!"
+
+#: ../src/unix/threadpsx.cpp:1081
+msgid "Cannot retrieve thread scheduling policy."
+msgstr "îÅ×ÏÚÍÏÖÎÏ ÉÚ×ÌÅÞØ ÐÏÌÉÔÉËÕ ÐÌÁÎÉÒÏ×ËÉ ÐÏÔÏËÁ."
+
+#: ../src/unix/threadpsx.cpp:729
+msgid "Cannot start thread: error writing TLS"
+msgstr "îÅ×ÏÚÍÏÖÎÏ ÎÁÞÁÔØ ×ÙÐÏÌÎÅÎÉÅ ÐÏÔÏËÁ: ÏÛÉÂËÁ ÚÁÐÉÓÉ TLS"
+
+#: ../src/mac/carbon/mpthread.cpp:977 ../src/mac/carbon/thread.cpp:1174
+msgid "Cannot wait for thread termination."
+msgstr "îÅ×ÏÚÍÏÖÎÏ ÄÏÖÄÁÔØÓÑ ÏËÏÎÞÁÎÉÑ ×ÙÐÏÌÎÅÎÉÑ ÐÏÔÏËÁ."
+
+#: ../src/mac/carbon/mpthread.cpp:893 ../src/mac/carbon/thread.cpp:1082
+msgid "Cant create the thread event queue"
+msgstr "îÅ×ÏÚÍÏÖÎÏ ÓÏÚÄÁÔØ ÐÏÔÏË ÏÞÅÒÅÄÉ ÓÏÂÙÔÉÊ"
+
+#: ../src/html/helpfrm.cpp:534
+msgid "Case sensitive"
+msgstr "ó ÕÞÅÔÏÍ ÒÅÇÉÓÔÒÁ"
+
+#: ../src/common/fmapbase.cpp:117
+msgid "Celtic (ISO-8859-14)"
+msgstr "ëÅÌØÔÓËÉÊ (ISO-8859-14)"
+
+#: ../src/common/stockitem.cpp:127
+msgid "Centered"
+msgstr "ãÅÎÔÒÉÒÏ×ÁÎÎÙÊ"
+
+#: ../src/common/fmapbase.cpp:105
+msgid "Central European (ISO-8859-2)"
+msgstr "ãÅÎÔÒÁÌØÎÏ-Å×ÒÏÐÅÊÓËÉÊ (ISO-8859-2)"
+
+#: ../src/msw/dialup.cpp:786
+msgid "Choose ISP to dial"
+msgstr "÷ÙÂÅÒÉÔÅ ÐÒÏ×ÁÊÄÅÒÁ ÄÌÑ ÎÁÂÏÒÁ ÎÏÍÅÒÁ"
+
+#: ../src/generic/colrdlgg.cpp:151 ../src/gtk/colordlg.cpp:45
+#: ../src/palmos/colordlg.cpp:79
+msgid "Choose colour"
+msgstr "÷ÙÂÅÒÉÔÅ Ã×ÅÔ"
+
+#: ../src/gtk/fontdlg.cpp:133
+msgid "Choose font"
+msgstr "÷ÙÂÅÒÉÔÅ ÛÒÉÆÔ"
+
+#: ../src/generic/mdig.cpp:115
+msgid "Cl&ose"
+msgstr "&úÁËÒÙÔØ"
+
+#: ../src/generic/logg.cpp:507
+msgid "Clear the log contents"
+msgstr "ïÞÉÓÔÉÔØ ÓÏÄÅÒÖÉÍÏÅ ÖÕÒÎÁÌÁ"
+
+#: ../src/generic/fontdlgg.cpp:365 ../src/generic/fontdlgg.cpp:384
+msgid "Click to cancel the font selection."
+msgstr "îÁÖÍÉÔÅ 'ÏÔÍÅÎÁ ×ÙÂÏÒÁ ÛÒÉÆÔÁ'."
+
+#: ../src/generic/fontdlgg.cpp:370 ../src/generic/fontdlgg.cpp:372
+#: ../src/generic/fontdlgg.cpp:377 ../src/generic/fontdlgg.cpp:379
+msgid "Click to confirm the font selection."
+msgstr "îÁÖÍÉÔÅ 'ÐÏÄÔ×ÅÒÄÉÔØ ÓÍÅÎÕ ÛÒÉÆÔÁ'."
+
+#: ../src/generic/dbgrptg.cpp:92 ../src/generic/progdlgg.cpp:629
+#: ../src/generic/progdlgg.cpp:634 ../contrib/src/deprecated/proplist.cpp:513
+msgid "Close"
+msgstr "úÁËÒÙÔØ"
+
+#: ../src/univ/themes/win32.cpp:4931
+msgid "Close\tAlt-F4"
+msgstr "úÁËÒÙÔØ\tAlt-F4"
+
+#: ../src/generic/mdig.cpp:116
+msgid "Close All"
+msgstr "úÁËÒÙÔØ ÷ÓÅ"
+
+#: ../src/generic/logg.cpp:509
+msgid "Close this window"
+msgstr "úÁËÒÙÔØ ÜÔÏ ÏËÎÏ"
+
+#: ../src/html/helpfrm.cpp:1576
+msgid "Compressed HTML Help file (*.chm)|*.chm|"
+msgstr "óÖÁÔÙÊ ÆÁÊÌ ÓÐÒÁ×ËÉ HTML (*.chm)|*.chm|"
+
+#: ../src/generic/dirctrlg.cpp:590
+msgid "Computer"
+msgstr "ëÏÍÐØÀÔÅÒ"
+
+#: ../src/common/fileconf.cpp:962
+#, c-format
+msgid "Config entry name cannot start with '%c'."
+msgstr "éÍÑ ÐÏÌÑ × ÆÁÊÌÅ ËÏÎÆÉÇÕÒÁÃÉÉ ÎÅ ÍÏÖÅÔ ÎÁÞÉÎÁÔØÓÑ Ó '%c'."
+
+#: ../src/generic/filedlgg.cpp:1318 ../src/gtk/filedlg.cpp:67
+msgid "Confirm"
+msgstr "ðÏÄÔ×ÅÒÄÉÔÅ"
+
+#: ../src/msw/mimetype.cpp:678
+msgid "Confirm registry update"
+msgstr "ðÏÄÔ×ÅÒÄÉÔÅ ÏÂÎÏ×ÌÅÎÉÅ ÒÅÅÓÔÒÁ"
+
+#: ../src/html/htmlwin.cpp:386
+msgid "Connecting..."
+msgstr "óÏÅÄÉÎÅÎÉÅ..."
+
+#: ../src/html/helpfrm.cpp:476
+msgid "Contents"
+msgstr "óÏÄÅÒÖÁÎÉÅ"
+
+#: ../src/common/strconv.cpp:1416
+#, c-format
+msgid "Conversion to charset '%s' doesn't work."
+msgstr "ðÒÅÏÂÒÁÚÏ×ÁÎÉÅ ËÏÄÉÒÏ×ËÉ × '%s' ÎÅ ÒÁÂÏÔÁÅÔ."
+
+#: ../src/html/htmlwin.cpp:824
+#, c-format
+msgid "Copied to clipboard:\"%s\""
+msgstr "óËÏÐÉÒÏ×ÁÎÏ × ÂÕÆÅÒ ÏÂÍÅÎÁ:\"%s\""
+
+#: ../src/generic/prntdlgg.cpp:242
+msgid "Copies:"
+msgstr "ëÏÐÉÉ:"
+
+#: ../src/html/chm.cpp:703
+#, c-format
+msgid "Could not create temporary file '%s'"
+msgstr "îÅ×ÏÚÍÏÖÎÏ ÓÏÚÄÁÔØ ×ÒÅÍÅÎÎÙÊ ÆÁÊÌ '%s'"
+
+#: ../src/html/chm.cpp:274
+#, c-format
+msgid "Could not extract %s into %s: %s"
+msgstr "îÅ×ÏÚÍÏÖÎÏ ÉÚ×ÌÅÞØ %s × %s: %s"
+
+#: ../contrib/src/deprecated/resource.cpp:1830
+#: ../contrib/src/deprecated/resource.cpp:1960
+#, c-format
+msgid "Could not find resource include file %s."
+msgstr "îÅ×ÏÚÍÏÖÎÏ ÎÁÊÔÉ ÆÁÊÌ ×ËÌÀÞÅÎÉÊ ÒÅÓÕÒÓÁ %s."
+
+#: ../src/generic/tabg.cpp:1048
+msgid "Could not find tab for id"
+msgstr "îÅ×ÏÚÍÏÖÎÏ ÎÁÊÔÉ ÚÁËÌÁÄËÕ ÄÌÑ id"
+
+#: ../src/html/chm.cpp:445
+#, c-format
+msgid "Could not locate file '%s'."
+msgstr "îÅ×ÏÚÍÏÖÎÏ ÎÁÊÔÉ ÆÁÊÌ '%s'."
+
+#: ../contrib/src/deprecated/resource.cpp:829
+#, c-format
+msgid ""
+"Could not resolve control class or id '%s'. Use (non-zero) integer instead\n"
+" or provide #define (see manual for caveats)"
+msgstr ""
+"îÅ×ÏÚÍÏÖÎÏ ÏÐÒÅÄÅÌÉÔØ ËÌÁÓÓ ÉÌÉ ÉÄÅÎÔÉÆÉËÁÔÏÒ ÜÌÅÍÅÎÔÁ ÕÐÒÁ×ÌÅÎÉÑ '%s'. "
+"÷ÍÅÓÔÏ ÜÔÏÇÏ, ÉÓÐÏÌØÚÕÊÔÅ (ÎÅÎÕÌÅ×ÏÅ) ÃÅÌÏÅ\n"
+" ÉÌÉ ÐÒÅÄÏÓÔÁ×ØÔÅ #define (ÓÍ. ÒÕËÏ×ÏÄÓÔ×Ï ÐÏ ÐÏ×ÏÄÕ ÐÒÅÄÏÓÔÅÒÅÖÅÎÉÊ)"
+
+#: ../contrib/src/deprecated/resource.cpp:1278
+#, c-format
+msgid ""
+"Could not resolve menu id '%s'. Use (non-zero) integer instead\n"
+"or provide #define (see manual for caveats)"
+msgstr ""
+"îÅ×ÏÚÍÏÖÎÏ ÏÐÒÅÄÅÌÉÔØ ÉÄÅÎÔÉÆÉËÁÔÏÒ ÍÅÎÀ '%s'. ÷ÍÅÓÔÏ ÜÔÏÇÏ, ÉÓÐÏÌØÚÕÊÔÅ "
+"(ÎÅÎÕÌÅ×ÏÅ) ÃÅÌÏÅ\n"
+" ÉÌÉ ÐÒÅÄÏÓÔÁ×ØÔÅ #define (ÓÍ. ÒÕËÏ×ÏÄÓÔ×Ï ÐÏ ÐÏ×ÏÄÕ ÐÒÅÄÏÓÔÅÒÅÖÅÎÉÊ)"
+
+#: ../src/common/prntbase.cpp:1272
+msgid "Could not start document preview."
+msgstr "îÅ×ÏÚÍÏÖÎÏ ÎÁÞÁÔØ ÐÒÅÄ×ÁÒÉÔÅÌØÎÙÊ ÐÒÏÓÍÏÔÒ ÄÏËÕÍÅÎÔÁ."
+
+#: ../src/generic/printps.cpp:185 ../src/gtk/gnome/gprint.cpp:763
+#: ../src/msw/printwin.cpp:235
+msgid "Could not start printing."
+msgstr "îÅ×ÏÚÍÏÖÎÏ ÎÁÞÁÔØ ÐÅÞÁÔØ."
+
+#: ../src/common/wincmn.cpp:1498
+msgid "Could not transfer data to window"
+msgstr "îÅ×ÏÚÍÏÖÎÏ ÐÅÒÅÄÁÔØ ÄÁÎÎÙÅ × ÏËÎÏ"
+
+#: ../src/mac/carbon/mpthread.cpp:227 ../src/mac/carbon/mpthread.cpp:306
+#: ../src/mac/carbon/thread.cpp:414 ../src/mac/carbon/thread.cpp:495
+msgid "Could not unlock mutex"
+msgstr "îÅ×ÏÚÍÏÖÎÏ ÏÓ×ÏÂÏÄÉÔØ ÍÕÔÅËÓ"
+
+#: ../src/os2/thread.cpp:150
+msgid "Couldn't acquire a mutex lock"
+msgstr "îÅ×ÏÚÍÏÖÎÏ ÐÏÌÕÞÉÔØ ÂÌÏËÉÒÏ×ËÕ ÍÕÔÅËÓÁ"
+
+#: ../src/msw/dragimag.cpp:166 ../src/msw/dragimag.cpp:206
+#: ../src/msw/imaglist.cpp:158 ../src/msw/imaglist.cpp:176
+#: ../src/msw/imaglist.cpp:188
+msgid "Couldn't add an image to the image list."
+msgstr "îÅ×ÏÚÍÏÖÎÏ ÄÏÂÁ×ÉÔØ ÉÚÏÂÒÁÖÅÎÉÅ Ë ÓÐÉÓËÕ ÉÚÏÂÒÁÖÅÎÉÊ."
+
+#: ../src/msw/timer.cpp:106 ../src/os2/timer.cpp:155
+msgid "Couldn't create a timer"
+msgstr "îÅ×ÏÚÍÏÖÎÏ ÓÏÚÄÁÔØ ÔÁÊÍÅÒ"
+
+#: ../src/mgl/cursor.cpp:135 ../src/mgl/cursor.cpp:166
+msgid "Couldn't create cursor."
+msgstr "îÅ×ÏÚÍÏÖÎÏ ÓÏÚÄÁÔØ ËÕÒÓÏÒ."
+
+#: ../src/common/dynlib.cpp:199
+#, c-format
+msgid "Couldn't find symbol '%s' in a dynamic library"
+msgstr "îÅ×ÏÚÍÏÖÎÏ ÎÁÊÔÉ ÓÉÍ×ÏÌ '%s' × ÄÉÎÁÍÉÞÅÓËÏÊ ÂÉÂÌÉÏÔÅËÅ"
+
+#: ../src/mac/classic/thread.cpp:521 ../src/msw/thread.cpp:853
+msgid "Couldn't get the current thread pointer"
+msgstr "îÅ×ÏÚÍÏÖÎÏ ÐÏÌÕÞÉÔØ ÕËÁÚÁÔÅÌØ ÎÁ ÔÅËÕÝÉÊ ÐÏÔÏË"
+
+#: ../src/common/imagpng.cpp:596
+msgid "Couldn't load a PNG image - file is corrupted or not enough memory."
+msgstr ""
+"îÅ×ÏÚÍÏÖÎÏ ÚÁÇÒÕÚÉÔØ ÉÚÏÂÒÁÖÅÎÉÅ PNG - ×ÏÚÍÏÖÎÏ ÐÏ×ÒÅÖÄÅÎ ÆÁÊÌ ÉÌÉ "
+"ÎÅÄÏÓÔÁÔÏÞÎÏ ÐÁÍÑÔÉ."
+
+#: ../src/unix/sound.cpp:472
+#, c-format
+msgid "Couldn't load sound data from '%s'."
+msgstr "îÅ×ÏÚÍÏÖÎÏ ÚÁÇÒÕÚÉÔØ Ú×ÕËÏ×ÙÅ ÄÁÎÎÙÅ ÉÚ '%s'."
+
+#: ../src/unix/sound_sdl.cpp:230
+#, c-format
+msgid "Couldn't open audio: %s"
+msgstr "îÅ×ÏÚÍÏÖÎÏ ÏÔËÒÙÔØ ÁÕÄÉÏ: %s"
+
+#: ../src/msw/ole/dataobj.cpp:147
+#, c-format
+msgid "Couldn't register clipboard format '%s'."
+msgstr "îÅ×ÏÚÍÏÖÎÏ ÚÁÒÅÇÉÓÔÒÉÒÏ×ÁÔØ ÆÏÒÍÁÔ ÂÕÆÅÒÁ ÏÂÍÅÎÁ '%s'."
+
+#: ../src/os2/thread.cpp:167
+msgid "Couldn't release a mutex"
+msgstr "îÅ×ÏÚÍÏÖÎÏ ÏÓ×ÏÂÏÄÉÔØ ÍÕÔÅËÓ"
+
+#: ../src/msw/listctrl.cpp:745
+#, c-format
+msgid "Couldn't retrieve information about list control item %d."
+msgstr "îÅ×ÏÚÍÏÖÎÏ ÐÏÌÕÞÉÔØ ÉÎÆÏÒÍÁÃÉÀ ÏÂ ÜÌÅÍÅÎÔÅ ÓÐÉÓËÁ %d."
+
+#: ../src/common/imagpng.cpp:642 ../src/common/imagpng.cpp:651
+#: ../src/common/imagpng.cpp:659
+msgid "Couldn't save PNG image."
+msgstr "îÅ×ÏÚÍÏÖÎÏ ÓÏÈÒÁÎÉÔØ ÉÚÏÂÒÁÖÅÎÉÅ PNG."
+
+#: ../src/mac/classic/thread.cpp:779 ../src/msw/thread.cpp:611
+msgid "Couldn't terminate thread"
+msgstr "îÅ ÕÄÁÌÏÓØ ÚÁ×ÅÒÛÉÔØ ÐÏÔÏË"
+
+#: ../src/common/xtistrm.cpp:161
+msgid "Create Parameter not found in declared RTTI Parameters"
+msgstr "Create Parameter ÎÅ ÎÁÊÄÅÎÏ × ÏÂßÑ×ÌÅÎÎÙÈ RTTI Parameters"
+
+#: ../src/generic/dirdlgg.cpp:307
+msgid "Create directory"
+msgstr "óÏÚÄÁÔØ ËÁÔÁÌÏÇ"
+
+#: ../src/generic/dirdlgg.cpp:140 ../src/generic/filedlgg.cpp:999
+msgid "Create new directory"
+msgstr "óÏÚÄÁÔØ ÎÏ×ÙÊ ËÁÔÁÌÏÇ"
+
+#: ../src/common/stockitem.cpp:114 ../src/mac/carbon/textctrl.cpp:1073
+#: ../src/msw/textctrl.cpp:2063
+msgid "Cu&t"
+msgstr "&÷ÙÒÅÚÁÔØ"
+
+#: ../src/generic/filedlgg.cpp:1010
+msgid "Current directory:"
+msgstr "ôÅËÕÝÉÊ ËÁÔÁÌÏÇ:"
+
+#: ../src/common/fmapbase.cpp:108
+msgid "Cyrillic (ISO-8859-5)"
+msgstr "ëÉÒÉÌÌÉÃÁ (ISO-8859-5)"
+
+#: ../src/common/paper.cpp:106
+msgid "D sheet, 22 x 34 in"
+msgstr "ìÉÓÔ D, 22 x 34 ÄÀÊÍÁ"
+
+#: ../src/msw/dde.cpp:631
+msgid "DDE poke request failed"
+msgstr "ïÛÉÂËÁ ÚÁÐÒÏÓÁ DDE poke"
+
+#: ../src/common/imagbmp.cpp:921
+msgid "DIB Header: Encoding doesn't match bitdepth."
+msgstr "úÁÇÏÌÏ×ÏË DIB: ëÏÄÉÒÏ×ËÁ ÎÅ ÓÏ×ÐÁÄÁÅÔ Ó ÇÌÕÂÉÎÏÊ ÂÉÔÏ×."
+
+#: ../src/common/imagbmp.cpp:883
+msgid "DIB Header: Image height > 32767 pixels for file."
+msgstr "úÁÇÏÌÏ×ÏË DIB: ÷ÙÓÏÔÁ ÉÚÏÂÒÁÖÅÎÉÑ > 32767 ÐÉËÓÅÌÏ× ÄÌÑ ÆÁÊÌÁ."
+
+#: ../src/common/imagbmp.cpp:877
+msgid "DIB Header: Image width > 32767 pixels for file."
+msgstr "úÁÇÏÌÏ×ÏË DIB: ûÉÒÉÎÁ ÉÚÏÂÒÁÖÅÎÉÑ > 32767 ÐÉËÓÅÌÏ× ÄÌÑ ÆÁÊÌÁ."
+
+#: ../src/common/imagbmp.cpp:897
+msgid "DIB Header: Unknown bitdepth in file."
+msgstr "úÁÇÏÌÏ×ÏË DIB: îÅÉÚ×ÅÓÔÎÁÑ ÇÌÕÂÉÎÁ ÂÉÔÏ× × ÆÁÊÌÅ."
+
+#: ../src/common/imagbmp.cpp:907
+msgid "DIB Header: Unknown encoding in file."
+msgstr "úÁÇÏÌÏ×ÏË DIB: îÅÉÚ×ÅÓÔÎÁÑ ËÏÄÉÒÏ×ËÁ ÆÁÊÌÁ."
+
+#: ../src/common/paper.cpp:128
+msgid "DL Envelope, 110 x 220 mm"
+msgstr "ëÏÎ×ÅÒÔ DL, 110 x 220 ÍÍ"
+
+#: ../src/generic/dbgrptg.cpp:295
+#, c-format
+msgid "Debug report \"%s\""
+msgstr "ïÔÞÅÔ ÏÂ ÏÔÌÁÄËÅ \"%s\""
+
+#: ../src/common/debugrpt.cpp:203
+msgid "Debug report couldn't be created."
+msgstr "ïÔÞÅÔ ÏÂ ÏÔÌÁÄËÅ ÎÅ ÍÏÖÅÔ ÂÙÔØ ÓÏÚÄÁÎ."
+
+#: ../src/common/debugrpt.cpp:539
+msgid "Debug report generation has failed."
+msgstr "çÅÎÅÒÁÃÉÑ ÏÔÞÅÔÁ ÚÁ×ÅÒÛÉÌÁÓØ Ó ÏÛÉÂËÏÊ."
+
+#: ../src/generic/fontdlgg.cpp:227
+msgid "Decorative"
+msgstr "äÅËÏÒÁÔÉ×ÎÙÊ"
+
+#: ../src/common/fmapbase.cpp:681
+msgid "Default encoding"
+msgstr "ëÏÄÉÒÏ×ËÁ ÐÏ-ÕÍÏÌÞÁÎÉÀ"
+
+#: ../src/generic/prntdlgg.cpp:506
+msgid "Default printer"
+msgstr "ðÒÉÎÔÅÒ ÐÏ-ÕÍÏÌÞÁÎÉÀ"
+
+#: ../contrib/src/gizmos/editlbox.cpp:160
+msgid "Delete item"
+msgstr "õÄÁÌÉÔØ ÜÌÅÍÅÎÔ"
+
+#: ../src/unix/snglinst.cpp:300
+#, c-format
+msgid "Deleted stale lock file '%s'."
+msgstr "õÄÁÌÅÎ ÓÔÁÒÙÊ ÆÁÊÌ ÂÌÏËÉÒÏ×ËÉ '%s'."
+
+#: ../src/generic/dirctrlg.cpp:656
+msgid "Desktop"
+msgstr "òÁÂÏÞÉÊ ÓÔÏÌ"
+
+#: ../src/msw/dialup.cpp:395
+msgid ""
+"Dial up functions are unavailable because the remote access service (RAS) is "
+"not installed on this machine. Please install it."
+msgstr ""
+"æÕÎËÃÉÉ ÎÁÂÏÒÁ ÎÏÍÅÒÁ ÎÅÄÏÓÔÕÐÎÙ ÉÚ-ÚÁ ÔÏÇÏ, ÞÔÏ ÓÅÒ×ÉÓ ÕÄÁÌÅÎÎÏÇÏ ÄÏÓÔÕÐÁ "
+"(RAS) ÎÅ ÕÓÔÁÎÏ×ÌÅÎ ÎÁ ÜÔÏÊ ÍÁÛÉÎÅ. ðÏÖÁÌÕÊÓÔÁ, ÕÓÔÁÎÏ×ÉÔÅ ÅÇÏ."
+
+#: ../src/generic/tipdlg.cpp:246
+msgid "Did you know..."
+msgstr "á ×Ù ÚÎÁÅÔÅ, ÞÔÏ..."
+
+#: ../src/motif/filedlg.cpp:225
+#, fuzzy
+msgid "Directories"
+msgstr "äÅËÏÒÁÔÉ×ÎÙÊ"
+
+#: ../src/common/filefn.cpp:1177
+#, c-format
+msgid "Directory '%s' couldn't be created"
+msgstr "ëÁÔÁÌÏÇ '%s' ÎÅ ÍÏÖÅÔ ÂÙÔØ ÓÏÚÄÁÎ"
+
+#: ../src/mgl/dirmgl.cpp:217
+#, c-format
+msgid "Directory '%s' doesn't exist!"
+msgstr "ëÁÔÁÌÏÇ '%s' ÎÅ ÓÕÝÅÓÔ×ÕÅÔ!"
+
+#: ../src/generic/dirdlgg.cpp:226
+msgid "Directory does not exist"
+msgstr "ëÁÔÁÌÏÇ ÎÅ ÓÕÝÅÓÔ×ÕÅÔ"
+
+#: ../src/generic/filedlgg.cpp:1295
+msgid "Directory doesn't exist."
+msgstr "ëÁÔÁÌÏÇ ÎÅ ÓÕÝÅÓÔ×ÕÅÔ."
+
+#: ../src/html/helpfrm.cpp:503
+msgid ""
+"Display all index items that contain given substring. Search is case "
+"insensitive."
+msgstr ""
+"÷Ù×ÅÓÔÉ ×ÓÅ ÜÌÅÍÅÎÔÙ ÉÎÄÅËÓÁ, ÓÏÄÅÒÖÁÝÉÅ ÄÁÎÎÕÀ ÐÏÄÓÔÒÏËÕ. ðÏÉÓË ÂÅÚ ÕÞÅÔÁ "
+"ÒÅÇÉÓÔÒÁ."
+
+#: ../src/html/helpfrm.cpp:685
+msgid "Display options dialog"
+msgstr "ïÔËÒÙÔØ ÄÉÁÌÏÇ ÎÁÓÔÒÏÊËÉ ÐÁÒÁÍÅÔÒÏ×"
+
+#: ../src/msw/mimetype.cpp:671
+msgid ""
+"Do you want to overwrite the command used to %s files with extension \"%s"
+"\" ?\n"
+"Current value is \n"
+"%s, \n"
+"New value is \n"
+"%s %1"
+msgstr ""
+"÷Ù ÈÏÔÉÔÅ ÐÅÒÅÐÉÓÁÔØ ËÏÍÁÎÄÕ, ÉÓÐÏÌØÚÕÅÍÕÀ ÄÌÑ %s ÆÁÊÌÏ× Ó ÒÁÓÛÉÒÅÎÉÅÍ \"%s"
+"\" ?\n"
+"ôÅËÕÝÅÅ ÚÎÁÞÅÎÉÅ \n"
+"%s, \n"
+"îÏ×ÏÅ ÚÎÁÞÅÎÉÅ \n"
+"%s %1"
+
+#: ../src/common/docview.cpp:464
+#, c-format
+msgid "Do you want to save changes to document %s?"
+msgstr "÷Ù ÈÏÔÉÔÅ ÓÏÈÒÁÎÉÔØ ÉÚÍÅÎÅÎÉÑ × ÄÏËÕÍÅÎÔÅ %s?"
+
+#: ../src/common/sizer.cpp:1839
+msgid "Don't Save"
+msgstr "îÅ ÓÏÈÒÁÎÑÔØ"
+
+#: ../src/html/htmlwin.cpp:451 ../src/msw/frame.cpp:211
+msgid "Done"
+msgstr "çÏÔÏ×Ï"
+
+#: ../src/generic/progdlgg.cpp:433
+msgid "Done."
+msgstr "çÏÔÏ×Ï."
+
+#: ../src/common/paper.cpp:183
+msgid "Double Japanese Postcard Rotated 148 x 200 mm"
+msgstr ""
+
+#: ../src/common/xtixml.cpp:271
+#, c-format
+msgid "Doubly used id : %d"
+msgstr "ðÏ×ÔÏÒÎÏ ÉÓÐÏÌØÚÕÅÍÙÊ ÉÄÅÎÔÉÆÉËÁÔÏÒ : %d"
+
+#: ../src/generic/fdrepdlg.cpp:158
+msgid "Down"
+msgstr "÷ÎÉÚ"
+
+#: ../src/common/paper.cpp:107
+msgid "E sheet, 34 x 44 in"
+msgstr "ìÉÓÔ E, 34 x 44 ÄÀÊÍÁ"
+
+#: ../contrib/src/gizmos/editlbox.cpp:158
+msgid "Edit item"
+msgstr "òÅÄÁËÔÉÒÏ×ÁÔØ ÜÌÅÍÅÎÔ"
+
+#: ../src/generic/progdlgg.cpp:194
+msgid "Elapsed time : "
+msgstr "úÁÔÒÁÞÅÎÎÏÅ ×ÒÅÍÑ : "
+
+#: ../src/common/prntbase.cpp:846
+#, c-format
+msgid "Enter a page number between %d and %d:"
+msgstr "÷×ÅÄÉÔÅ ÎÏÍÅÒ ÓÔÒÁÎÉÃÙ × ÄÉÁÐÁÚÏÎÅ Ó %d ÐÏ %d:"
+
+#: ../src/generic/dbgrptg.cpp:169
+#, c-format
+msgid "Enter command to open file \"%s\":"
+msgstr "÷×ÅÄÉÔÅ ËÏÍÁÎÄÕ ÄÌÑ ÏÔËÒÙÔÉÑ ÆÁÊÌÁ \"%s\":"
+
+#: ../src/generic/helpext.cpp:443
+msgid "Entries found"
+msgstr "îÁÊÄÅÎÏ ÚÁÐÉÓÅÊ"
+
+#: ../src/common/paper.cpp:149
+#, fuzzy
+msgid "Envelope Invite 220 x 220 mm"
+msgstr "ëÏÎ×ÅÒÔ DL, 110 x 220 ÍÍ"
+
+#: ../src/common/config.cpp:384
+#, c-format
+msgid ""
+"Environment variables expansion failed: missing '%c' at position %u in '%s'."
+msgstr ""
+"ïÛÉÂËÁ ÒÁÓËÒÙÔÉÑ ÐÅÒÅÍÅÎÎÏÊ ÏËÒÕÖÅÎÉÑ: ÏÔÓÕÔÓÔ×ÕÅÔ '%c' × ÐÏÚÉÃÉÉ %u × '%s'."
+
+#: ../src/generic/dirctrlg.cpp:689 ../src/generic/dirctrlg.cpp:707
+#: ../src/generic/dirctrlg.cpp:718 ../src/generic/dirdlgg.cpp:342
+#: ../src/generic/filedlgg.cpp:632 ../src/generic/filedlgg.cpp:744
+#: ../src/generic/filedlgg.cpp:758 ../src/generic/filedlgg.cpp:772
+#: ../src/generic/filedlgg.cpp:1269 ../src/generic/filedlgg.cpp:1295
+#: ../src/generic/filedlgg.cpp:1325 ../src/gtk/fontdlg.cpp:81
+msgid "Error"
+msgstr "ïÛÉÂËÁ"
+
+#: ../src/msdos/utilsdos.cpp:213 ../src/unix/utilsunx.cpp:1090
+#: ../src/unix/utilsunx.cpp:1098
+msgid "Error "
+msgstr "ïÛÉÂËÁ "
+
+#: ../src/generic/dirdlgg.cpp:241
+msgid "Error creating directory"
+msgstr "ïÛÉÂËÁ ÓÏÚÄÁÎÉÑ ËÁÔÁÌÏÇÁ"
+
+#: ../src/common/imagbmp.cpp:930
+msgid "Error in reading image DIB ."
+msgstr "ïÛÉÂËÁ ÞÔÅÎÉÑ ÉÚÏÂÒÁÖÅÎÉÑ DIB."
+
+#: ../src/common/fileconf.cpp:504
+msgid "Error reading config options."
+msgstr "ïÛÉÂËÁ ÞÔÅÎÉÑ ÐÁÒÁÍÅÔÒÏ× ÎÁÓÔÒÏÊËÉ."
+
+#: ../src/common/fileconf.cpp:1050
+msgid "Error saving user configuration data."
+msgstr "ïÛÉÂËÁ ÓÏÈÒÁÎÅÎÉÑ ËÏÎÆÉÇÕÒÁÃÉÏÎÎÙÈ ÄÁÎÎÙÈ ÐÏÌØÚÏ×ÁÔÅÌÑ."
+
+#: ../src/mac/carbon/mpthread.cpp:482 ../src/mac/carbon/thread.cpp:672
+msgid "Error while waiting on semaphore"
+msgstr "ïÛÉÂËÁ ÐÒÉ ÚÁÐÉÓÉ × ÓÅÍÁÆÏÒ"
+
+#: ../src/common/log.cpp:476
+msgid "Error: "
+msgstr "ïÛÉÂËÁ: "
+
+#: ../src/common/fmapbase.cpp:106
+msgid "Esperanto (ISO-8859-3)"
+msgstr "üÓÐÅÒÁÎÔÏ (ISO-8859-3)"
+
+#: ../src/generic/progdlgg.cpp:202
+msgid "Estimated time : "
+msgstr "òÁÓÞÅÔÎÏÅ ×ÒÅÍÑ : "
+
+#: ../src/generic/dbgrptg.cpp:229
+msgid "Executable files (*.exe)|*.exe|All files (*.*)|*.*||"
+msgstr "÷ÙÐÏÌÎÑÅÍÙÅ ÆÁÊÌÙ (*.exe)|*.exe|÷ÓÅ ÆÁÊÌÙ (*.*)|*.*||"
+
+#: ../src/msw/utilsexc.cpp:753
+#, c-format
+msgid "Execution of command '%s' failed"
+msgstr "ïÛÉÂËÁ ×ÙÐÏÌÎÅÎÉÑ ËÏÍÁÎÄÙ '%s'"
+
+#: ../src/os2/utilsexc.cpp:165
+#, c-format
+msgid "Execution of command '%s' failed with error: %ul"
+msgstr "÷ÙÐÏÌÎÅÎÉÅ ËÏÍÁÎÄÙ '%s' ÚÁ×ÅÒÛÅÎÏ Ó ÏÛÉÂËÏÊ: %ul"
+
+#: ../src/common/paper.cpp:112
+msgid "Executive, 7 1/4 x 10 1/2 in"
+msgstr "Executive, 7 1/4 x 10 1/2 ÄÀÊÍÁ"
+
+#: ../contrib/src/deprecated/resource.cpp:1869
+#: ../contrib/src/deprecated/resource.cpp:1999
+#: ../contrib/src/deprecated/resource.cpp:3091
+msgid "Expected '*' while parsing resource."
+msgstr "ïÖÉÄÁÌÁÓØ '*' ×Ï ×ÒÅÍÑ ÒÁÚÂÏÒÁ ÒÅÓÕÒÓÁ."
+
+#: ../contrib/src/deprecated/resource.cpp:1886
+#: ../contrib/src/deprecated/resource.cpp:2015
+#: ../contrib/src/deprecated/resource.cpp:3108
+msgid "Expected '=' while parsing resource."
+msgstr "ïÖÉÄÁÌÏÓØ '=' ×Ï ×ÒÅÍÑ ÒÁÚÂÏÒÁ ÒÅÓÕÒÓÁ."
+
+#: ../contrib/src/deprecated/resource.cpp:1855
+#: ../contrib/src/deprecated/resource.cpp:1985
+#: ../contrib/src/deprecated/resource.cpp:3077
+msgid "Expected 'char' while parsing resource."
+msgstr "ïÖÉÄÁÌÏÓØ 'char' ×Ï ×ÒÅÍÑ ÒÁÚÂÏÒÁ ÒÅÓÕÒÓÁ."
+
+#: ../src/msw/registry.cpp:1140
+#, c-format
+msgid ""
+"Exporting registry key: file \"%s\" already exists and won't be overwritten."
+msgstr ""
+"üËÓÐÏÒÔ ËÌÀÞÁ ÒÅÅÓÔÒÁ: ÆÁÊÌ \"%s\" ÕÖÅ ÓÕÝÅÓÔ×ÕÅÔ É ÎÅ ÂÕÄÅÔ ÐÅÒÅÚÁÐÉÓÁÎ."
+
+#: ../src/common/fmapbase.cpp:143
+msgid "Extended Unix Codepage for Japanese (EUC-JP)"
+msgstr "òÁÓÛÉÒÅÎÎÁÑ ËÏÄÉÒÏ×ËÁ Unix ÄÌÑ ñÐÏÎÓËÏÇÏ (EUC-JP)"
+
+#: ../src/html/chm.cpp:710
+#, c-format
+msgid "Extraction of '%s' into '%s' failed."
+msgstr "éÚ×ÌÅÞÅÎÉÅ '%s' × '%s' ÚÁ×ÅÒÛÉÌÏÓØ Ó ÎÅÕÄÁÞÅÊ."
+
+#: ../src/msw/dialup.cpp:880
+#, c-format
+msgid "Failed to %s dialup connection: %s"
+msgstr "îÅ×ÏÚÍÏÖÎÏ %s ÕÄÁÌÅÎÎÏÅ ÐÏÄÓÏÅÄÉÎÅÎÉÅ: %s"
+
+#: ../src/unix/snglinst.cpp:274
+msgid "Failed to access lock file."
+msgstr "îÅ ÕÄÁÌÏÓØ ÏÂÒÁÔÉÔØÓÑ Ë ÆÁÊÌÕ ÂÌÏËÉÒÏ×ËÉ."
+
+#: ../src/msw/dib.cpp:563
+#, c-format
+msgid "Failed to allocated %luKb of memory for bitmap data."
+msgstr "ïÛÉÂËÁ ×ÙÄÅÌÅÎÉÑ %luëÂ ÐÁÍÑÔÉ ÄÌÑ ÄÁÎÎÙÈ ÉÚÏÂÒÁÖÅÎÉÑ."
+
+#: ../src/unix/displayx11.cpp:224
+msgid "Failed to change video mode"
+msgstr "îÅ ÕÄÁÌÏÓØ ÉÚÍÅÎÉÔØ ×ÉÄÅÏ-ÒÅÖÉÍ"
+
+#: ../src/common/debugrpt.cpp:237
+#, c-format
+msgid "Failed to clean up debug report directory \"%s\""
+msgstr "ïÛÉÂËÁ ÏÞÉÓÔËÉ ËÁÔÁÌÏÇÁ ÏÔÞÅÔÁ ÏÂ ÏÔÌÁÄËÅ \"%s\""
+
+#: ../src/common/filename.cpp:191
+msgid "Failed to close file handle"
+msgstr "îÅ ÕÄÁÌÏÓØ ÚÁËÒÙÔØ handle ÆÁÊÌÁ."
+
+#: ../src/unix/snglinst.cpp:339
+#, c-format
+msgid "Failed to close lock file '%s'"
+msgstr "ïÛÉÂËÁ ÚÁËÒÙÔÉÑ ÆÁÊÌÁ ÂÌÏËÉÒÏ×ËÉ '%s'"
+
+#: ../src/msw/clipbrd.cpp:119
+msgid "Failed to close the clipboard."
+msgstr "îÅ ÕÄÁÌÏÓØ ÚÁËÒÙÔØ ÂÕÆÅÒ ÏÂÍÅÎÁ."
+
+#: ../src/msw/dialup.cpp:820
+msgid "Failed to connect: missing username/password."
+msgstr "îÅ×ÏÚÍÏÖÎÏ ÐÏÄËÌÀÞÉÔØÓÑ: ÏÔÓÕÔÓÔ×ÕÅÔ ÉÍÑ/ÐÁÒÏÌØ."
+
+#: ../src/msw/dialup.cpp:766
+msgid "Failed to connect: no ISP to dial."
+msgstr "îÅ×ÏÚÍÏÖÎÏ ÐÏÄËÌÀÞÉÔØÓÑ: ÎÅÔ ISP ÄÌÑ ÎÁÂÏÒÁ ÎÏÍÅÒÁ."
+
+#: ../src/msw/registry.cpp:626
+#, c-format
+msgid "Failed to copy registry value '%s'"
+msgstr "îÅ×ÏÚÍÏÖÎÏ ÓËÏÐÉÒÏ×ÁÔØ ÚÎÁÞÅÎÉÅ ÒÅÅÓÔÒÁ '%s'"
+
+#: ../src/msw/registry.cpp:635
+#, c-format
+msgid "Failed to copy the contents of registry key '%s' to '%s'."
+msgstr "îÅ×ÏÚÍÏÖÎÏ ËÏÐÉÒÏ×ÁÔØ ÓÏÄÅÒÖÉÍÏÅ ËÌÀÞÁ ÒÅÅÓÔÒÁ '%s' × '%s'."
+
+#: ../src/common/filefn.cpp:1003
+#, c-format
+msgid "Failed to copy the file '%s' to '%s'"
+msgstr "óÂÏÊ ËÏÐÉÒÏ×ÁÎÉÑ ÆÁÊÌÁ '%s' × '%s'."
+
+#: ../src/msw/registry.cpp:613
+#, c-format
+msgid "Failed to copy the registry subkey '%s' to '%s'."
+msgstr "îÅ×ÏÚÍÏÖÎÏ ÓËÏÐÉÒÏ×ÁÔØ ÐÏÄËÌÀÞ ÒÅÅÓÔÒÁ '%s' × '%s."
+
+#: ../src/msw/dde.cpp:989
+msgid "Failed to create DDE string"
+msgstr "ïÛÉÂËÁ ÓÏÚÄÁÎÉÑ ÓÔÒÏËÉ DDE"
+
+#: ../src/msw/mdi.cpp:473
+msgid "Failed to create MDI parent frame."
+msgstr "ïÛÉÂËÁ ÓÏÚÄÁÎÉÑ ÒÏÄÉÔÅÌØÓËÏÇÏ ÆÒÅÊÍÁ MDI."
+
+#: ../src/msw/statbr95.cpp:112
+msgid "Failed to create a status bar."
+msgstr "ïÛÉÂËÁ ÓÏÚÄÁÎÉÑ ÓÔÁÔÕÓÎÏÊ ÓÔÒÏËÉ."
+
+#: ../src/common/filename.cpp:766
+msgid "Failed to create a temporary file name"
+msgstr "óÂÏÊ ÆÏÒÍÉÒÏ×ÁÎÉÑ ÉÍÅÎÉ ×ÒÅÍÅÎÎÏÇÏ ÆÁÊÌÁ"
+
+#: ../src/msw/utilsexc.cpp:227
+msgid "Failed to create an anonymous pipe"
+msgstr "ïÛÉÂËÁ ÐÒÉ ÓÏÚÄÁÎÉÉ anonymous pipe"
+
+#: ../src/msw/dde.cpp:447
+#, c-format
+msgid "Failed to create connection to server '%s' on topic '%s'"
+msgstr "îÅ×ÏÚÍÏÖÎÏ ÓÏÚÄÁÔØ ÐÏÄËÌÀÞÅÎÉÅ Ë ÓÅÒ×ÅÒÕ '%s' ÐÏ ÔÅÍÅ '%s'"
+
+#: ../src/msw/cursor.cpp:218
+msgid "Failed to create cursor."
+msgstr "ïÛÉÂËÁ ÓÏÚÄÁÎÉÑ ËÕÒÓÏÒÁ."
+
+#: ../src/common/debugrpt.cpp:202
+#, c-format
+msgid "Failed to create directory \"%s\""
+msgstr "ïÛÉÂËÁ ÓÏÚÄÁÎÉÑ ËÁÔÁÌÏÇÁ \"%s\""
+
+#: ../src/unix/mimetype.cpp:370
+#, c-format
+msgid "Failed to create directory %s/.gnome."
+msgstr "ïÛÉÂËÁ ÓÏÚÄÁÎÉÑ ËÁÔÁÌÏÇÁ %s/.gnome."
+
+#: ../src/unix/mimetype.cpp:379
+#, c-format
+msgid "Failed to create directory %s/mime-info."
+msgstr "ïÛÉÂËÁ ÓÏÚÄÁÎÉÑ %s/mime-info."
+
+#: ../src/generic/dirdlgg.cpp:239
+#, c-format
+msgid ""
+"Failed to create directory '%s'\n"
+"(Do you have the required permissions?)"
+msgstr ""
+"ïÛÉÂËÁ ÓÏÚÄÁÎÉÑ ËÁÔÁÌÏÇÁ '%s'\n"
+"(õ ×ÁÓ ÅÓÔØ ÎÅÏÂÈÏÄÉÍÙÅ ÒÁÚÒÅÛÅÎÉÑ?)"
+
+#: ../src/msw/mimetype.cpp:193
+#, c-format
+msgid "Failed to create registry entry for '%s' files."
+msgstr "îÅ×ÏÚÍÏÖÎÏ ÓÏÚÄÁÔØ ÜÌÅÍÅÎÔ ÒÅÅÓÔÒÁ ÄÌÑ '%s' ÆÁÊÌÏ×."
+
+#: ../src/msw/fdrepdlg.cpp:474
+#, c-format
+msgid "Failed to create the standard find/replace dialog (error code %d)"
+msgstr "îÅ×ÏÚÍÏÖÎÏ ÓÏÚÄÁÔØ ÓÔÁÎÄÁÒÔÎÙÊ ÄÉÁÌÏÇ ÐÏÉÓËÁ/ÚÁÍÅÎÙ (ËÏÄ ÏÛÉÂËÉ %d)"
+
+#: ../src/html/winpars.cpp:549
+#, c-format
+msgid "Failed to display HTML document in %s encoding"
+msgstr "îÅ ÕÄÁÌÏÓØ ÏÔÏÂÒÁÚÉÔØ ÄÏËÕÍÅÎÔ HTML × ËÏÄÉÒÏ×ËÅ %s"
+
+#: ../src/mac/carbon/clipbrd.cpp:194 ../src/mac/classic/clipbrd.cpp:185
+#: ../src/msw/clipbrd.cpp:131
+msgid "Failed to empty the clipboard."
+msgstr "îÅ ÕÄÁÌÏÓØ ÏÞÉÓÔÉÔØ ÂÕÆÅÒ ÏÂÍÅÎÁ."
+
+#: ../src/unix/displayx11.cpp:201
+msgid "Failed to enumerate video modes"
+msgstr "îÅ×ÏÚÍÏÖÎÏ ÐÅÒÅÓÞÉÔÁÔØ ×ÉÄÅÏ-ÒÅÖÉÍÙ"
+
+#: ../src/msw/dde.cpp:650
+msgid "Failed to establish an advise loop with DDE server"
+msgstr "îÅ×ÏÚÍÏÖÎÏ ÕÓÔÁÎÏ×ÉÔØ 'advise loop' Ó DDE ÓÅÒ×ÅÒÏÍ"
+
+#: ../src/msw/dialup.cpp:658
+#, c-format
+msgid "Failed to establish dialup connection: %s"
+msgstr "îÅ×ÏÚÍÏÖÎÏ ÕÓÔÁÎÏ×ÉÔØ ÍÏÄÅÍÎÏÅ ÓÏÅÄÉÎÅÎÉÅ: %s"
+
+#: ../src/unix/utilsunx.cpp:508 ../src/unix/utilsunx.cpp:524
+#, c-format
+msgid "Failed to execute '%s'\n"
+msgstr "îÅ ÕÄÁÌÏÓØ ×ÙÐÏÌÎÉÔØ '%s'\n"
+
+#: ../src/common/debugrpt.cpp:666
+msgid "Failed to execute curl, please install it in PATH."
+msgstr "îÅ×ÏÚÍÏÖÎÏ ×ÙÐÏÌÎÉÔØ curl, ÐÏÖÁÌÕÊÓÔÁ, ÕÓÔÁÎÏ×ÉÔÅ ÅÇÏ × PATH."
+
+#: ../contrib/src/deprecated/resource.cpp:2489
+#, c-format
+msgid ""
+"Failed to find XBM resource %s.\n"
+"Forgot to use wxResourceLoadBitmapData?"
+msgstr ""
+"îÅ×ÏÚÍÏÖÎÏ ÎÁÊÔÉ XBM ÒÅÓÕÒÓ %s.\n"
+"úÁÂÙÌÉ ÉÓÐÏÌØÚÏ×ÁÔØ wxResourceLoadBitmapData?"
+
+#: ../contrib/src/deprecated/resource.cpp:2643
+#, c-format
+msgid ""
+"Failed to find XBM resource %s.\n"
+"Forgot to use wxResourceLoadIconData?"
+msgstr ""
+"îÅ×ÏÚÍÏÖÎÏ ÎÁÊÔÉ XBM ÒÅÓÕÒÓ %s.\n"
+"úÁÂÙÌÉ ÉÓÐÏÌØÚÏ×ÁÔØ wxResourceLoadIconData?"
+
+#: ../contrib/src/deprecated/resource.cpp:2504
+#, c-format
+msgid ""
+"Failed to find XPM resource %s.\n"
+"Forgot to use wxResourceLoadBitmapData?"
+msgstr ""
+"îÅ×ÏÚÍÏÖÎÏ ÎÁÊÔÉ XPM ÒÅÓÕÒÓ %s.\n"
+"úÁÂÙÌÉ ÉÓÐÏÌØÚÏ×ÁÔØ wxResourceLoadBitmapData?"
+
+#: ../src/msw/dialup.cpp:718
+#, c-format
+msgid "Failed to get ISP names: %s"
+msgstr "îÅ ÕÄÁÌÏÓØ ÐÏÌÕÞÉÔØ ÉÍÅÎÁ ISP: %s"
+
+#: ../src/mac/carbon/clipbrd.cpp:143 ../src/mac/classic/clipbrd.cpp:134
+msgid "Failed to get clipboard data."
+msgstr "îÅ ÕÄÁÌÏÓØ ÐÏÌÕÞÉÔØ ÄÁÎÎÙÅ ÂÕÆÅÒÁ ÏÂÍÅÎÁ."
+
+#: ../src/msw/clipbrd.cpp:723
+msgid "Failed to get data from the clipboard"
+msgstr "îÅ ÕÄÁÌÏÓØ ÐÏÌÕÞÉÔØ ÄÁÎÎÙÅ ÉÚ ÂÕÆÅÒÁ ÏÂÍÅÎÁ."
+
+#: ../src/common/stopwatch.cpp:233
+msgid "Failed to get the local system time"
+msgstr "îÅ ÕÄÁÌÏÓØ ÐÏÌÕÞÉÔØ ÌÏËÁÌØÎÏÅ ÓÉÓÔÅÍÎÏÅ ×ÒÅÍÑ"
+
+#: ../src/common/filefn.cpp:1430
+msgid "Failed to get the working directory"
+msgstr "îÅ ÕÄÁÌÏÓØ ÐÏÌÕÞÉÔØ ÒÁÂÏÞÉÊ ËÁÔÁÌÏÇ"
+
+#: ../src/univ/theme.cpp:122
+msgid "Failed to initialize GUI: no built-in themes found."
+msgstr "ïÛÉÂËÁ ÐÒÉ ÉÎÉÃÉÁÌÉÚÁÃÉÉ GUI: ÎÅ ÎÁÊÄÅÎÏ ×ÓÔÒÏÅÎÎÙÈ ÔÅÍ."
+
+#: ../src/msw/helpchm.cpp:69
+msgid "Failed to initialize MS HTML Help."
+msgstr "ïÛÉÂËÁ ÉÎÉÃÉÁÌÉÚÁÃÉÉ ÓÐÒÁ×ËÉ MS HTML."
+
+#: ../src/msw/glcanvas.cpp:809
+msgid "Failed to initialize OpenGL"
+msgstr "îÅ×ÏÚÍÏÖÎÏ ÉÎÉÃÉÁÌÉÚÉÒÏ×ÁÔØ OpenGL"
+
+#: ../src/unix/snglinst.cpp:246
+#, c-format
+msgid "Failed to inspect the lock file '%s'"
+msgstr "ïÛÉÂËÁ ÐÒÏ×ÅÒËÉ ÆÁÊÌÁ ÂÌÏËÉÒÏ×ËÉ '%s'"
+
+#: ../src/unix/threadpsx.cpp:897
+msgid ""
+"Failed to join a thread, potential memory leak detected - please restart the "
+"program"
+msgstr ""
+"îÅ ÕÄÁÌÏÓØ ÓÏÅÄÉÎÉÔØÓÑ Ó ÐÏÔÏËÏÍ, ÏÂÎÁÒÕÖÅÎÁ ÐÏÔÅÎÃÉÁÌØÎÁÑ ÕÔÅÞËÁ ÐÁÍÑÔÉ - "
+"ÐÏÖÁÌÕÊÓÔÁ, ÐÅÒÅÚÁÐÕÓÔÉÔÅ ÐÒÏÇÒÁÍÍÕ"
+
+#: ../src/msw/utils.cpp:703
+#, c-format
+msgid "Failed to kill process %d"
+msgstr "îÅ ÕÄÁÌÏÓØ ÚÁ×ÅÒÛÉÔØ ÐÒÏÃÅÓÓ %d"
+
+#: ../src/common/iconbndl.cpp:72
+#, c-format
+msgid "Failed to load image %d from file '%s'."
+msgstr "îÅ×ÏÚÍÏÖÎÏ ÚÁÇÒÕÚÉÔØ ÉÚÏÂÒÁÖÅÎÉÅ %d ÉÚ ÆÁÊÌÁ '%s'."
+
+#: ../src/msw/enhmeta.cpp:84
+#, c-format
+msgid "Failed to load metafile from file \"%s\"."
+msgstr "îÅ×ÏÚÍÏÖÎÏ ÚÁÇÒÕÚÉÔØ ÍÅÔÁÆÁÊÌ ÉÚ ÆÁÊÌÁ \"%s\"."
+
+#: ../src/msw/volume.cpp:312
+msgid "Failed to load mpr.dll."
+msgstr "îÅ×ÏÚÍÏÖÎÏ ÚÁÇÒÕÚÉÔØ mpr.dll."
+
+#: ../src/common/dynlib.cpp:133
+#, c-format
+msgid "Failed to load shared library '%s'"
+msgstr "ïÛÉÂËÁ ÚÁÇÒÕÚËÉ ÒÁÚÄÅÌÑÅÍÏÊ ÂÉÂÌÉÏÔÅËÉ '%s'"
+
+#: ../src/common/dynlib.cpp:115
+#, c-format
+msgid "Failed to load shared library '%s' Error '%s'"
+msgstr "ïÛÉÂËÁ ÚÁÇÒÕÚËÉ ÒÁÚÄÅÌÑÅÍÏÊ ÂÉÂÌÉÏÔÅËÉ '%s' ïÛÉÂËÁ '%s'"
+
+#: ../src/unix/snglinst.cpp:203
+#, c-format
+msgid "Failed to lock the lock file '%s'"
+msgstr "ïÛÉÂËÁ ÂÌÏËÉÒÏ×ËÉ ÆÁÊÌÁ ÂÌÏËÉÒÏ×ËÉ '%s'"
+
+#: ../src/common/regex.cpp:300
+#, c-format
+msgid "Failed to match '%s' in regular expression: %s"
+msgstr "îÅ×ÏÚÍÏÖÎÏ ÎÁÊÔÉ ÓÏÏÔ×ÅÔÓÔ×ÉÅ '%s' × ÒÅÇÕÌÑÒÎÏÍ ×ÙÒÁÖÅÎÉÉ: %s"
+
+#: ../src/common/filename.cpp:1918
+#, c-format
+msgid "Failed to modify file times for '%s'"
+msgstr "ïÛÉÂËÁ ÉÚÍÅÎÅÎÉÑ ×ÒÅÍÅÎÉ ÆÁÊÌÁ '%s'"
+
+#: ../src/common/filename.cpp:179
+#, c-format
+msgid "Failed to open '%s' for %s"
+msgstr "îÅ ÕÄÁÌÏÓØ ÏÔËÒÙÔØ '%s' ÄÌÑ %s"
+
+#: ../src/html/chm.cpp:142
+#, c-format
+msgid "Failed to open CHM archive '%s'."
+msgstr "îÅ ÕÄÁÌÏÓØ ÏÔËÒÙÔØ ÁÒÈÉ× CHM '%s'."
+
+#: ../src/common/filename.cpp:788
+msgid "Failed to open temporary file."
+msgstr "îÅ ÕÄÁÌÏÓØ ÏÔËÒÙÔØ ×ÒÅÍÅÎÎÙÊ ÆÁÊÌ."
+
+#: ../src/msw/clipbrd.cpp:99
+msgid "Failed to open the clipboard."
+msgstr "îÅ ÕÄÁÌÏÓØ ÏÔËÒÙÔØ ÂÕÆÅÒ ÏÂÍÅÎÁ."
+
+#: ../src/msw/clipbrd.cpp:626
+msgid "Failed to put data on the clipboard"
+msgstr "îÅ ÕÄÁÌÏÓØ ÐÏÍÅÓÔÉÔØ ÄÁÎÎÙÅ × ÂÕÆÅÒ ÏÂÍÅÎÁ."
+
+#: ../src/unix/snglinst.cpp:283
+msgid "Failed to read PID from lock file."
+msgstr "îÅ ÕÄÁÌÏÓØ ÐÒÏÞÉÔÁÔØ PID ÉÚ ÆÁÊÌÁ ÂÌÏËÉÒÏ×ËÉ."
+
+#: ../src/unix/utilsunx.cpp:598
+msgid "Failed to redirect child process input/output"
+msgstr "îÅ ÕÄÁÌÏÓØ ÐÅÒÅÎÁÐÒÁ×ÉÔØ ××ÏÄ/×Ù×ÏÄ ÐÏÒÏÖÄÅÎÎÏÇÏ ÐÒÏÃÅÓÓÁ"
+
+#: ../src/msw/utilsexc.cpp:653
+msgid "Failed to redirect the child process IO"
+msgstr "îÅ ÕÄÁÌÏÓØ ÐÅÒÅÎÁÐÒÁ×ÉÔØ ××ÏÄ/×Ù×ÏÄ ÐÏÒÏÖÄÅÎÎÏÇÏ ÐÒÏÃÅÓÓÁ"
+
+#: ../src/msw/dde.cpp:297
+#, c-format
+msgid "Failed to register DDE server '%s'"
+msgstr "îÅ ÕÄÁÌÏÓØ ÚÁÒÅÇÉÓÔÒÉÒÏ×ÁÔØ ÓÅÒ×ÅÒ DDE '%s'"
+
+#: ../src/msw/glcanvas.cpp:363
+msgid "Failed to register OpenGL window class."
+msgstr "îÅ ÕÄÁÌÏÓØ ÚÁÒÅÇÉÓÔÒÉÒÏ×ÁÔØ ËÌÁÓÓ ÏËÎÁ OpenGL."
+
+#: ../src/common/fontmap.cpp:246
+#, c-format
+msgid "Failed to remember the encoding for the charset '%s'."
+msgstr "îÅ ÕÄÁÌÏÓØ ÚÁÐÏÍÎÉÔØ ËÏÄÉÒÏ×ËÕ ÄÌÑ ÎÁÂÏÒÁ ÓÉÍ×ÏÌÏ× '%s'."
+
+#: ../src/common/debugrpt.cpp:220
+#, c-format
+msgid "Failed to remove debug report file \"%s\""
+msgstr "îÅ ÕÄÁÌÏÓØ ÕÄÁÌÉÔØ ÆÁÊÌ ÏÔÞÅÔÁ ÏÂ ÏÔÌÁÄËÅ \"%s\""
+
+#: ../src/unix/snglinst.cpp:327
+#, c-format
+msgid "Failed to remove lock file '%s'"
+msgstr "ïÛÉÂËÁ ÕÄÁÌÅÎÉÑ ÆÁÊÌÁ ÂÌÏËÉÒÏ×ËÉ '%s'"
+
+#: ../src/unix/snglinst.cpp:293
+#, c-format
+msgid "Failed to remove stale lock file '%s'."
+msgstr "îÅ ÕÄÁÌÏÓØ ÕÄÁÌÉÔØ ÕÓÔÁÒÅ×ÛÉÊ ÆÁÊÌ ÂÌÏËÉÒÏ×ËÉ '%s'."
+
+#: ../src/msw/registry.cpp:464
+#, c-format
+msgid "Failed to rename registry value '%s' to '%s'."
+msgstr "îÅ×ÏÚÍÏÖÎÏ ÐÅÒÅÉÍÅÎÏ×ÁÔØ ÚÎÁÞÅÎÉÅ ÒÅÅÓÔÒÁ ÉÚ '%s' × '%s'."
+
+#: ../src/msw/registry.cpp:568
+#, c-format
+msgid "Failed to rename the registry key '%s' to '%s'."
+msgstr "îÅ×ÏÚÍÏÖÎÏ ÐÅÒÅÉÍÅÎÏ×ÁÔØ ËÌÀÞ ÒÅÅÓÔÒÁ ÉÚ '%s' × '%s'."
+
+#: ../src/msw/clipbrd.cpp:503
+msgid "Failed to retrieve data from the clipboard."
+msgstr "îÅ ÕÄÁÌÏÓØ ÉÚ×ÌÅÞØ ÄÁÎÎÙÅ ÉÚ ÂÕÆÅÒÁ ÏÂÍÅÎÁ."
+
+#: ../src/common/filename.cpp:2011
+#, c-format
+msgid "Failed to retrieve file times for '%s'"
+msgstr "îÅ ÕÄÁÌÏÓØ ÉÚ×ÌÅÞØ ×ÒÅÍÑ ÆÁÊÌÁ '%s'"
+
+#: ../src/msw/dialup.cpp:491
+msgid "Failed to retrieve text of RAS error message"
+msgstr "îÅ ÕÄÁÌÏÓØ ÐÏÌÕÞÉÔØ ÔÅËÓÔ ÓÏÏÂÝÅÎÉÑ ÏÂ ÏÛÉÂËÅ RAS"
+
+#: ../src/msw/clipbrd.cpp:760
+msgid "Failed to retrieve the supported clipboard formats"
+msgstr "îÅ ÕÄÁÌÏÓØ ÎÁÊÔÉ ÆÏÒÍÁÔÙ, ÐÏÄÄÅÒÖÉ×ÁÅÍÙÅ ÂÕÆÅÒÏÍ ÏÂÍÅÎÁ"
+
+#: ../src/msw/dib.cpp:341
+#, c-format
+msgid "Failed to save the bitmap image to file \"%s\"."
+msgstr "îÅ×ÏÚÍÏÖÎÏ ÓÏÈÒÁÎÉÔØ ÉÚÏÂÒÁÖÅÎÉÅ × ÆÁÊÌ \"%s\"."
+
+#: ../src/msw/dde.cpp:695
+msgid "Failed to send DDE advise notification"
+msgstr "îÅ×ÏÚÍÏÖÎÏ ÐÏÓÌÁÔØ advise Õ×ÅÄÏÍÌÅÎÉÅ DDE"
+
+#: ../src/common/ftp.cpp:384
+#, c-format
+msgid "Failed to set FTP transfer mode to %s."
+msgstr "îÅ ÕÄÁÌÏÓØ ÕÓÔÁÎÏ×ÉÔØ ÒÅÖÉÍ ÐÅÒÅÄÁÞÉ FTP × %s."
+
+#: ../src/msw/clipbrd.cpp:379
+msgid "Failed to set clipboard data."
+msgstr "îÅ ÕÄÁÌÏÓØ ÕÓÔÁÎÏ×ÉÔØ ÄÁÎÎÙÅ ÂÕÆÅÒÁ ÏÂÍÅÎÁ."
+
+#: ../src/unix/snglinst.cpp:186
+#, c-format
+msgid "Failed to set permissions on lock file '%s'"
+msgstr "îÅ×ÏÚÍÏÖÎÏ ÕÓÔÁÎÏ×ÉÔØ ÒÁÚÒÅÛÅÎÉÑ ÆÁÊÌÕ ÂÌÏËÉÒÏ×ËÉ '%s'"
+
+#: ../src/common/file.cpp:523
+msgid "Failed to set temporary file permissions"
+msgstr "îÅ×ÏÚÍÏÖÎÏ ÕÓÔÁÎÏ×ÉÔØ ÒÁÚÒÅÛÅÎÉÑ ×ÒÅÍÅÎÎÏÍÕ ÆÁÊÌÕ"
+
+#: ../src/unix/threadpsx.cpp:1245 ../src/unix/threadpsx.cpp:1256
+#, c-format
+msgid "Failed to set thread priority %d."
+msgstr "îÅ ÕÄÁÌÏÓØ ÕÓÔÁÎÏ×ÉÔØ ÐÒÉÏÒÉÔÅÔ ÐÏÔÏËÁ %d."
+
+#: ../src/common/fs_mem.cpp:231
+#, c-format
+msgid "Failed to store image '%s' to memory VFS!"
+msgstr "îÅ ÕÄÁÌÏÓØ ÓÏÈÒÁÎÉÔØ ÉÚÏÂÒÁÖÅÎÉÅ '%s' × ÐÁÍÑÔÉ VFS!"
+
+#: ../src/mac/carbon/mpthread.cpp:1273 ../src/mac/carbon/thread.cpp:1465
+#: ../src/unix/threadpsx.cpp:1429
+msgid "Failed to terminate a thread."
+msgstr "îÅ ÕÄÁÌÏÓØ ÚÁ×ÅÒÛÉÔØ ÐÏÔÏË."
+
+#: ../src/msw/dde.cpp:669
+msgid "Failed to terminate the advise loop with DDE server"
+msgstr "îÅ ÕÄÁÌÏÓØ ÚÁ×ÅÒÛÉÔØ 'advise loop' Õ DDE ÓÅÒ×ÅÒÁ."
+
+#: ../src/msw/dialup.cpp:955
+#, c-format
+msgid "Failed to terminate the dialup connection: %s"
+msgstr "îÅ ÕÄÁÌÏÓØ ÚÁ×ÅÒÛÉÔØ ÍÏÄÅÍÎÏÅ ÐÏÄËÌÀÞÅÎÉÅ: %s"
+
+#: ../src/common/filename.cpp:1933
+#, c-format
+msgid "Failed to touch the file '%s'"
+msgstr "îÅ ÕÄÁÌÏÓØ ÏÔËÒÙÔØ ÆÁÊÌ '%s'"
+
+#: ../src/unix/snglinst.cpp:333
+#, c-format
+msgid "Failed to unlock lock file '%s'"
+msgstr "îÅ ÕÄÁÌÏÓØ ÒÁÚÂÌÏËÉÒÏ×ÁÔØ ÆÁÊÌ ÂÌÏËÉÒÏ×ËÉ '%s'"
+
+#: ../src/msw/dde.cpp:318
+#, c-format
+msgid "Failed to unregister DDE server '%s'"
+msgstr "îÅ ÕÄÁÌÏÓØ ÏÔÍÅÎÉÔØ ÒÅÇÉÓÔÒÁÃÉÀ DDE ÓÅÒ×ÅÒÁ '%s'"
+
+#: ../src/common/fileconf.cpp:1023
+msgid "Failed to update user configuration file."
+msgstr "îÅ ÕÄÁÌÏÓØ ÏÂÎÏ×ÉÔØ ÐÏÌØÚÏ×ÁÔÅÌØÓËÉÊ ÆÁÊÌ ËÏÎÆÉÇÕÒÁÃÉÉ."
+
+#: ../src/common/debugrpt.cpp:679
+#, c-format
+msgid "Failed to upload the debug report (error code %d)."
+msgstr "îÅ ÕÄÁÌÏÓØ ÏÔÐÒÁ×ÉÔØ ÏÔÞÅÔ ÏÂ ÏÔÌÁÄËÅ (ËÏÄ ÏÛÉÂËÉ %d)."
+
+#: ../src/unix/snglinst.cpp:173
+#, c-format
+msgid "Failed to write to lock file '%s'"
+msgstr "îÅ ÕÄÁÌÏÓØ ÚÁÐÉÓÁÔØ ÆÁÊÌ ÂÌÏËÉÒÏ×ËÉ '%s'"
+
+#: ../src/generic/logg.cpp:394
+msgid "Fatal error"
+msgstr "ëÒÉÔÉÞÅÓËÁÑ ÏÛÉÂËÁ"
+
+#: ../src/common/log.cpp:465
+msgid "Fatal error: "
+msgstr "ëÒÉÔÉÞÅÓËÁÑ ÏÛÉÂËÁ: "
+
+#: ../src/msw/wince/filedlgwce.cpp:120
+msgid "File"
+msgstr "æÁÊÌ"
+
+#: ../src/mgl/bitmap.cpp:544
+#, c-format
+msgid "File %s does not exist."
+msgstr "æÁÊÌ %s ÎÅ ÓÕÝÅÓÔ×ÕÅÔ."
+
+#: ../src/generic/filedlgg.cpp:1316 ../src/gtk/filedlg.cpp:64
+#, c-format
+msgid "File '%s' already exists, do you really want to overwrite it?"
+msgstr "æÁÊÌ '%s' ÕÖÅ ÓÕÝÅÓÔ×ÕÅÔ, ×Ù ÄÅÊÓÔ×ÉÔÅÌØÎÏ ÈÏÔÉÔÅ ÅÇÏ ÐÅÒÅÐÉÓÁÔØ?"
+
+#: ../src/os2/filedlg.cpp:310
+#, c-format
+msgid ""
+"File '%s' already exists.\n"
+"Do you want to replace it?"
+msgstr ""
+"æÁÊÌ '%s' ÕÖÅ ÓÕÝÅÓÔ×ÕÅÔ.\n"
+"÷Ù ÄÅÊÓÔ×ÉÔÅÌØÎÏ ÈÏÔÉÔÅ ÅÇÏ ÚÁÍÅÎÉÔØ?"
+
+#: ../src/common/textcmn.cpp:215
+msgid "File couldn't be loaded."
+msgstr "æÁÊÌ ÎÅ ÍÏÖÅÔ ÂÙÔØ ÚÁÇÒÕÖÅÎ."
+
+#: ../src/common/docview.cpp:571 ../src/common/docview.cpp:1596
+msgid "File error"
+msgstr "ïÛÉÂËÁ ÆÁÊÌÁ"
+
+#: ../src/generic/dirctrlg.cpp:707 ../src/generic/filedlgg.cpp:758
+msgid "File name exists already."
+msgstr "éÍÑ ÆÁÊÌÁ ÕÖÅ ÓÕÝÅÓÔ×ÕÅÔ."
+
+#: ../src/motif/filedlg.cpp:226
+#, fuzzy
+msgid "Files"
+msgstr "æÁÊÌ"
+
+#: ../src/common/filefn.cpp:1746
+#, c-format
+msgid "Files (%s)"
+msgstr "æÁÊÌÙ (%s)"
+
+#: ../src/motif/filedlg.cpp:224
+#, fuzzy
+msgid "Filter"
+msgstr "æÁÊÌ"
+
+#: ../src/html/helpfrm.cpp:491
+msgid "Find"
+msgstr "îÁÊÔÉ"
+
+#: ../src/html/helpfrm.cpp:1219
+msgid "Fixed font:"
+msgstr "æÉËÓÉÒÏ×ÁÎÎÙÊ ÛÒÉÆÔ:"
+
+#: ../src/html/helpfrm.cpp:1279
+msgid "Fixed size face.<br> <b>bold</b> <i>italic</i> "
+msgstr "ûÒÉÆÔ Ó ÆÉËÓÉÒÏ×ÁÎÎÙÍ ÒÁÚÍÅÒÏÍ.<br> <b>ÖÉÒÎÙÊ</b> <i>ËÕÒÓÉ×</i> "
+
+#: ../src/common/paper.cpp:118
+msgid "Folio, 8 1/2 x 13 in"
+msgstr "Folio, 8 1/2 x 13 ÄÀÊÍÁ"
+
+#: ../src/html/helpfrm.cpp:1220
+msgid "Font size:"
+msgstr "òÁÚÍÅÒ ÛÒÉÆÔÁ:"
+
+#: ../src/unix/utilsunx.cpp:545
+msgid "Fork failed"
+msgstr "îÅÕÄÁÞÎÙÊ fork"
+
+#: ../src/common/xtixml.cpp:235
+msgid "Forward hrefs are not supported"
+msgstr "ðÅÒÅËÒÅÓÔÎÙÅ ÓÓÙÌËÉ ÎÅ ÐÏÄÄÅÒÖÉ×ÁÀÔÓÑ"
+
+#: ../contrib/src/deprecated/resource.cpp:1838
+#: ../contrib/src/deprecated/resource.cpp:1968
+#: ../contrib/src/deprecated/resource.cpp:3060
+msgid "Found "
+msgstr "îÁÊÄÅÎÏ "
+
+#: ../src/html/helpfrm.cpp:886
+#, c-format
+msgid "Found %i matches"
+msgstr "îÁÊÄÅÎÏ %i ÓÏÏÔ×ÅÔÓÔ×ÉÊ"
+
+#: ../src/generic/prntdlgg.cpp:233
+msgid "From:"
+msgstr "ïÔ:"
+
+#: ../src/common/imaggif.cpp:100
+msgid "GIF: Invalid gif index."
+msgstr "GIF: îÅ×ÅÒÎÙÊ ÉÎÄÅËÓ gif."
+
+#: ../src/common/imaggif.cpp:75
+msgid "GIF: data stream seems to be truncated."
+msgstr "GIF: ÐÏÔÏË ÄÁÎÎÙÈ, ÐÏÈÏÖÅ, ÕËÏÒÏÞÅÎ."
+
+#: ../src/common/imaggif.cpp:59
+msgid "GIF: error in GIF image format."
+msgstr "GIF: ÏÛÉÂËÁ × ÆÏÒÍÁÔÅ ÉÚÏÂÒÁÖÅÎÉÑ GIF."
+
+#: ../src/common/imaggif.cpp:62
+msgid "GIF: not enough memory."
+msgstr "GIF: ÎÅÄÏÓÔÁÔÏÞÎÏ ÐÁÍÑÔÉ."
+
+#: ../src/common/imaggif.cpp:65
+msgid "GIF: unknown error!!!"
+msgstr "GIF: ÎÅÉÚ×ÅÓÔÎÁÑ ÏÛÉÂËÁ!!!"
+
+#: ../src/univ/themes/gtk.cpp:634
+msgid "GTK+ theme"
+msgstr "ôÅÍÁ GTK+"
+
+#: ../src/common/prntbase.cpp:228
+msgid "Generic PostScript"
+msgstr "ïÂÝÉÊ PostScript"
+
+#: ../src/common/paper.cpp:142
+msgid "German Legal Fanfold, 8 1/2 x 13 in"
+msgstr "German Legal Fanfold, 8 1/2 x 13 ÄÀÊÍÁ"
+
+#: ../src/common/paper.cpp:141
+msgid "German Std Fanfold, 8 1/2 x 12 in"
+msgstr "German Std Fanfold, 8 1/2 x 12 ÄÀÊÍÁ"
+
+#: ../include/wx/xti.h:845
+msgid "GetProperty called w/o valid getter"
+msgstr "GetProperty ×ÙÚ×ÁÎ ÂÅÚ ÐÒÁ×ÉÌØÎÏÇÏ getter"
+
+#: ../include/wx/xti.h:906
+msgid "GetPropertyCollection called on a generic accessor"
+msgstr "GetPropertyCollection ×ÙÚ×ÁÎ ÉÚ ÏÂÝÅÇÏ ÎÁÓÌÅÄÎÉËÁ"
+
+#: ../include/wx/xti.h:853
+msgid "GetPropertyCollection called w/o valid collection getter"
+msgstr "GetPropertyCollection ×ÙÚ×ÁÎ ÂÅÚ ÐÒÁ×ÉÌØÎÏÇÏ getter ËÏÌÌÅËÃÉÉ"
+
+#: ../src/html/helpfrm.cpp:651
+msgid "Go back"
+msgstr "ðÅÒÅÊÔÉ ÎÁÚÁÄ"
+
+#: ../src/html/helpfrm.cpp:654
+msgid "Go forward"
+msgstr "ðÅÒÅÊÔÉ ×ÐÅÒÅÄ"
+
+#: ../src/html/helpfrm.cpp:659
+msgid "Go one level up in document hierarchy"
+msgstr "éÄÔÉ ÎÁ ÏÄÉÎ ÕÒÏ×ÅÎØ ××ÅÒÈ × ÉÅÒÁÒÈÉÉ ÄÏËÕÍÅÎÔÁ"
+
+#: ../src/generic/dirdlgg.cpp:145 ../src/generic/filedlgg.cpp:989
+msgid "Go to home directory"
+msgstr "÷ ÎÁÞÁÌØÎÙÊ ËÁÔÁÌÏÇ"
+
+#: ../src/generic/filedlgg.cpp:981
+msgid "Go to parent directory"
+msgstr "ðÅÒÅÊÔÉ × ÒÏÄÉÔÅÌØÓËÉÊ ËÁÔÁÌÏÇ"
+
+#: ../src/common/prntbase.cpp:851
+msgid "Goto Page"
+msgstr "ðÅÒÅÊÔÉ Ë ÓÔÒÁÎÉÃÅ"
+
+#: ../src/common/fmapbase.cpp:110
+msgid "Greek (ISO-8859-7)"
+msgstr "çÒÅÞÅÓËÉÊ (ISO-8859-7)"
+
+#: ../src/common/zstream.cpp:72 ../src/common/zstream.cpp:209
+msgid "Gzip not supported by this version of zlib"
+msgstr "Gzip ÎÅ ÐÏÄÄÅÒÖÉ×ÁÅÔÓÑ ÜÔÏÊ ×ÅÒÓÉÅÊ zlib"
+
+#: ../src/html/helpfrm.cpp:1574
+msgid "HTML Help Project (*.hhp)|*.hhp|"
+msgstr "ðÒÏÅËÔ ÓÐÒÁ×ËÉ HTML (*.hhp)|*.hhp|"
+
+#: ../src/html/htmlwin.cpp:498
+#, c-format
+msgid "HTML anchor %s does not exist."
+msgstr "HTML-ÑËÏÒØ %s ÎÅ ÓÕÝÅÓÔ×ÕÅÔ."
+
+#: ../src/html/helpfrm.cpp:1572
+msgid "HTML files (*.html;*.htm)|*.html;*.htm|"
+msgstr "æÁÊÌÙ HTML (*.html;*.htm)|*.html;*.htm|"
+
+#: ../src/common/fmapbase.cpp:111
+msgid "Hebrew (ISO-8859-8)"
+msgstr "é×ÒÉÔ (ISO-8859-8)"
+
+#: ../src/html/helpfrm.cpp:337 ../contrib/src/deprecated/proplist.cpp:523
+msgid "Help"
+msgstr "ðÏÍÏÝØ"
+
+#: ../src/html/helpfrm.cpp:1213
+msgid "Help Browser Options"
+msgstr "ðÁÒÁÍÅÔÒÙ ÐÒÏÓÍÏÔÒÁ ÐÏÍÏÝÉ"
+
+#: ../src/generic/helpext.cpp:442 ../src/generic/helpext.cpp:443
+msgid "Help Index"
+msgstr "éÎÄÅËÓ ÐÏÍÏÝÉ"
+
+#: ../src/html/helpfrm.cpp:1560
+msgid "Help Printing"
+msgstr "ðÅÞÁÔØ ÐÏÍÏÝÉ"
+
+#: ../src/html/helpfrm.cpp:814
+msgid "Help Topics"
+msgstr "óÏÄÅÒÖÁÎÉÅ ÐÏÍÏÝÉ"
+
+#: ../src/html/helpfrm.cpp:1573
+msgid "Help books (*.htb)|*.htb|Help books (*.zip)|*.zip|"
+msgstr "ëÎÉÇÉ ÐÏÍÏÝÉ (*.htb)|*.htb|ëÎÉÇÉ ÐÏÍÏÝÉ (*.zip)|*.zip|"
+
+#: ../src/html/helpctrl.cpp:55
+#, c-format
+msgid "Help: %s"
+msgstr "ðÏÍÏÝØ: %s"
+
+#: ../src/generic/dirdlgg.cpp:105
+msgid "Home"
+msgstr "÷ ÎÁÞÁÌÏ"
+
+#: ../src/generic/dirctrlg.cpp:654
+msgid "Home directory"
+msgstr "îÁÞÁÌØÎÙÊ ËÁÔÁÌÏÇ"
+
+#: ../include/wx/filefn.h:145
+msgid "I64"
+msgstr "I64"
+
+#: ../src/common/imagbmp.cpp:943
+msgid "ICO: Error in reading mask DIB."
+msgstr "ICO: ïÛÉÂËÁ ÞÔÅÎÉÑ ÍÁÓËÉ DIB."
+
+#: ../src/common/imagbmp.cpp:1048 ../src/common/imagbmp.cpp:1107
+#: ../src/common/imagbmp.cpp:1116 ../src/common/imagbmp.cpp:1127
+#: ../src/common/imagbmp.cpp:1171 ../src/common/imagbmp.cpp:1181
+#: ../src/common/imagbmp.cpp:1190
+msgid "ICO: Error writing the image file!"
+msgstr "ICO: ïÛÉÂËÁ ÚÁÐÉÓÉ ÆÁÊÌÁ ÉÚÏÂÒÁÖÅÎÉÑ!"
+
+#: ../src/common/imagbmp.cpp:1016
+msgid "ICO: Image too tall for an icon."
+msgstr "ICO: éÚÏÂÒÁÖÅÎÉÅ ÓÌÉÛËÏÍ ×ÙÓÏËÏ ÄÌÑ ÐÉËÔÏÇÒÁÍÍÙ."
+
+#: ../src/common/imagbmp.cpp:1022
+msgid "ICO: Image too wide for an icon."
+msgstr "ICO: éÚÏÂÒÁÖÅÎÉÅ ÓÌÉÛËÏÍ ÛÉÒÏËÏ ÄÌÑ ÐÉËÔÏÇÒÁÍÍÙ."
+
+#: ../src/common/imagbmp.cpp:1255
+msgid "ICO: Invalid icon index."
+msgstr "ICO: îÅÄÏÐÕÓÔÉÍÙÊ ÉÎÄÅËÓ ÐÉËÔÏÇÒÁÍÍÙ."
+
+#: ../src/common/imagiff.cpp:771
+msgid "IFF: data stream seems to be truncated."
+msgstr "IFF: ÐÏÔÏË ÄÁÎÎÙÈ, ÐÏÈÏÖÅ, ÕËÏÒÏÞÅÎ."
+
+#: ../src/common/imagiff.cpp:755
+msgid "IFF: error in IFF image format."
+msgstr "IFF: ÏÛÉÂËÁ × ÆÏÒÍÁÔÅ ÉÚÏÂÒÁÖÅÎÉÑ IFF."
+
+#: ../src/common/imagiff.cpp:758
+msgid "IFF: not enough memory."
+msgstr "IFF: ÎÅÄÏÓÔÁÔÏÞÎÏ ÐÁÍÑÔÉ."
+
+#: ../src/common/imagiff.cpp:761
+msgid "IFF: unknown error!!!"
+msgstr "IIF: ÎÅÉÚ×ÅÓÔÎÁÑ ÏÛÉÂËÁ!!!"
+
+#: ../contrib/src/deprecated/resource.cpp:2673
+#: ../contrib/src/deprecated/resource.cpp:2684
+#, c-format
+msgid "Icon resource specification %s not found."
+msgstr "îÅ ÎÁÊÄÅÎÁ ÓÐÅÃÉÆÉËÁÃÉÑ ÒÅÓÕÒÓÁ ÐÉËÔÏÇÒÁÍÍÙ %s."
+
+#: ../src/generic/dbgrptg.cpp:344
+msgid ""
+"If you have any additional information pertaining to this bug\n"
+"report, please enter it here and it will be joined to it:"
+msgstr ""
+"åÓÌÉ Õ ×ÁÓ ÅÓÔØ ËÁËÁÑ-ÌÉÂÏ ÄÏÐÏÌÎÉÔÅÌØÎÁÑ ÉÎÆÏÒÍÁÃÉÑ, ÏÔÎÏÓÑÝÁÑÓÑ Ë ÜÔÏÍÕ "
+"ÏÔÞÅÔÕ\n"
+"ÏÂ ÏÛÉÂËÅ, ÐÏÖÁÌÕÊÓÔÁ, ××ÅÄÉÔÅ ÅÅ ÚÄÅÓØ É ÏÎÁ ÂÕÄÅÔ ×ËÌÀÞÅÎÁ × ÎÅÇÏ:"
+
+#: ../src/generic/dbgrptg.cpp:310
+msgid ""
+"If you wish to suppress this debug report completely, please choose the "
+"\"Cancel\" button,\n"
+"but be warned that it may hinder improving the program, so if\n"
+"at all possible please do continue with the report generation.\n"
+msgstr ""
+"åÓÌÉ ×Ù ÖÅÌÁÅÔÅ ÐÏÌÎÏÓÔØÀ ÏÔËÁÚÁÔØÓÑ ÏÔ ÜÔÏÇÏ ÏÔÞÅÔÁ ÏÂ ÏÛÉÂËÅ, ×ÙÂÅÒÉÔÅ "
+"ËÎÏÐËÕ \"ïÔÍÅÎÁ\",\n"
+"ÎÏ ÕÞÔÉÔÅ, ÞÔÏ ÜÔÏ ÍÏÖÅÔ ×ÏÓÐÒÅÐÑÔÓÔ×Ï×ÁÔØ ÕÌÕÞÛÅÎÉÀ ÐÒÏÇÒÁÍÍÙ, ÔÁË ÞÔÏ, "
+"ÅÓÌÉ\n"
+"ÜÔÏ ×ÏÚÍÏÖÎÏ, ÐÏÖÁÌÕÊÓÔÁ ÐÒÏÄÏÌÖÁÊÔÅ ÇÅÎÅÒÁÃÉÀ ÏÔÞÅÔÁ.\n"
+
+#: ../src/msw/registry.cpp:1304
+#, c-format
+msgid "Ignoring value \"%s\" of the key \"%s\"."
+msgstr "úÎÁÞÅÎÉÅ \"%s\" ËÌÀÞÁ \"%s\" ÐÒÏÉÇÎÏÒÉÒÏ×ÁÎÏ."
+
+#: ../contrib/src/deprecated/resource.cpp:271
+msgid "Ill-formed resource file syntax."
+msgstr "îÅ×ÅÒÎÏ ÓÆÏÒÍÉÒÏ×ÁÎÎÙÊ ÓÉÎÔÁËÓÉÓ ÆÁÊÌÁ ÒÅÓÕÒÓÁ."
+
+#: ../src/common/xtistrm.cpp:260
+msgid "Illegal Object Class (Non-wxEvtHandler) as Event Source"
+msgstr "îÅÄÏÐÕÓÔÉÍÙÊ ËÌÁÓÓ ÏÂßÅËÔÁ (ÎÅ wxEvtHandler) ËÁË ÉÓÔÏÞÎÉË ÓÏÂÙÔÉÑ"
+
+#: ../include/wx/xti.h:1650
+msgid "Illegal Parameter Count for ConstructObject Method"
+msgstr "îÅ×ÅÒÎÏÅ ÞÉÓÌÏ ÐÁÒÁÍÅÔÒÏ× ÄÌÑ ÍÅÔÏÄÁ ConstructObject"
+
+#: ../include/wx/xti.h:1723
+msgid "Illegal Parameter Count for Create Method"
+msgstr "îÅ×ÅÒÎÏÅ ÞÉÓÌÏ ÐÁÒÁÍÅÔÒÏ× ÄÌÑ ÍÅÔÏÄÁ Create"
+
+#: ../src/generic/dirctrlg.cpp:689 ../src/generic/filedlgg.cpp:744
+msgid "Illegal directory name."
+msgstr "îÅÄÏÐÕÓÔÉÍÏÅ ÉÍÑ ËÁÔÁÌÏÇÁ."
+
+#: ../src/generic/filedlgg.cpp:1269
+msgid "Illegal file specification."
+msgstr "îÅÐÒÁ×ÉÌØÎÁÑ ÓÐÅÃÉÆÉËÁÃÉÑ ÆÁÊÌÁ."
+
+#: ../src/common/image.cpp:1192
+msgid "Image and mask have different sizes."
+msgstr "éÚÏÂÒÁÖÅÎÉÅ É ÍÁÓËÁ ÉÍÅÀÔ ÒÁÚÌÉÞÎÙÅ ÒÁÚÍÅÒÙ."
+
+#: ../src/common/image.cpp:1523
+#, c-format
+msgid "Image file is not of type %d."
+msgstr "æÁÊÌ ÉÚÏÂÒÁÖÅÎÉÑ ÎÅ ÏÔÎÏÓÉÔÓÑ Ë ÔÉÐÕ %d."
+
+#: ../src/msw/textctrl.cpp:361
+msgid ""
+"Impossible to create a rich edit control, using simple text control instead. "
+"Please reinstall riched32.dll"
+msgstr ""
+"îÅ×ÏÚÍÏÖÎÏ ÓÏÚÄÁÔØ ÜÌÅÍÅÎÔ ÕÐÒÁ×ÌÅÎÉÑ rich edit, ×ÍÅÓÔÏ ÜÔÏÇÏ ÂÕÄÅÔ "
+"ÉÓÐÏÌØÚÏ×ÁÎ ÜÌÅÍÅÎÔ ÕÐÒÁ×ÌÅÎÉÑ ÏÂÙÞÎÏÇÏ ÔÅËÓÔÁ. ðÏÖÁÌÕÊÓÔÁ, ÐÅÒÅÕÓÔÁÎÏ×ÉÔÅ "
+"riched32.dll"
+
+#: ../src/unix/utilsunx.cpp:428
+msgid "Impossible to get child process input"
+msgstr "îÅ×ÏÚÍÏÖÎÏ ÐÏÌÕÞÉÔØ ××ÏÄ ÐÏÒÏÖÄÅÎÎÏÇÏ ÐÒÏÃÅÓÓÁ"
+
+#: ../src/common/filefn.cpp:1022
+#, c-format
+msgid "Impossible to get permissions for file '%s'"
+msgstr "îÅ×ÏÚÍÏÖÎÏ ÐÏÌÕÞÉÔØ ÒÁÚÒÅÛÅÎÉÑ ÆÁÊÌÁ '%s'"
+
+#: ../src/common/filefn.cpp:1036
+#, c-format
+msgid "Impossible to overwrite the file '%s'"
+msgstr "îÅ×ÏÚÍÏÖÎÏ ÐÅÒÅÐÉÓÁÔØ ÆÁÊÌ '%s'"
+
+#: ../src/common/filefn.cpp:1080
+#, c-format
+msgid "Impossible to set permissions for the file '%s'"
+msgstr "îÅ×ÏÚÍÏÖÎÏ ÕÓÔÁÎÏ×ÉÔØ ÒÁÚÒÅÛÅÎÉÑ ÆÁÊÌÕ '%s'"
+
+#: ../src/common/stockitem.cpp:124
+msgid "Indent"
+msgstr "ïÔÓÔÕÐ"
+
+#: ../src/html/helpfrm.cpp:516
+msgid "Index"
+msgstr "éÎÄÅËÓ"
+
+#: ../src/common/fmapbase.cpp:115
+msgid "Indian (ISO-8859-12)"
+msgstr "éÎÄÉÊÓËÉÊ (ISO-8859-12)"
+
+#: ../src/common/init.cpp:232
+msgid "Initialization failed in post init, aborting."
+msgstr ""
+
+#: ../src/common/xtistrm.cpp:704
+msgid "Internal error, illegal wxCustomTypeInfo"
+msgstr "÷ÎÕÔÒÅÎÎÑÑ ÏÛÉÂËÁ, ÎÅ×ÅÒÎÙÊ wxCustomTypeInfo"
+
+#: ../src/common/imagtiff.cpp:227
+msgid "Invalid TIFF image index."
+msgstr "îÅÄÏÐÕÓÔÉÍÙÊ ÉÎÄÅËÓ ÉÚÏÂÒÁÖÅÎÉÑ TIFF."
+
+#: ../src/xrc/xmlres.cpp:460
+#, c-format
+msgid "Invalid XRC resource '%s': doesn't have root node 'resource'."
+msgstr "îÅ×ÅÒÎÙÊ ÒÅÓÕÒÓ XRC '%s': ËÏÒÎÅ×ÏÇÏ ÕÚÌÁ 'resource' ÎÅ ÓÕÝÅÓÔ×ÕÅÔ."
+
+#: ../src/common/appcmn.cpp:249
+#, c-format
+msgid "Invalid display mode specification '%s'."
+msgstr "îÅÐÒÁ×ÉÌØÎÁÑ ÓÐÅÃÉÆÉËÁÃÉÑ ÒÅÖÉÍÁ ÜËÒÁÎÁ '%s'."
+
+#: ../src/x11/app.cpp:128
+#, c-format
+msgid "Invalid geometry specification '%s'"
+msgstr "îÅÐÒÁ×ÉÌØÎÁÑ ÓÐÅÃÉÆÉËÁÃÉÑ ÇÅÏÍÅÔÒÉÉ '%s'"
+
+#: ../src/unix/snglinst.cpp:311
+#, c-format
+msgid "Invalid lock file '%s'."
+msgstr "îÅ×ÅÒÎÙÊ ÆÁÊÌ ÂÌÏËÉÒÏ×ËÉ '%s'."
+
+#: ../src/common/xtistrm.cpp:365 ../src/common/xtistrm.cpp:380
+msgid "Invalid or Null Object ID passed to GetObjectClassInfo"
+msgstr ""
+"îÅ×ÅÒÎÙÊ ÉÌÉ ÎÕÌÅ×ÏÊ ÉÄÅÎÔÉÆÉËÁÔÏÒ ÏÂßÅËÔÁ ÐÅÒÅÄÁÎ × GetObjectClassInfo"
+
+#: ../src/common/xtistrm.cpp:395
+msgid "Invalid or Null Object ID passed to HasObjectClassInfo"
+msgstr ""
+"îÅ×ÅÒÎÙÊ ÉÌÉ ÎÕÌÅ×ÏÊ ÉÄÅÎÔÉÆÉËÁÔÏÒ ÏÂßÅËÔÁ ÐÅÒÅÄÁÎ × HasObjectClassInfo"
+
+#: ../src/common/regex.cpp:210
+#, c-format
+msgid "Invalid regular expression '%s': %s"
+msgstr "îÅ×ÅÒÎÏÅ ÒÅÇÕÌÑÒÎÏÅ ×ÙÒÁÖÅÎÉÅ '%s': %s"
+
+#: ../src/generic/fontdlgg.cpp:233
+msgid "Italic"
+msgstr "ëÕÒÓÉ×"
+
+#: ../src/common/paper.cpp:137
+msgid "Italy Envelope, 110 x 230 mm"
+msgstr "éÔÁÌØÑÎÓËÉÊ ËÏÎ×ÅÒÔ, 110 x 230 ÍÍ"
+
+#: ../src/common/imagjpeg.cpp:225
+msgid "JPEG: Couldn't load - file is probably corrupted."
+msgstr "JPEG: ÎÅ×ÏÚÍÏÖÎÏ ÚÁÇÒÕÚÉÔØ - ×ÏÚÍÏÖÎÏ ÆÁÊÌ ÐÏ×ÒÅÖÄÅÎ."
+
+#: ../src/common/imagjpeg.cpp:339
+msgid "JPEG: Couldn't save image."
+msgstr "JPEG: îÅ×ÏÚÍÏÖÎÏ ÓÏÈÒÁÎÉÔØ ÉÚÏÂÒÁÖÅÎÉÅ."
+
+#: ../src/common/paper.cpp:170
+msgid "Japanese Double Postcard 200 x 148 mm"
+msgstr ""
+
+#: ../src/common/paper.cpp:174
+msgid "Japanese Envelope Chou #3"
+msgstr ""
+
+#: ../src/common/paper.cpp:187
+msgid "Japanese Envelope Chou #3 Rotated"
+msgstr ""
+
+#: ../src/common/paper.cpp:175
+msgid "Japanese Envelope Chou #4"
+msgstr ""
+
+#: ../src/common/paper.cpp:188
+msgid "Japanese Envelope Chou #4 Rotated"
+msgstr ""
+
+#: ../src/common/paper.cpp:172
+msgid "Japanese Envelope Kaku #2"
+msgstr ""
+
+#: ../src/common/paper.cpp:185
+msgid "Japanese Envelope Kaku #2 Rotated"
+msgstr ""
+
+#: ../src/common/paper.cpp:173
+msgid "Japanese Envelope Kaku #3"
+msgstr ""
+
+#: ../src/common/paper.cpp:186
+msgid "Japanese Envelope Kaku #3 Rotated"
+msgstr ""
+
+#: ../src/common/paper.cpp:192
+msgid "Japanese Envelope You #4"
+msgstr ""
+
+#: ../src/common/paper.cpp:193
+msgid "Japanese Envelope You #4 Rotated"
+msgstr ""
+
+#: ../src/common/paper.cpp:145
+msgid "Japanese Postcard 100 x 148 mm"
+msgstr ""
+
+#: ../src/common/paper.cpp:182
+msgid "Japanese Postcard Rotated 148 x 100 mm"
+msgstr ""
+
+#: ../src/common/stockitem.cpp:128
+msgid "Justified"
+msgstr "÷ÙÒÏ×ÎÅÎÎÙÊ"
+
+#: ../src/common/fmapbase.cpp:119
+msgid "KOI8-R"
+msgstr "KOI8-R"
+
+#: ../src/common/fmapbase.cpp:120
+msgid "KOI8-U"
+msgstr "KOI8-U"
+
+#: ../src/generic/prntdlgg.cpp:609 ../src/generic/prntdlgg.cpp:867
+msgid "Landscape"
+msgstr "áÌØÂÏÍ"
+
+#: ../src/common/paper.cpp:110
+msgid "Ledger, 17 x 11 in"
+msgstr "Ledger, 17 x 11 ÄÀÊÍÁ"
+
+#: ../src/generic/prntdlgg.cpp:879
+msgid "Left margin (mm):"
+msgstr "ìÅ×ÏÅ ÐÏÌÅ (ÍÍ):"
+
+#: ../src/common/paper.cpp:151
+#, fuzzy
+msgid "Legal Extra 9 1/2 x 15 in"
+msgstr "Legal, 8 1/2 x 14 ÄÀÊÍÁ"
+
+#: ../src/common/paper.cpp:103
+msgid "Legal, 8 1/2 x 14 in"
+msgstr "Legal, 8 1/2 x 14 ÄÀÊÍÁ"
+
+#: ../src/common/paper.cpp:150
+#, fuzzy
+msgid "Letter Extra 9 1/2 x 12 in"
+msgstr "ðÉÓØÍÏ, 8 1/2 x 11 ÄÀÊÍÁ"
+
+#: ../src/common/paper.cpp:156
+msgid "Letter Extra Transverse 9.275 x 12 in"
+msgstr ""
+
+#: ../src/common/paper.cpp:159
+#, fuzzy
+msgid "Letter Plus 8 1/2 x 12.69 in"
+msgstr "ðÉÓØÍÏ, 8 1/2 x 11 ÄÀÊÍÁ"
+
+#: ../src/common/paper.cpp:176
+#, fuzzy
+msgid "Letter Rotated 11 x 8 1/2 in"
+msgstr "ðÉÓØÍÏ, 8 1/2 x 11 ÄÀÊÍÁ"
+
+#: ../src/common/paper.cpp:108
+msgid "Letter Small, 8 1/2 x 11 in"
+msgstr "íÁÌÅÎØËÏÅ ÐÉÓØÍÏ 8 1/2 x 11 ÄÀÊÍÁ"
+
+#: ../src/common/paper.cpp:154
+#, fuzzy
+msgid "Letter Transverse 8 1/2 x 11 in"
+msgstr "ðÉÓØÍÏ, 8 1/2 x 11 ÄÀÊÍÁ"
+
+#: ../src/common/paper.cpp:102
+msgid "Letter, 8 1/2 x 11 in"
+msgstr "ðÉÓØÍÏ, 8 1/2 x 11 ÄÀÊÍÁ"
+
+#: ../src/generic/fontdlgg.cpp:236
+msgid "Light"
+msgstr "ó×ÅÔÌÙÊ"
+
+#: ../src/html/chm.cpp:820
+msgid "Link contained '//', converted to absolute link."
+msgstr "óÓÙÌËÁ ÓÏÄÅÒÖÉÔ '//', ÐÒÅÏÂÒÁÚÏ×ÁÎÁ × ÁÂÓÏÌÀÔÎÕÀ ÓÓÙÌËÕ."
+
+#: ../src/common/fldlgcmn.cpp:257
+#, c-format
+msgid "Load %s file"
+msgstr "úÁÇÒÕÚÉÔØ ÆÁÊÌ %s"
+
+#: ../src/html/htmlwin.cpp:416
+msgid "Loading : "
+msgstr "úÁÇÒÕÚËÁ : "
+
+#: ../src/unix/snglinst.cpp:251
+#, c-format
+msgid "Lock file '%s' has incorrect owner."
+msgstr "æÁÊÌ ÂÌÏËÉÒÏ×ËÉ '%s' ÉÍÅÅÔ ÎÅ×ÅÒÎÏÇÏ ×ÌÁÄÅÌØÃÁ."
+
+#: ../src/unix/snglinst.cpp:256
+#, c-format
+msgid "Lock file '%s' has incorrect permissions."
+msgstr "æÁÊÌ ÂÌÏËÉÒÏ×ËÉ '%s' ÉÍÅÅÔ ÎÅ×ÅÒÎÙÅ ÒÁÚÒÅÛÅÎÉÑ."
+
+#: ../src/generic/logg.cpp:572
+#, c-format
+msgid "Log saved to the file '%s'."
+msgstr "öÕÒÎÁÌ ÚÁÐÉÓÁÎ × ÆÁÊÌ '%s'."
+
+#: ../include/wx/xti.h:501 ../include/wx/xti.h:505
+msgid "Long Conversions not supported"
+msgstr "Long Conversions ÎÅ ÐÏÄÄÅÒÖÉ×ÁÀÔÓÑ"
+
+#: ../src/gtk/mdi.cpp:465
+msgid "MDI child"
+msgstr "ðÏÔÏÍÏË MDI"
+
+#: ../src/mac/carbon/thread.cpp:1635
+msgid "MP Thread Support is not available on this System"
+msgstr "ðÏÄÄÅÒÖËÁ ÐÏÔÏËÏ× MP ÎÅ ÄÏÓÔÕÐÎÁ × ÜÔÏÊ ÓÉÓÔÅÍÅ"
+
+#: ../src/msw/helpchm.cpp:60
+msgid ""
+"MS HTML Help functions are unavailable because the MS HTML Help library is "
+"not installed on this machine. Please install it."
+msgstr ""
+"æÕÎËÃÉÉ ÓÐÒÁ×ËÉ MS HTML ÎÅÄÏÓÔÕÐÎÙ, ÔÁË ËÁË ÂÉÂÌÉÏÔÅËÁ ÓÐÒÁ×ËÉ MS HTML ÎÅ "
+"ÕÓÔÁÎÏ×ÌÅÎÁ ÎÁ ÜÔÏÊ ÍÁÛÉÎÅ. ðÏÖÁÌÕÊÓÔÁ, ÕÓÔÁÎÏ×ÉÔÅ ÅÅ."
+
+#: ../src/univ/themes/win32.cpp:4929
+msgid "Ma&ximize"
+msgstr "&òÁÚ×ÅÒÎÕÔØ"
+
+#: ../src/unix/mimetype.cpp:2671
+#, c-format
+msgid "Mailcap file %s, line %d: incomplete entry ignored."
+msgstr "æÁÊÌ mailcap %s, ÓÔÒÏËÁ %d: ÎÅÐÏÌÎÁÑ ÚÁÐÉÓØ ÐÒÏÉÇÎÏÒÉÒÏ×ÁÎÁ."
+
+#: ../src/generic/fdrepdlg.cpp:153
+msgid "Match case"
+msgstr "ó ÕÞÅÔÏÍ ÒÅÇÉÓÔÒÁ"
+
+#: ../src/common/fs_mem.cpp:176
+#, c-format
+msgid "Memory VFS already contains file '%s'!"
+msgstr "ðÁÍÑÔØ VFS ÕÖÅ ÓÏÄÅÒÖÉÔ ÆÁÊÌ '%s'!"
+
+#: ../src/msw/frame.cpp:374
+msgid "Menu"
+msgstr "íÅÎÀ"
+
+#: ../src/univ/themes/metal.cpp:174
+msgid "Metal theme"
+msgstr "ôÅÍÁ Metal"
+
+#: ../src/univ/themes/win32.cpp:4927
+msgid "Mi&nimize"
+msgstr "&ó×ÅÒÎÕÔØ"
+
+#: ../src/unix/mimetype.cpp:2292
+#, c-format
+msgid "Mime.types file %s, line %d: unterminated quoted string."
+msgstr "æÁÊÌ mime.types %s, ÓÔÒÏËÁ %d: ÎÅÚÁËÒÙÔÙÅ ËÁ×ÙÞËÉ."
+
+#: ../src/mgl/app.cpp:165
+#, c-format
+msgid "Mode %ix%i-%i not available."
+msgstr "òÅÖÉÍ %ix%i-%i ÎÅÄÏÓÔÕÐÅÎ."
+
+#: ../src/generic/fontdlgg.cpp:228
+msgid "Modern"
+msgstr "óÏ×ÒÅÍÅÎÎÙÊ"
+
+#: ../src/generic/filedlgg.cpp:434
+msgid "Modified"
+msgstr "éÚÍÅÎÅÎ"
+
+#: ../src/common/module.cpp:77
+#, c-format
+msgid "Module \"%s\" initialization failed"
+msgstr ""
+
+#: ../src/common/paper.cpp:138
+msgid "Monarch Envelope, 3 7/8 x 7 1/2 in"
+msgstr "Monarch Envelope, 3 7/8 x 7 1/2 ÄÀÊÍÁ"
+
+#: ../contrib/src/gizmos/editlbox.cpp:162
+msgid "Move down"
+msgstr "ðÅÒÅÊÔÉ ×ÎÉÚ"
+
+#: ../contrib/src/gizmos/editlbox.cpp:161
+msgid "Move up"
+msgstr "ðÅÒÅÊÔÉ ××ÅÒÈ"
+
+#: ../src/generic/filedlgg.cpp:431
+msgid "Name"
+msgstr "éÍÑ"
+
+#: ../src/generic/dirdlgg.cpp:109
+msgid "New directory"
+msgstr "îÏ×ÙÊ ËÁÔÁÌÏÇ"
+
+#: ../contrib/src/gizmos/editlbox.cpp:159
+msgid "New item"
+msgstr "îÏ×ÙÊ ÜÌÅÍÅÎÔ"
+
+#: ../src/generic/dirdlgg.cpp:316 ../src/generic/dirdlgg.cpp:326
+#: ../src/generic/filedlgg.cpp:608 ../src/generic/filedlgg.cpp:617
+msgid "NewName"
+msgstr "îÏ×ÏÅéÍÑ"
+
+#: ../src/generic/tipdlg.cpp:305
+msgid "Next"
+msgstr "óÌÅÄÕÀÝÉÊ"
+
+#: ../src/html/helpfrm.cpp:665
+msgid "Next page"
+msgstr "óÌÅÄÕÀÝÁÑ ÓÔÁÎÉÃÁ"
+
+#: ../src/mac/carbon/msgdlg.cpp:58 ../src/mac/carbon/msgdlg.cpp:143
+#: ../src/mac/classic/msgdlg.cpp:56 ../src/mac/classic/msgdlg.cpp:140
+#: ../src/motif/msgdlg.cpp:204
+msgid "No"
+msgstr "îÅÔ"
+
+#: ../contrib/src/deprecated/resource.cpp:2495
+#: ../contrib/src/deprecated/resource.cpp:2649
+msgid "No XBM facility available!"
+msgstr "÷ÏÚÍÏÖÎÏÓÔØ XBM ÎÅÄÏÓÔÕÐÎÁ!"
+
+#: ../contrib/src/deprecated/resource.cpp:2667
+msgid "No XPM icon facility available!"
+msgstr "÷ÏÚÍÏÖÎÏÓÔØ ÐÉËÔÏÇÒÁÍÍ XPM ÎÅÄÏÓÔÕÐÎÁ!"
+
+#: ../src/generic/helpext.cpp:437
+msgid "No entries found."
+msgstr "úÁÐÉÓØ ÎÅ ÎÁÊÄÅÎÁ."
+
+#: ../src/common/fontmap.cpp:422
+#, c-format
+msgid ""
+"No font for displaying text in encoding '%s' found,\n"
+"but an alternative encoding '%s' is available.\n"
+"Do you want to use this encoding (otherwise you will have to choose another "
+"one)?"
+msgstr ""
+"îÅ ÎÁÊÄÅÎ ÛÒÉÆÔ ÄÌÑ ÏÔÏÂÒÁÖÅÎÉÑ ÔÅËÓÔÁ × ËÏÄÉÒÏ×ËÅ '%s',\n"
+"ÎÏ ÄÏÓÔÕÐÎÁ ÁÌØÔÅÒÎÁÔÉ×ÎÁÑ ËÏÄÉÒÏ×ËÁ '%s'.\n"
+"èÏÔÉÔÅ ÉÓÐÏÌØÚÏ×ÁÔØ ÜÔÕ ËÏÄÉÒÏ×ËÕ (× ÐÒÏÔÉ×ÎÏÍ ÓÌÕÞÁÅ ×Ù ÄÏÌÖÎÙ ×ÙÂÒÁÔØ "
+"ÄÒÕÇÕÀ)?"
+
+#: ../src/common/fontmap.cpp:427
+#, c-format
+msgid ""
+"No font for displaying text in encoding '%s' found.\n"
+"Would you like to select a font to be used for this encoding\n"
+"(otherwise the text in this encoding will not be shown correctly)?"
+msgstr ""
+"îÅ ÎÁÊÄÅÎÏ ÛÒÉÆÔÁ ÄÌÑ ÏÔÏÂÒÁÖÅÎÉÑ ÔÅËÓÔÁ × ËÏÄÉÒÏ×ËÅ '%s'.\n"
+"îÅ ÈÏÔÉÔÅ ÌÉ ×Ù ×ÙÂÒÁÔØ ÛÒÉÆÔ, ËÏÔÏÒÙÊ ÂÕÄÅÔ ÉÓÐÏÌØÚÏ×ÁÔØÓÑ ÄÌÑ ÜÔÏÊ "
+"ËÏÄÉÒÏ×ËÉ\n"
+"(× ÐÒÏÔÉ×ÎÏÍ ÓÌÕÞÁÅ ÔÅËÓÔ × ÜÔÏÊ ËÏÄÉÒÏ×ËÅ ÂÕÄÅÔ ÏÔÏÂÒÁÖÅÎ ÎÅËÏÒÒÅËÔÎÏ)?"
+
+#: ../src/xrc/xmlres.cpp:677
+#, c-format
+msgid "No handler found for XML node '%s', class '%s'!"
+msgstr "îÅ ÎÁÊÄÅÎÏ ÏÂÒÁÂÏÔÞÉËÁ ÄÌÑ XML ÕÚÌÁ '%s', ËÌÁÓÓ '%s'!"
+
+#: ../src/common/image.cpp:1505 ../src/common/image.cpp:1548
+msgid "No handler found for image type."
+msgstr "îÅ ÎÁÊÄÅÎÏ ÏÂÒÁÂÏÔÞÉËÁ ÄÌÑ ÜÔÏÇÏ ÔÉÐÁ ÉÚÏÂÒÁÖÅÎÉÑ."
+
+#: ../src/common/image.cpp:1513 ../src/common/image.cpp:1556
+#: ../src/common/image.cpp:1589
+#, c-format
+msgid "No image handler for type %d defined."
+msgstr "îÅ ÏÐÒÅÄÅÌÅÎÏ ÏÂÒÁÂÏÔÞÉËÁ ÄÌÑ ÉÚÏÂÒÁÖÅÎÉÑ ÔÉÐÁ %d."
+
+#: ../src/common/image.cpp:1574 ../src/common/image.cpp:1604
+#, c-format
+msgid "No image handler for type %s defined."
+msgstr "îÅ ÏÐÒÅÄÅÌÅÎÏ ÏÂÒÁÂÏÔÞÉËÁ ÄÌÑ ÉÚÏÂÒÁÖÅÎÉÑ ÔÉÐÁ %s."
+
+#: ../src/html/helpfrm.cpp:869
+msgid "No matching page found yet"
+msgstr "îÉ ÏÄÎÁ ÓÏÏÔ×ÅÔÓÔ×ÕÀÝÁÑ ÓÔÒÁÎÉÃÁ ÐÏËÁ ÎÅ ÎÁÊÄÅÎÁ"
+
+#: ../src/unix/sound.cpp:89
+msgid "No sound"
+msgstr "îÅÔ Ú×ÕËÁ"
+
+#: ../src/common/image.cpp:1200 ../src/common/image.cpp:1239
+msgid "No unused colour in image being masked."
+msgstr "îÅ ÂÙÌÏ ÚÁÍÁÓËÉÒÏ×ÁÎÏ ÎÉ ÏÄÎÏÇÏ ÎÅÉÓÐÏÌØÚÏ×ÁÎÎÏÇÏ Ã×ÅÔÁ × ÉÚÏÂÒÁÖÅÎÉÉ."
+
+#: ../src/common/image.cpp:1997
+msgid "No unused colour in image."
+msgstr "÷ ÉÚÏÂÒÁÖÅÎÉÉ ÎÅÔ ÎÅÉÓÐÏÌØÚÕÅÍÙÈ Ã×ÅÔÏ×."
+
+#: ../src/common/fmapbase.cpp:113
+msgid "Nordic (ISO-8859-10)"
+msgstr "óËÁÎÄÉÎÁ×ÓËÉÊ (ISO-8859-10)"
+
+#: ../src/generic/fontdlgg.cpp:232 ../src/generic/fontdlgg.cpp:235
+msgid "Normal"
+msgstr "îÏÒÍÁÌØÎÙÊ"
+
+#: ../src/html/helpfrm.cpp:1273
+msgid "Normal face<br>and <u>underlined</u>. "
+msgstr "îÏÒÍÁÌØÎÙÊ ÛÒÉÆÔ<br>É <u>ÐÏÄÞÅÒËÎÕÔÙÊ</u>. "
+
+#: ../src/html/helpfrm.cpp:1218
+msgid "Normal font:"
+msgstr "îÏÒÍÁÌØÎÙÊ ÛÒÉÆÔ:"
+
+#: ../src/common/paper.cpp:122
+msgid "Note, 8 1/2 x 11 in"
+msgstr "Note, 8 1/2 x 11 ÄÀÊÍÁ"
+
+#: ../src/gtk/fontdlg.cpp:147 ../src/msw/dialog.cpp:194
+#: ../contrib/src/deprecated/proplist.cpp:506
+msgid "OK"
+msgstr "OK"
+
+#: ../src/common/xtixml.cpp:263
+msgid "Objects must have an id attribute"
+msgstr "ïÂßÅËÔÙ ÄÏÌÖÎÙ ÉÍÅÔØ ÁÔÒÉÂÕÔ id"
+
+#: ../src/common/docview.cpp:1269 ../src/common/docview.cpp:1619
+msgid "Open File"
+msgstr "ïÔËÒÙÔØ ÆÁÊÌ"
+
+#: ../src/html/helpfrm.cpp:673 ../src/html/helpfrm.cpp:1579
+msgid "Open HTML document"
+msgstr "ïÔËÒÙÔØ ÄÏËÕÍÅÎÔ HTML"
+
+#: ../src/generic/dbgrptg.cpp:158
+#, c-format
+msgid "Open file \"%s\""
+msgstr "ïÔËÒÙÔØ ÆÁÊÌ \"%s\""
+
+#: ../src/generic/dirctrlg.cpp:718 ../src/generic/dirdlgg.cpp:342
+#: ../src/generic/filedlgg.cpp:632 ../src/generic/filedlgg.cpp:772
+msgid "Operation not permitted."
+msgstr "ïÐÅÒÁÃÉÑ ÎÅ ÒÁÚÒÅÛÅÎÁ."
+
+#: ../src/common/cmdline.cpp:702
+#, c-format
+msgid "Option '%s' requires a value, '=' expected."
+msgstr "ðÁÒÁÍÅÔÒ '%s' ÔÒÅÂÕÅÔ ÚÎÁÞÅÎÉÑ, ÏÖÉÄÁÌÓÑ '='."
+
+#: ../src/common/cmdline.cpp:722
+#, c-format
+msgid "Option '%s' requires a value."
+msgstr "ðÁÒÁÍÅÔÒ '%s' ÔÒÅÂÕÅÔ ÚÎÁÞÅÎÉÅ."
+
+#: ../src/common/cmdline.cpp:784
+#, c-format
+msgid "Option '%s': '%s' cannot be converted to a date."
+msgstr "ðÁÒÁÍÅÔÒ '%s': '%s' ÎÅ ÍÏÖÅÔ ÂÙÔØ ÓËÏÎ×ÅÒÔÉÒÏ×ÁÎÁ × ÄÁÔÕ."
+
+#: ../src/generic/dirdlgg.cpp:116 ../src/generic/prntdlgg.cpp:614
+msgid "Options"
+msgstr "ðÁÒÁÍÅÔÒÙ"
+
+#: ../src/generic/prntdlgg.cpp:611 ../src/generic/prntdlgg.cpp:868
+msgid "Orientation"
+msgstr "ïÒÉÅÎÔÁÃÉÑ"
+
+#: ../src/common/imagpcx.cpp:462 ../src/common/imagpcx.cpp:485
+msgid "PCX: couldn't allocate memory"
+msgstr "PCX: ÎÅ ÍÏÇÕ ÒÁÓÐÒÅÄÅÌÉÔØ ÐÁÍÑÔØ"
+
+#: ../src/common/imagpcx.cpp:461
+msgid "PCX: image format unsupported"
+msgstr "PCX: ÆÏÒÍÁÔ ÉÚÏÂÒÁÖÅÎÉÑ ÎÅ ÐÏÄÄÅÒÖÉ×ÁÅÔÓÑ"
+
+#: ../src/common/imagpcx.cpp:484
+msgid "PCX: invalid image"
+msgstr "PCX: ÎÅÄÏÐÕÓÔÉÍÏÅ ÉÚÏÂÒÁÖÅÎÉÅ"
+
+#: ../src/common/imagpcx.cpp:448
+msgid "PCX: this is not a PCX file."
+msgstr "PCX: ÜÔÏ ÎÅ ÆÁÊÌ PCX."
+
+#: ../src/common/imagpcx.cpp:464 ../src/common/imagpcx.cpp:486
+msgid "PCX: unknown error !!!"
+msgstr "PCX: ÎÅÉÚ×ÅÓÔÎÁÑ ÏÛÉÂËÁ !!!"
+
+#: ../src/common/imagpcx.cpp:463
+msgid "PCX: version number too low"
+msgstr "PCX: ÎÏÍÅÒ ×ÅÒÓÉÉ ÓÌÉÛËÏÍ ÍÁÌÅÎØËÉÊ"
+
+#: ../src/common/imagpnm.cpp:92
+msgid "PNM: Couldn't allocate memory."
+msgstr "PNM: îÅ×ÏÚÍÏÖÎÏ ÒÁÓÐÒÅÄÅÌÉÔØ ÐÁÍÑÔØ."
+
+#: ../src/common/imagpnm.cpp:76
+msgid "PNM: File format is not recognized."
+msgstr "PNM: æÏÒÍÁÔ ÆÁÊÌÁ ÎÅ ÒÁÓÐÏÚÎÁÎ."
+
+#: ../src/common/imagpnm.cpp:108 ../src/common/imagpnm.cpp:125
+#: ../src/common/imagpnm.cpp:142
+msgid "PNM: File seems truncated."
+msgstr "PNM: æÁÊÌ, ÐÏÈÏÖÅ, ÕËÏÒÏÞÅÎ."
+
+#: ../src/common/paper.cpp:194
+msgid "PRC 16K 146 x 215 mm"
+msgstr ""
+
+#: ../src/common/paper.cpp:207
+msgid "PRC 16K Rotated"
+msgstr ""
+
+#: ../src/common/paper.cpp:195
+msgid "PRC 32K 97 x 151 mm"
+msgstr ""
+
+#: ../src/common/paper.cpp:208
+msgid "PRC 32K Rotated"
+msgstr ""
+
+#: ../src/common/paper.cpp:196
+msgid "PRC 32K(Big) 97 x 151 mm"
+msgstr ""
+
+#: ../src/common/paper.cpp:209
+msgid "PRC 32K(Big) Rotated"
+msgstr ""
+
+#: ../src/common/paper.cpp:197
+#, fuzzy
+msgid "PRC Envelope #1 102 x 165 mm"
+msgstr "ëÏÎ×ÅÒÔ C6, 114 x 162 ÍÍ"
+
+#: ../src/common/paper.cpp:210
+#, fuzzy
+msgid "PRC Envelope #1 Rotated 165 x 102 mm"
+msgstr "ëÏÎ×ÅÒÔ C6, 114 x 162 ÍÍ"
+
+#: ../src/common/paper.cpp:206
+#, fuzzy
+msgid "PRC Envelope #10 324 x 458 mm"
+msgstr "ëÏÎ×ÅÒÔ C3, 324 x 458 ÍÍ"
+
+#: ../src/common/paper.cpp:219
+#, fuzzy
+msgid "PRC Envelope #10 Rotated 458 x 324 m"
+msgstr "ëÏÎ×ÅÒÔ C4, 229 x 324 ÍÍ"
+
+#: ../src/common/paper.cpp:198
+#, fuzzy
+msgid "PRC Envelope #2 102 x 176 mm"
+msgstr "ëÏÎ×ÅÒÔ C6, 114 x 162 ÍÍ"
+
+#: ../src/common/paper.cpp:211
+#, fuzzy
+msgid "PRC Envelope #2 Rotated 176 x 102 mm"
+msgstr "ëÏÎ×ÅÒÔ B6, 176 x 125 ÍÍ"
+
+#: ../src/common/paper.cpp:199
+#, fuzzy
+msgid "PRC Envelope #3 125 x 176 mm"
+msgstr "ëÏÎ×ÅÒÔ C6, 114 x 162 ÍÍ"
+
+#: ../src/common/paper.cpp:212
+#, fuzzy
+msgid "PRC Envelope #3 Rotated 176 x 125 mm"
+msgstr "ëÏÎ×ÅÒÔ B6, 176 x 125 ÍÍ"
+
+#: ../src/common/paper.cpp:200
+#, fuzzy
+msgid "PRC Envelope #4 110 x 208 mm"
+msgstr "ëÏÎ×ÅÒÔ DL, 110 x 220 ÍÍ"
+
+#: ../src/common/paper.cpp:213
+#, fuzzy
+msgid "PRC Envelope #4 Rotated 208 x 110 mm"
+msgstr "ëÏÎ×ÅÒÔ C6, 114 x 162 ÍÍ"
+
+#: ../src/common/paper.cpp:201
+#, fuzzy
+msgid "PRC Envelope #5 110 x 220 mm"
+msgstr "ëÏÎ×ÅÒÔ DL, 110 x 220 ÍÍ"
+
+#: ../src/common/paper.cpp:214
+#, fuzzy
+msgid "PRC Envelope #5 Rotated 220 x 110 mm"
+msgstr "ëÏÎ×ÅÒÔ C4, 229 x 324 ÍÍ"
+
+#: ../src/common/paper.cpp:202
+#, fuzzy
+msgid "PRC Envelope #6 120 x 230 mm"
+msgstr "ëÏÎ×ÅÒÔ C5, 162 x 229 ÍÍ"
+
+#: ../src/common/paper.cpp:215
+#, fuzzy
+msgid "PRC Envelope #6 Rotated 230 x 120 mm"
+msgstr "ëÏÎ×ÅÒÔ C5, 162 x 229 ÍÍ"
+
+#: ../src/common/paper.cpp:203
+#, fuzzy
+msgid "PRC Envelope #7 160 x 230 mm"
+msgstr "ëÏÎ×ÅÒÔ B5, 176 x 250 ÍÍ"
+
+#: ../src/common/paper.cpp:216
+#, fuzzy
+msgid "PRC Envelope #7 Rotated 230 x 160 mm"
+msgstr "ëÏÎ×ÅÒÔ C6, 114 x 162 ÍÍ"
+
+#: ../src/common/paper.cpp:204
+#, fuzzy
+msgid "PRC Envelope #8 120 x 309 mm"
+msgstr "ëÏÎ×ÅÒÔ C5, 162 x 229 ÍÍ"
+
+#: ../src/common/paper.cpp:217
+#, fuzzy
+msgid "PRC Envelope #8 Rotated 309 x 120 mm"
+msgstr "ëÏÎ×ÅÒÔ C4, 229 x 324 ÍÍ"
+
+#: ../src/common/paper.cpp:205
+#, fuzzy
+msgid "PRC Envelope #9 229 x 324 mm"
+msgstr "ëÏÎ×ÅÒÔ C4, 229 x 324 ÍÍ"
+
+#: ../src/common/paper.cpp:218
+#, fuzzy
+msgid "PRC Envelope #9 Rotated 324 x 229 mm"
+msgstr "ëÏÎ×ÅÒÔ C5, 162 x 229 ÍÍ"
+
+#: ../src/common/prntbase.cpp:1294
+#, c-format
+msgid "Page %d"
+msgstr "óÔÒÁÎÉÃÁ %d"
+
+#: ../src/common/prntbase.cpp:1292
+#, c-format
+msgid "Page %d of %d"
+msgstr "óÔÒÁÎÉÃÁ %d ÉÚ %d"
+
+#: ../src/generic/prntdlgg.cpp:827
+msgid "Page Setup"
+msgstr "îÁÓÔÒÏÊËÉ ÓÔÒÁÎÉÃÙ"
+
+#: ../src/common/prntbase.cpp:451 ../src/gtk/gnome/gprint.cpp:540
+msgid "Page setup"
+msgstr "îÁÓÔÒÏÊËÉ ÓÔÒÁÎÉÃÙ"
+
+#: ../src/generic/prntdlgg.cpp:210
+msgid "Pages"
+msgstr "óÔÒÁÎÉÃÙ"
+
+#: ../src/generic/prntdlgg.cpp:800 ../src/generic/prntdlgg.cpp:854
+#: ../src/generic/prntdlgg.cpp:1056
+msgid "Paper Size"
+msgstr "òÁÚÍÅÒ ÂÕÍÁÇÉ"
+
+#: ../src/generic/prntdlgg.cpp:598 ../src/generic/prntdlgg.cpp:841
+#: ../src/generic/prntdlgg.cpp:1051
+msgid "Paper size"
+msgstr "òÁÚÍÅÒ ÂÕÍÁÇÉ"
+
+#: ../src/common/xtistrm.cpp:425
+msgid "Passing a already registered object to SetObject"
+msgstr "ðÅÒÅÄÁÞÁ ÕÖÅ ÚÁÒÅÇÉÓÔÒÉÒÏ×ÁÎÎÏÇÏ ÏÂßÅËÔÁ × SetObject"
+
+#: ../src/common/xtistrm.cpp:643
+msgid "Passing a already registered object to SetObjectName"
+msgstr "ðÅÒÅÄÁÞÁ ÕÖÅ ÚÁÒÅÇÉÓÔÒÉÒÏ×ÁÎÎÏÇÏ ÏÂßÅËÔÁ × SetObjectName"
+
+#: ../src/common/xtistrm.cpp:436 ../src/common/xtistrm.cpp:656
+msgid "Passing an unkown object to GetObject"
+msgstr "ðÅÒÅÄÁÞÁ ÎÅÉÚ×ÅÓÔÎÏÇÏ ÏÂßÅËÔÁ × GetObject"
+
+#: ../src/generic/filedlgg.cpp:437
+msgid "Permissions"
+msgstr "òÁÚÒÅÛÅÎÉÑ"
+
+#: ../include/wx/unix/pipe.h:47
+msgid "Pipe creation failed"
+msgstr "ïÛÉÂËÁ ÓÏÚÄÁÎÉÑ ÐÏÔÏËÁ ××ÏÄÁ-×Ù×ÏÄÁ"
+
+#: ../src/gtk/fontdlg.cpp:81
+msgid "Please choose a valid font."
+msgstr "ðÏÖÁÌÕÊÓÔÁ, ×ÙÂÅÒÉÔÅ ÄÏÐÕÓÔÉÍÙÊ ÛÒÉÆÔ."
+
+#: ../src/generic/filedlgg.cpp:1325
+msgid "Please choose an existing file."
+msgstr "ðÏÖÁÌÕÊÓÔÁ, ×ÙÂÅÒÉÔÅ ÓÕÝÅÓÔ×ÕÀÝÉÊ ÆÁÊÌ."
+
+#: ../src/html/helpfrm.cpp:813
+msgid "Please choose the page to display:"
+msgstr "ðÏÖÁÌÕÊÓÔÁ, ×ÙÂÅÒÉÔÅ ÓÔÒÁÎÉÃÕ ÄÌÑ ÏÔÏÂÒÁÖÅÎÉÑ:"
+
+#: ../src/msw/dialup.cpp:787
+msgid "Please choose which ISP do you want to connect to"
+msgstr "ðÏÖÁÌÕÊÓÔÁ, ×ÙÂÅÒÉÔÅ ISP, Ë ËÏÔÏÒÏÍÕ ×Ù ÈÏÔÉÔÅ ÐÏÄËÌÀÞÉÔØÓÑ"
+
+#: ../src/msw/listctrl.cpp:444
+#, c-format
+msgid ""
+"Please install a newer version of comctl32.dll\n"
+"(at least version 4.70 is required but you have %d.%02d)\n"
+"or this program won't operate correctly."
+msgstr ""
+"ðÏÖÁÌÕÊÓÔÁ, ÕÓÔÁÎÏ×ÉÔÅ ÂÏÌÅÅ ÎÏ×ÕÀ ×ÅÒÓÉÀ comctl32.dll\n"
+"(ÔÒÅÂÕÅÔÓÑ ×ÅÒÓÉÑ 4.70 ËÁË ÍÉÎÉÍÕÍ, Á Õ ×ÁÓ ÕÓÔÁÎÏ×ÌÅÎÁ %d.%02d)\n"
+"ÉÌÉ ÜÔÁ ÐÒÏÇÒÁÍÍÁ ÎÅ ÂÕÄÅÔ ËÏÒÒÅËÔÎÏ ÒÁÂÏÔÁÔØ."
+
+#: ../src/common/prntbase.cpp:313
+msgid "Please wait while printing\n"
+msgstr "ðÏÖÁÌÕÊÓÔÁ, ÐÏÄÏÖÄÉÔÅ, ÐÏËÁ ÉÄÅÔ ÐÅÞÁÔØ\n"
+
+#: ../src/generic/prntdlgg.cpp:608 ../src/generic/prntdlgg.cpp:866
+msgid "Portrait"
+msgstr "ðÏÒÔÒÅÔ"
+
+#: ../src/generic/prntdlgg.cpp:296
+msgid "PostScript file"
+msgstr "æÁÊÌ PostScript"
+
+#: ../src/generic/fontdlgg.cpp:348 ../src/html/helpfrm.cpp:1235
+msgid "Preview:"
+msgstr "ðÒÅÄ×ÁÒÉÔÅÌØÎÙÊ ÐÒÏÓÍÏÔÒ:"
+
+#: ../src/html/helpfrm.cpp:662
+msgid "Previous page"
+msgstr "ðÒÅÄÙÄÕÝÁÑ ÓÔÒÁÎÉÃÁ"
+
+#: ../src/common/prntbase.cpp:393 ../src/generic/prntdlgg.cpp:138
+#: ../src/generic/prntdlgg.cpp:151 ../src/gtk/gnome/gprint.cpp:395
+#: ../src/gtk/gnome/gprint.cpp:407
+msgid "Print"
+msgstr "ðÅÞÁÔØ"
+
+#: ../src/common/docview.cpp:1032
+msgid "Print Preview"
+msgstr "ðÒÅÄ×ÁÒÉÔÅÌØÎÙÊ ÐÒÏÓÍÏÔÒ ÐÅÞÁÔÉ"
+
+#: ../src/common/prntbase.cpp:1246 ../src/common/prntbase.cpp:1272
+msgid "Print Preview Failure"
+msgstr "ïÛÉÂËÁ ÐÒÅÄ×ÁÒÉÔÅÌØÎÏÇÏ ÐÒÏÓÍÏÔÒÁ ÐÅÞÁÔÉ"
+
+#: ../src/generic/prntdlgg.cpp:218
+msgid "Print Range"
+msgstr "éÎÔÅÒ×ÁÌ ÐÅÞÁÔÉ"
+
+#: ../src/generic/prntdlgg.cpp:445
+msgid "Print Setup"
+msgstr "îÁÓÔÒÏÊËÉ ÐÅÞÁÔÉ"
+
+#: ../src/generic/prntdlgg.cpp:617
+msgid "Print in colour"
+msgstr "ðÅÞÁÔØ × Ã×ÅÔÅ"
+
+#: ../src/common/stockitem.cpp:138
+msgid "Print previe&w"
+msgstr "ðÒÅÄ&×ÁÒÉÔÅÌØÎÙÊ ÐÒÏÓÍÏÔÒ ÐÅÞÁÔÉ"
+
+#: ../src/gtk/gnome/gprint.cpp:785
+msgid "Print preview"
+msgstr "ðÒÅÄ×ÁÒÉÔÅÌØÎÙÊ ÐÒÏÓÍÏÔÒ ÐÅÞÁÔÉ"
+
+#: ../src/generic/prntdlgg.cpp:626
+msgid "Print spooling"
+msgstr "ïÞÅÒÅÄØ ÐÅÞÁÔÉ"
+
+#: ../src/html/helpfrm.cpp:679
+msgid "Print this page"
+msgstr "îÁÐÅÞÁÔÁÔØ ÜÔÕ ÓÔÒÁÎÉÃÕ"
+
+#: ../src/generic/prntdlgg.cpp:179
+msgid "Print to File"
+msgstr "ðÅÞÁÔØ × ÆÁÊÌ"
+
+#: ../src/generic/prntdlgg.cpp:489
+msgid "Printer"
+msgstr "ðÒÉÎÔÅÒ"
+
+#: ../src/generic/prntdlgg.cpp:629
+msgid "Printer command:"
+msgstr "ëÏÍÁÎÄÁ ÐÒÉÎÔÅÒÁ:"
+
+#: ../src/generic/prntdlgg.cpp:174
+msgid "Printer options"
+msgstr "ðÁÒÁÍÅÔÒÙ ÐÒÉÎÔÅÒÁ"
+
+#: ../src/generic/prntdlgg.cpp:641
+msgid "Printer options:"
+msgstr "ðÁÒÁÍÅÔÒÙ ÐÒÉÎÔÅÒÁ:"
+
+#: ../src/generic/prntdlgg.cpp:915
+msgid "Printer..."
+msgstr "ðÒÉÎÔÅÒ..."
+
+#: ../src/generic/prntdlgg.cpp:190
+msgid "Printer:"
+msgstr "ðÒÉÎÔÅÒ:"
+
+#: ../src/common/prntbase.cpp:310 ../src/common/prntbase.cpp:531
+msgid "Printing "
+msgstr "éÄÅÔ ÐÅÞÁÔØ "
+
+#: ../src/common/prntbase.cpp:327
+msgid "Printing Error"
+msgstr "ïÛÉÂËÁ ÐÅÞÁÔÉ"
+
+#: ../src/generic/printps.cpp:208
+#, c-format
+msgid "Printing page %d..."
+msgstr "ðÅÞÁÔØ ÓÔÒÁÎÉÃÙ %d..."
+
+#: ../src/generic/printps.cpp:168
+msgid "Printing..."
+msgstr "éÄÅÔ ÐÅÞÁÔØ..."
+
+#: ../src/common/debugrpt.cpp:546
+#, c-format
+msgid ""
+"Processing debug report has failed, leaving the files in \"%s\" directory."
+msgstr ""
+"ïÂÒÁÂÏÔËÁ ÏÔÞÅÔÁ ÏÂ ÏÔÌÁÄËÅ ÚÁ×ÅÒÛÅÎÏ Ó ÏÛÉÂËÏÊ, ÆÁÊÌÙ ÏÓÔÁÌÉÓØ × ËÁÔÁÌÏÇÅ "
+"\"%s\"."
+
+#: ../src/common/log.cpp:466
+msgid "Program aborted."
+msgstr "÷ÙÐÏÌÎÅÎÉÅ ÐÒÏÇÒÁÍÍÙ ÐÒÅÒ×ÁÎÏ."
+
+#: ../src/common/paper.cpp:119
+msgid "Quarto, 215 x 275 mm"
+msgstr "Quarto, 215 x 275 ÍÍ"
+
+#: ../src/generic/logg.cpp:1165
+msgid "Question"
+msgstr "÷ÏÐÒÏÓ"
+
+#: ../src/common/ffile.cpp:125 ../src/common/ffile.cpp:144
+#, c-format
+msgid "Read error on file '%s'"
+msgstr "ïÛÉÂËÁ ÞÔÅÎÉÑ ÆÁÊÌÁ '%s'"
+
+#: ../src/common/prntbase.cpp:242
+msgid "Ready"
+msgstr "çÏÔÏ×"
+
+#: ../src/xrc/xmlres.cpp:643
+#, c-format
+msgid "Referenced object node with ref=\"%s\" not found!"
+msgstr "õÚÅÌ ÓÓÙÌÁÀÝÅÇÏÓÑ ÏÂßÅËÔÁ Ó ref=\"%s\" ÎÅ ÎÁÊÄÅÎ!"
+
+#: ../src/common/stockitem.cpp:142
+msgid "Refresh"
+msgstr "ïÂÎÏ×ÉÔØ"
+
+#: ../src/msw/registry.cpp:560
+#, c-format
+msgid "Registry key '%s' already exists."
+msgstr "ëÌÀÞ ÒÅÅÓÔÒÁ '%s' ÕÖÅ ÓÕÝÅÓÔ×ÕÅÔ."
+
+#: ../src/msw/registry.cpp:529
+#, c-format
+msgid "Registry key '%s' does not exist, cannot rename it."
+msgstr "ëÌÀÞ ÒÅÅÓÔÒÁ '%s' ÎÅ ÓÕÝÅÓÔ×ÕÅÔ, ÎÅ×ÏÚÍÏÖÎÏ ÅÇÏ ÐÅÒÅÉÍÅÎÏ×ÁÔØ."
+
+#: ../src/msw/registry.cpp:661
+#, c-format
+msgid ""
+"Registry key '%s' is needed for normal system operation,\n"
+"deleting it will leave your system in unusable state:\n"
+"operation aborted."
+msgstr ""
+"ëÌÀÞ ÒÅÅÓÔÒÁ '%s' ÎÅÏÂÈÏÄÉÍ ÄÌÑ ÎÏÒÍÁÌØÎÏÊ ÒÁÂÏÔÙ ÓÉÓÔÅÍÙ,\n"
+"ÅÇÏ ÕÄÁÌÅÎÉÅ ÐÒÉ×ÅÄÅÔ ×ÁÛÕ ÓÉÓÔÅÍÕ × ÎÅÒÁÂÏÞÅÅ ÓÏÓÔÏÑÎÉÅ:\n"
+"ÏÐÅÒÁÃÉÑ ÏÔÍÅÎÅÎÁ."
+
+#: ../src/msw/registry.cpp:456
+#, c-format
+msgid "Registry value '%s' already exists."
+msgstr "úÎÁÞÅÎÉÅ ÒÅÅÓÔÒÁ '%s' ÕÖÅ ÓÕÝÅÓÔ×ÕÅÔ."
+
+#: ../src/generic/helpext.cpp:442
+msgid "Relevant entries:"
+msgstr "ðÏÄÈÏÄÑÝÉÅ ÚÁÐÉÓÉ:"
+
+#: ../src/generic/progdlgg.cpp:210
+msgid "Remaining time : "
+msgstr "ïÓÔÁ×ÛÅÅÓÑ ×ÒÅÍÑ : "
+
+#: ../src/common/stockitem.cpp:143
+msgid "Remove"
+msgstr "õÄÁÌÉÔØ"
+
+#: ../src/html/helpfrm.cpp:445
+msgid "Remove current page from bookmarks"
+msgstr "õÄÁÌÉÔØ ÔÅËÕÝÕÀ ÓÔÒÁÎÉÃÕ ÉÚ ÚÁËÌÁÄÏË"
+
+#: ../src/common/rendcmn.cpp:196
+#, c-format
+msgid "Renderer \"%s\" has incompatible version %d.%d and couldn't be loaded."
+msgstr "Renderer \"%s\" ÎÅÓÏ×ÍÅÓÔÉÍÏÊ ×ÅÒÓÉÉ %d.%d ÎÅ ÍÏÖÅÔ ÂÙÔØ ÚÁÇÒÕÖÅÎ."
+
+#: ../src/common/stockitem.cpp:117
+msgid "Rep&lace"
+msgstr "úÁ&ÍÅÎÉÔØ"
+
+#: ../src/generic/fdrepdlg.cpp:188
+msgid "Replace &all"
+msgstr "úÁÍÅÎÉÔØ ×Ó&Å"
+
+#: ../src/generic/fdrepdlg.cpp:130
+msgid "Replace with:"
+msgstr "úÁÍÅÎÉÔØ ÎÁ:"
+
+#: ../src/xrc/xmlres.cpp:479
+msgid "Resource files must have same version number!"
+msgstr "æÁÊÌÙ ÒÅÓÕÒÓÏ× ÄÏÌÖÎÙ ÉÍÅÔØ ÏÄÉÎÁËÏ×ÙÅ ÎÏÍÅÒÁ ×ÅÒÓÉÊ!"
+
+#: ../src/common/stockitem.cpp:144
+msgid "Revert to Saved"
+msgstr "ïÔËÁÔÉÔØ Ë ÓÏÈÒÁÎÅÎÎÏÍÕ"
+
+#: ../src/generic/prntdlgg.cpp:891
+msgid "Right margin (mm):"
+msgstr "ðÒÁ×ÁÑ ÇÒÁÎÉÃÁ (ÍÍ):"
+
+#: ../src/generic/fontdlgg.cpp:226
+msgid "Roman"
+msgstr "ðÒÑÍÏÊ"
+
+#: ../src/common/sizer.cpp:1838
+msgid "Save"
+msgstr "óÏÈÒÁÎÉÔØ"
+
+#: ../src/common/fldlgcmn.cpp:259
+#, c-format
+msgid "Save %s file"
+msgstr "óÏÈÒÁÎÉÔØ ÆÁÊÌ %s"
+
+#: ../src/common/stockitem.cpp:146
+msgid "Save &As..."
+msgstr "óÏÈÒÁÎÉÔØ &ËÁË..."
+
+#: ../src/common/docview.cpp:305
+msgid "Save as"
+msgstr "óÏÈÒÁÎÉÔØ ËÁË"
+
+#: ../src/generic/logg.cpp:505
+msgid "Save log contents to file"
+msgstr "óÏÈÒÁÎÉÔØ ÓÏÄÅÒÖÁÎÉÅ ÖÕÒÎÁÌÁ × ÆÁÊÌ"
+
+#: ../src/generic/fontdlgg.cpp:229
+msgid "Script"
+msgstr "óÃÅÎÁÒÉÊ"
+
+#: ../src/html/helpfrm.cpp:536 ../src/html/helpfrm.cpp:551
+msgid "Search"
+msgstr "ðÏÉÓË"
+
+#: ../src/html/helpfrm.cpp:538
+msgid ""
+"Search contents of help book(s) for all occurences of the text you typed "
+"above"
+msgstr "ðÏÉÓË × ÓÏÄÅÒÖÁÎÉÉ ËÎÉÇ ÐÏÍÏÝÉ ×ÓÅÈ ÕÐÏÍÉÎÁÎÉÊ ××ÅÄÅÎÎÏÇÏ ×ÙÛÅ ÔÅËÓÔÁ"
+
+#: ../src/generic/fdrepdlg.cpp:166
+msgid "Search direction"
+msgstr "îÁÐÒÁ×ÌÅÎÉÅ ÐÏÉÓËÁ"
+
+#: ../src/generic/fdrepdlg.cpp:118
+msgid "Search for:"
+msgstr "îÁÊÔÉ:"
+
+#: ../src/html/helpfrm.cpp:1060
+msgid "Search in all books"
+msgstr "ðÏÉÓË ×Ï ×ÓÅÈ ËÎÉÇÁÈ"
+
+#: ../src/html/helpfrm.cpp:868
+msgid "Searching..."
+msgstr "éÄÅÔ ÐÏÉÓË..."
+
+#: ../src/generic/dirctrlg.cpp:592
+msgid "Sections"
+msgstr "òÁÚÄÅÌÙ"
+
+#: ../src/common/ffile.cpp:222
+#, c-format
+msgid "Seek error on file '%s'"
+msgstr "ïÛÉÂËÁ ÓÍÅÝÅÎÉÑ × ÆÁÊÌÅ '%s'"
+
+#: ../src/common/ffile.cpp:212
+#, c-format
+msgid "Seek error on file '%s' (large files not supported by stdio)"
+msgstr "ïÛÉÂËÁ ÓÍÅÝÅÎÉÑ × ÆÁÊÌÅ '%s' (ÂÏÌØÛÉÅ ÓÔÒÏËÉ ÎÅ ÐÏÄÄÅÒÖÉ×ÁÀÔÓÑ stdio)"
+
+#: ../src/mac/carbon/textctrl.cpp:1078 ../src/msw/textctrl.cpp:2068
+msgid "Select &All"
+msgstr "÷ÙÄÅÌÉÔØ ×Ó&Å"
+
+#: ../src/common/docview.cpp:1699
+msgid "Select a document template"
+msgstr "÷ÙÂÅÒÉÔÅ ÛÁÂÌÏÎ ÄÏËÕÍÅÎÔÁ"
+
+#: ../src/common/docview.cpp:1776
+msgid "Select a document view"
+msgstr "÷ÙÂÅÒÉÔÅ ×ÉÄ ÄÏËÕÍÅÎÔÁ"
+
+#: ../src/common/docview.cpp:1579
+msgid "Select a file"
+msgstr "÷ÙÂÅÒÉÔÅ ÆÁÊÌ"
+
+#: ../src/motif/filedlg.cpp:226
+#, fuzzy
+msgid "Selection"
+msgstr "òÁÚÄÅÌÙ"
+
+#: ../src/common/cmdline.cpp:739
+#, c-format
+msgid "Separator expected after the option '%s'."
+msgstr "ðÏÓÌÅ ÐÁÒÁÍÅÔÒÁ '%s' ÏÖÉÄÁÌÓÑ ÒÁÚÄÅÌÉÔÅÌØ."
+
+#: ../include/wx/xti.h:841
+msgid "SetProperty called w/o valid setter"
+msgstr "SetProperty ×ÙÚ×ÁÎÏ ÂÅÚ ÐÒÁ×ÉÌØÎÏÇÏ setter"
+
+#: ../src/generic/prntdlgg.cpp:182
+msgid "Setup..."
+msgstr "îÁÓÔÒÏÊËÉ..."
+
+#: ../src/msw/dialup.cpp:567
+msgid "Several active dialup connections found, choosing one randomly."
+msgstr ""
+"îÁÊÄÅÎÏ ÎÅÓËÏÌØËÏ ÁËÔÉ×ÎÙÈ ÐÏÄÓÏÅÄÉÎÅÎÉÊ, ×ÙÂÉÒÁÅÍ ÏÄÎÏ ÓÌÕÞÁÊÎÙÍ ÏÂÒÁÚÏÍ."
+
+#: ../src/html/helpfrm.cpp:493
+msgid "Show all"
+msgstr "ðÏËÁÚÁÔØ ×ÓÅ"
+
+#: ../src/html/helpfrm.cpp:504
+msgid "Show all items in index"
+msgstr "ðÏËÁÚÁÔØ ×ÓÅ ÜÌÅÍÅÎÔÙ ÉÎÄÅËÓÁ"
+
+#: ../src/generic/dirdlgg.cpp:112 ../src/generic/dirdlgg.cpp:175
+msgid "Show hidden directories"
+msgstr "ðÏËÁÚÁÔØ ÓËÒÙÔÙÅ ËÁÔÁÌÏÇÉ"
+
+#: ../src/generic/filedlgg.cpp:1056
+msgid "Show hidden files"
+msgstr "ðÏËÁÚÁÔØ ÓËÒÙÔÙÅ ÆÁÊÌÙ"
+
+#: ../src/html/helpfrm.cpp:646
+msgid "Show/hide navigation panel"
+msgstr "ðÏËÁÚÁÔØ/ÓËÒÙÔØ ÎÁ×ÉÇÁÃÉÏÎÎÕÀ ÐÁÎÅÌØ"
+
+#: ../src/generic/fontdlgg.cpp:353 ../src/generic/fontdlgg.cpp:355
+msgid "Shows the font preview."
+msgstr "ðÏËÁÚÁÔØ ÐÒÅÄ×ÁÒÉÔÅÌØÎÙÊ ÐÒÏÓÍÏÔÒ ÛÒÉÆÔÁ"
+
+#: ../src/generic/filedlgg.cpp:432
+msgid "Size"
+msgstr "òÁÚÍÅÒ"
+
+#: ../src/generic/progdlgg.cpp:222 ../src/generic/progdlgg.cpp:240
+#: ../src/generic/progdlgg.cpp:598
+msgid "Skip"
+msgstr "ðÒÏÐÕÓÔÉÔØ"
+
+#: ../src/generic/fontdlgg.cpp:234
+msgid "Slant"
+msgstr "îÁËÌÏÎÎÙÊ"
+
+#: ../src/common/docview.cpp:581
+msgid "Sorry, could not open this file for saving."
+msgstr "éÚ×ÉÎÉÔÅ, ÜÔÏÔ ÆÁÊÌ ÎÅ ÍÏÖÅÔ ÂÙÔØ ÏÔËÒÙÔ ÄÌÑ ÓÏÈÒÁÎÅÎÉÑ."
+
+#: ../src/common/docview.cpp:617 ../src/common/docview.cpp:1598
+msgid "Sorry, could not open this file."
+msgstr "éÚ×ÉÎÉÔÅ, ÜÔÏÔ ÆÁÊÌ ÎÅ ÍÏÖÅÔ ÂÙÔØ ÏÔËÒÙÔ."
+
+#: ../src/common/docview.cpp:588
+msgid "Sorry, could not save this file."
+msgstr "éÚ×ÉÎÉÔÅ, ÜÔÏÔ ÆÁÊÌ ÎÅ×ÏÚÍÏÖÎÏ ÓÏÈÒÁÎÉÔØ."
+
+#: ../src/common/prntbase.cpp:1246
+msgid "Sorry, not enough memory to create a preview."
+msgstr ""
+"éÚ×ÉÎÉÔÅ, ÎÅÄÏÓÔÁÔÏÞÎÏ ÐÁÍÑÔÉ ÄÌÑ ÓÏÚÄÁÎÉÑ ÏËÎÁ ÐÒÅÄ×ÁÒÉÔÅÌØÎÏÇÏ ÐÒÏÓÍÏÔÒÁ."
+
+#: ../src/common/docview.cpp:1028
+msgid "Sorry, print preview needs a printer to be installed."
+msgstr "éÚ×ÉÎÉÔÅ, ÐÒÅÄ×ÁÒÉÔÅÌØÎÙÊ ÐÒÏÓÍÏÔÒ ÔÒÅÂÕÅÔ ÕÓÔÁÎÏ×ÌÅÎÎÏÇÏ ÐÒÉÎÔÅÒÁ."
+
+#: ../src/common/docview.cpp:1268 ../src/common/docview.cpp:1618
+msgid "Sorry, the format for this file is unknown."
+msgstr "éÚ×ÉÎÉÔÅ, ÆÏÒÍÁÔ ÜÔÏÇÏ ÆÁÊÌÁ ÎÅÉÚ×ÅÓÔÅÎ."
+
+#: ../src/unix/sound.cpp:493
+msgid "Sound data are in unsupported format."
+msgstr "äÁÎÎÙÅ Ú×ÕËÁ ÉÍÅÀÔ ÎÅÐÏÄÄÅÒÖÉ×ÁÅÍÙÊ ÆÏÒÍÁÔ."
+
+#: ../src/unix/sound.cpp:478
+#, c-format
+msgid "Sound file '%s' is in unsupported format."
+msgstr "ú×ÕËÏ×ÏÊ ÆÁÊÌ '%s' ÎÅÐÏÄÄÅÒÖÉ×ÁÅÍÏÇÏ ÆÏÒÍÁÔÁ."
+
+#: ../src/common/paper.cpp:111
+msgid "Statement, 5 1/2 x 8 1/2 in"
+msgstr "Statement, 5 1/2 x 8 1/2 ÄÀÊÍÁ"
+
+#: ../src/generic/prntdlgg.cpp:198
+msgid "Status:"
+msgstr "óÏÓÔÏÑÎÉÅ: "
+
+#: ../src/generic/logg.cpp:622
+msgid "Status: "
+msgstr "óÏÓÔÏÑÎÉÅ: "
+
+#: ../src/common/xtistrm.cpp:253
+msgid "Streaming delegates for not already streamed objects not yet supported"
+msgstr "ðÏÔÏËÏ×ÙÅ ÄÅÌÅÇÁÔÙ ÄÌÑ ÎÅ ÐÏÔÏËÏ×ÙÈ ÏÂßÅËÔÏ× ÅÝÅ ÎÅ ÐÏÄÄÅÒÖÉ×ÁÀÔÓÑ"
+
+#: ../src/msw/colour.cpp:38 ../src/palmos/colour.cpp:38
+#, c-format
+msgid "String To Colour : Incorrect colour specification : %s"
+msgstr "óÔÒÏËÁ × Ã×ÅÔ : îÅ×ÅÒÎÁÑ ÓÐÅÃÉÆÉËÁÃÉÑ Ã×ÅÔÁ : %s"
+
+#: ../include/wx/xti.h:428 ../include/wx/xti.h:432
+msgid "String conversions not supported"
+msgstr "ðÒÅÏÂÒÁÚÏ×ÁÎÉÅ ÓÔÒÏËÉ ÎÅ ÐÏÄÄÅÒÖÉ×ÁÅÔÓÑ"
+
+#: ../src/xrc/xmlres.cpp:750
+#, c-format
+msgid "Subclass '%s' not found for resource '%s', not subclassing!"
+msgstr "ðÏÄËÌÁÓÓ '%s' ÎÅ ÎÁÊÄÅÎ ÄÌÑ ÒÅÓÕÒÓÁ '%s', subclassing ÎÅ×ÏÚÍÏÖÅÎ!"
+
+#: ../src/common/paper.cpp:157
+msgid "SuperA/SuperA/A4 227 x 356 mm"
+msgstr ""
+
+#: ../src/common/paper.cpp:158
+msgid "SuperB/SuperB/A3 305 x 487 mm"
+msgstr ""
+
+#: ../src/generic/fontdlgg.cpp:230
+msgid "Swiss"
+msgstr "û×ÅÊÃÁÒÓËÉÊ"
+
+#: ../src/common/imagtiff.cpp:165
+msgid "TIFF library error."
+msgstr ""
+
+#: ../src/common/imagtiff.cpp:149
+msgid "TIFF library warning."
+msgstr ""
+
+#: ../src/common/imagtiff.cpp:248 ../src/common/imagtiff.cpp:259
+#: ../src/common/imagtiff.cpp:399
+msgid "TIFF: Couldn't allocate memory."
+msgstr "TIFF: îÅ×ÏÚÍÏÖÎÏ ÒÁÓÐÒÅÄÅÌÉÔØ ÐÁÍÑÔØ."
+
+#: ../src/common/imagtiff.cpp:219
+msgid "TIFF: Error loading image."
+msgstr "TIFF: ïÛÉÂËÁ ÚÁÇÒÕÚËÉ ÉÚÏÂÒÁÖÅÎÉÑ."
+
+#: ../src/common/imagtiff.cpp:270
+msgid "TIFF: Error reading image."
+msgstr "TIFF: ïÛÉÂËÁ ÞÔÅÎÉÑ ÉÚÏÂÒÁÖÅÎÉÑ."
+
+#: ../src/common/imagtiff.cpp:347
+msgid "TIFF: Error saving image."
+msgstr "TIFF: ïÛÉÂËÁ ÓÏÈÒÁÎÅÎÉÑ ÉÚÏÂÒÁÖÅÎÉÑ."
+
+#: ../src/common/imagtiff.cpp:445
+msgid "TIFF: Error writing image."
+msgstr "TIFF: ïÛÉÂËÁ ÚÁÐÉÓÉ ÉÚÏÂÒÁÖÅÎÉÑ."
+
+#: ../src/common/paper.cpp:152
+#, fuzzy
+msgid "Tabloid Extra 11.69 x 18 in"
+msgstr "Tabloid, 11 x 17 ÄÀÊÍÁ"
+
+#: ../src/common/paper.cpp:109
+msgid "Tabloid, 11 x 17 in"
+msgstr "Tabloid, 11 x 17 ÄÀÊÍÁ"
+
+#: ../src/generic/fontdlgg.cpp:231
+msgid "Teletype"
+msgstr "ôÅÌÅÔÁÊÐ"
+
+#: ../src/common/docview.cpp:1700
+msgid "Templates"
+msgstr "ûÁÂÌÏÎÙ"
+
+#: ../src/common/fmapbase.cpp:114
+msgid "Thai (ISO-8859-11)"
+msgstr "ôÁÊÓËÉÊ (ISO-8859-11)"
+
+#: ../src/common/ftp.cpp:708
+msgid "The FTP server doesn't support passive mode."
+msgstr "óÅÒ×ÅÒ FTP ÎÅ ÐÏÄÄÅÒÖÉ×ÁÅÔ ÐÁÓÓÉ×ÎÙÊ ÒÅÖÉÍ."
+
+#: ../src/common/ftp.cpp:696
+msgid "The FTP server doesn't support the PORT command."
+msgstr "óÅÒ×ÅÒ FTP ÎÅ ÐÏÄÄÅÒÖÉ×ÁÅÔ ËÏÍÁÎÄÕ PORT."
+
+#: ../src/common/fontmap.cpp:204
+#, c-format
+msgid ""
+"The charset '%s' is unknown. You may select\n"
+"another charset to replace it with or choose\n"
+"[Cancel] if it cannot be replaced"
+msgstr ""
+"îÁÂÏÒ ÓÉÍ×ÏÌÏ× '%s' ÎÅÉÚ×ÅÓÔÅÎ. ÷Ù ÍÏÖÅÔÅ ×ÙÂÒÁÔØ\n"
+"×ÍÅÓÔÏ ÎÅÇÏ ÄÒÕÇÏÊ ÎÁÂÏÒ ÉÌÉ ÎÁÖÁÔØ [ïÔÍÅÎÁ] \n"
+"ÅÓÌÉ ÏÎ ÎÅ ÍÏÖÅÔ ÂÙÔØ ÚÁÍÅÎÅÎ"
+
+#: ../src/msw/ole/dataobj.cpp:164
+#, c-format
+msgid "The clipboard format '%d' doesn't exist."
+msgstr "æÏÒÍÁÔ ÂÕÆÅÒÁ ÏÂÍÅÎÁ '%d' ÎÅ ÓÕÝÅÓÔ×ÕÅÔ."
+
+#: ../src/generic/dirdlgg.cpp:224
+#, c-format
+msgid ""
+"The directory '%s' does not exist\n"
+"Create it now?"
+msgstr ""
+"ëÁÔÁÌÏÇ '%s' ÎÅ ÓÕÝÅÓÔ×ÕÅÔ\n"
+"óÏÚÄÁÔØ ÅÇÏ ÓÅÊÞÁÓ?"
+
+#: ../src/common/docview.cpp:1949
+#, c-format
+msgid ""
+"The file '%s' couldn't be opened.\n"
+"It has been removed from the most recently used files list."
+msgstr ""
+"æÁÊÌ '%s' ÎÅ ÍÏÖÅÔ ÂÙÔØ ÏÔËÒÙÔ.\n"
+"ïÎ ÂÕÄÅÔ ÕÄÁÌÅÎ ÉÚ ÐÅÒÅÞÎÑ ÎÁÉÂÏÌÅÅ ÞÁÓÔÏ ÉÓÐÏÌØÚÕÅÍÙÈ ÆÁÊÌÏ×."
+
+#: ../src/common/docview.cpp:1959
+#, c-format
+msgid ""
+"The file '%s' doesn't exist and couldn't be opened.\n"
+"It has been removed from the most recently used files list."
+msgstr ""
+"æÁÊÌ '%s' ÎÅ ÓÕÝÅÓÔ×ÕÅÔ É ÎÅ ÍÏÖÅÔ ÂÙÔØ ÏÔËÒÙÔ.\n"
+"ïÎ ÂÕÄÅÔ ÕÄÁÌÅÎ ÉÚ ÐÅÒÅÞÎÑ ÎÁÉÂÏÌÅÅ ÞÁÓÔÏ ÉÓÐÏÌØÚÕÅÍÙÈ ÆÁÊÌÏ×."
+
+#: ../src/generic/fontdlgg.cpp:316 ../src/generic/fontdlgg.cpp:318
+msgid "The font colour."
+msgstr "ã×ÅÔ ÛÒÉÆÔÁ."
+
+#: ../src/generic/fontdlgg.cpp:277 ../src/generic/fontdlgg.cpp:279
+msgid "The font family."
+msgstr "îÁÚ×ÁÎÉÅ ÛÒÉÆÔÁ."
+
+#: ../src/generic/fontdlgg.cpp:328 ../src/generic/fontdlgg.cpp:330
+msgid "The font point size."
+msgstr "òÁÚÍÅÒ ÛÒÉÆÔÁ:"
+
+#: ../src/generic/fontdlgg.cpp:288 ../src/generic/fontdlgg.cpp:290
+msgid "The font style."
+msgstr "óÔÉÌØ ÛÒÉÆÔÁ."
+
+#: ../src/generic/fontdlgg.cpp:299 ../src/generic/fontdlgg.cpp:301
+msgid "The font weight."
+msgstr "ôÏÌÝÉÎÁ ÛÒÉÆÔÁ."
+
+#: ../src/common/filename.cpp:966
+#, c-format
+msgid "The path '%s' contains too many \"..\"!"
+msgstr "ðÕÔØ '%s' ÓÏÄÅÒÖÉÔ ÓÌÉÛËÏÍ ÍÎÏÇÏ \"..\"!"
+
+#: ../src/generic/dbgrptg.cpp:308
+msgid ""
+"The report contains the files listed below. If any of these files contain "
+"private information,\n"
+"please uncheck them and they will be removed from the report.\n"
+msgstr ""
+"ïÔÞÅÔ ÓÏÄÅÒÖÉÔ ÆÁÊÌÙ, ÐÅÒÅÞÉÓÌÅÎÎÙÅ ÎÉÖÅ. åÓÌÉ ËÁËÏÊ-ÌÉÂÏ ÉÚ ÜÔÉÈ ÆÁÊÌÏ× "
+"ÓÏÄÅÒÖÉÔ ÌÉÞÎÕÀ ÉÎÆÏÒÍÁÃÉÀ,\n"
+"ÐÏÖÁÌÕÊÓÔÁ, ÓÎÉÍÉÔÅ ÐÏÍÅÔËÕ Ó ÎÅÇÏ É ÏÎ ÂÕÄÅÔ ÉÓËÌÀÞÅÎ ÉÚ ÏÔÞÅÔÁ.\n"
+
+#: ../src/common/cmdline.cpp:883
+#, c-format
+msgid "The required parameter '%s' was not specified."
+msgstr "ïÂÑÚÁÔÅÌØÎÙÊ ÐÁÒÁÍÅÔÒ '%s' ÎÅ ÏÐÒÅÄÅÌÅÎ."
+
+#: ../src/common/textcmn.cpp:246
+msgid "The text couldn't be saved."
+msgstr "ôÅËÓÔ ÎÅ ÍÏÖÅÔ ÂÙÔØ ÓÏÈÒÁÎÅÎ."
+
+#: ../src/common/cmdline.cpp:862
+#, c-format
+msgid "The value for the option '%s' must be specified."
+msgstr "úÎÁÞÅÎÉÅ ÐÁÒÁÍÅÔÒÁ '%s' ÄÏÌÖÎÏ ÂÙÔØ ÏÐÒÅÄÅÌÅÎÏ."
+
+#: ../src/msw/dialup.cpp:455
+#, c-format
+msgid ""
+"The version of remote access service (RAS) installed on this machine is "
+"tooold, please upgrade (the following required function is missing: %s)."
+msgstr ""
+"÷ÅÒÓÉÑ ÓÅÒ×ÉÓÁ ÕÄÁÌÅÎÎÏÇÏ ÄÏÓÔÕÐÁ (RAS), ÕÓÔÁÎÏ×ÌÅÎÎÏÇÏ ÎÁ ÜÔÏÊ ÍÁÛÉÎÅ, "
+"ÓÌÉÛËÏÍ ÕÓÔÁÒÅÌÁ; ÐÏÖÁÌÕÊÓÔÁ, ÏÂÎÏ×ÉÔÅ ÅÇÏ (ÆÕÎËÃÉÑ %s ÎÅ ÎÁÊÄÅÎÁ)."
+
+#: ../src/html/htmprint.cpp:601
+msgid ""
+"There was a problem during page setup: you may need to set a default printer."
+msgstr ""
+"÷ÏÚÎÉËÌÁ ÐÒÏÂÌÅÍÁ ÐÒÉ ÎÁÓÔÒÏÊËÅ ÓÔÒÁÎÉÃÙ: ×ÁÍ ÔÒÅÂÕÅÔÓÑ ÕÓÔÁÎÏ×ÉÔØ ÐÒÉÎÔÅÒ "
+"ÐÏ-ÕÍÏÌÞÁÎÉÀ."
+
+#: ../src/msw/datectrl.cpp:109
+msgid ""
+"This system doesn't support date picker control, please upgrade your version "
+"of comctl32.dll"
+msgstr ""
+"üÔÁ ÓÉÓÔÅÍÁ ÎÅ ÐÏÄÄÅÒÖÉ×ÁÅÔ ÜÌÅÍÅÎÔ ÕÐÒÁ×ÌÅÎÉÑ ×ÙÂÏÒÁ ÄÁÔÙ; ÐÏÖÁÌÕÊÓÔÁ, "
+"ÏÂÎÏ×ÉÔÅ ×ÁÛÕ ×ÅÒÓÉÀ comctl32.dll"
+
+#: ../src/msw/thread.cpp:1206
+msgid ""
+"Thread module initialization failed: can not store value in thread local "
+"storage"
+msgstr ""
+"ïÛÉÂËÁ ÉÎÉÃÉÁÌÉÚÁÃÉÉ ÍÏÄÕÌÑ ÐÏÔÏËÏ×: ÎÅ×ÏÚÍÏÖÎÏ ÓÏÈÒÁÎÉÔØ ÚÎÁÞÅÎÉÅ × "
+"ÌÏËÁÌØÎÏÍ ÐÒÏÓÔÒÁÎÓÔ×Å ÐÏÔÏËÁ"
+
+#: ../src/unix/threadpsx.cpp:1603
+msgid "Thread module initialization failed: failed to create thread key"
+msgstr "ïÛÉÂËÁ ÉÎÉÃÉÁÌÉÚÁÃÉÉ ÍÏÄÕÌÑ ÐÏÔÏËÏ×: ÎÅ ÕÄÁÌÏÓØ ÓÏÚÄÁÔØ ËÌÀÞ ÐÏÔÏËÁ"
+
+#: ../src/msw/thread.cpp:1194
+msgid ""
+"Thread module initialization failed: impossible to allocate index in thread "
+"local storage"
+msgstr ""
+"ïÛÉÂËÁ ÉÎÉÃÉÁÌÉÚÁÃÉÉ ÍÏÄÕÌÑ ÐÏÔÏËÏ×: ÎÅ×ÏÚÍÏÖÎÏ ×ÙÄÅÌÉÔØ ÉÎÄÅËÓ × ÌÏËÁÌØÎÏÍ "
+"ÐÒÏÓÔÒÁÎÓÔ×Å ÐÏÔÏËÁ"
+
+#: ../src/unix/threadpsx.cpp:1108
+msgid "Thread priority setting is ignored."
+msgstr "õÓÔÁÎÏ×ËÁ ÐÒÉÏÒÉÔÅÔÁ ÐÏÔÏËÁ ÐÒÏÉÇÎÏÒÉÒÏ×ÁÎÁ."
+
+#: ../src/msw/mdi.cpp:184
+msgid "Tile &Horizontally"
+msgstr "&çÏÒÉÚÏÎÔÁÌØÎÁÑ ÞÅÒÅÐÉÃÁ"
+
+#: ../src/msw/mdi.cpp:185
+msgid "Tile &Vertically"
+msgstr "&÷ÅÒÔÉËÁÌØÎÁÑ ÞÅÒÅÐÉÃÁ"
+
+#: ../src/common/ftp.cpp:635
+msgid "Timeout while waiting for FTP server to connect, try passive mode."
+msgstr ""
+"ðÒÉ ÏÖÉÄÁÎÉÉ ÐÏÄËÌÀÞÅÎÉÑ Ë FTP ÓÅÒ×ÅÒÕ ×ÏÚÎÉË ÔÁÊÍÁÕÔ, ÐÏÐÒÏÂÕÊÔÅ ÐÁÓÓÉ×ÎÙÊ "
+"ÒÅÖÉÍ."
+
+#: ../src/msw/timer.cpp:116 ../src/os2/timer.cpp:141
+msgid "Timer creation failed."
+msgstr "ïÛÉÂËÁ ÓÏÚÄÁÎÉÑ ÔÁÊÍÅÒÁ."
+
+#: ../src/generic/tipdlg.cpp:220
+msgid "Tip of the Day"
+msgstr "óÏ×ÅÔ ÎÁ ÄÅÎØ"
+
+#: ../src/generic/tipdlg.cpp:157
+msgid "Tips not available, sorry!"
+msgstr "éÚ×ÉÎÉÔÅ, ÓÏ×ÅÔÙ ÎÅÄÏÓÔÕÐÎÙ!"
+
+#: ../src/generic/prntdlgg.cpp:237
+msgid "To:"
+msgstr "äÏ:"
+
+#: ../src/common/imagpng.cpp:292
+msgid "Too many colours in PNG, the image may be slightly blurred."
+msgstr "óÌÉÛËÏÍ ÍÎÏÇÏ Ã×ÅÔÏ× × PNG, ÉÚÏÂÒÁÖÅÎÉÅ ÍÏÖÅÔ ÂÙÔØ ÓÌÅÇËÁ ÒÁÚÍÙÔÏ."
+
+#: ../src/generic/prntdlgg.cpp:880
+msgid "Top margin (mm):"
+msgstr "÷ÅÒÈÎÑÑ ÇÒÁÎÉÃÁ (ÍÍ):"
+
+#: ../src/common/fs_mem.cpp:205
+#, c-format
+msgid "Trying to remove file '%s' from memory VFS, but it is not loaded!"
+msgstr "ðÏÐÙÔËÁ ÕÄÁÌÅÎÉÑ ÆÁÊÌÁ '%s' ÉÚ ÐÁÍÑÔÉ VFS, ÎÏ ÏÎ ÎÅ ÚÁÇÒÕÖÅÎ!"
+
+#: ../src/common/sckaddr.cpp:146 ../src/common/sckaddr.cpp:250
+msgid "Trying to solve a NULL hostname: giving up"
+msgstr "ðÏÐÙÔËÁ ÏÐÒÅÄÅÌÉÔØ ÉÍÑ ÈÏÓÔÁ NULL: ÏÔÍÅÎÅÎÁ"
+
+#: ../src/common/fmapbase.cpp:112
+msgid "Turkish (ISO-8859-9)"
+msgstr "ôÕÒÅÃËÉÊ (ISO-8859-9)"
+
+#: ../src/generic/filedlgg.cpp:433
+msgid "Type"
+msgstr "ôÉÐ"
+
+#: ../src/common/xtistrm.cpp:281 ../src/common/xtixml.cpp:351
+#: ../src/common/xtixml.cpp:498
+msgid "Type must have enum - long conversion"
+msgstr "ôÉÐ ÄÏÌÖÅÎ ÉÍÅÔØ ÐÅÒÅÞÉÓÌÅÎÉÅ - ÄÌÉÎÎÏÅ ÐÒÅÏÂÒÁÚÏ×ÁÎÉÅ"
+
+#: ../src/common/paper.cpp:140
+msgid "US Std Fanfold, 14 7/8 x 11 in"
+msgstr "US Std Fanfold, 14 7/8 x 11 ÄÀÊÍÁ"
+
+#: ../src/html/htmlwin.cpp:403
+#, c-format
+msgid "Unable to open requested HTML document: %s"
+msgstr "îÅ×ÏÚÍÏÖÎÏ ÏÔËÒÙÔØ ÚÁÐÒÏÛÅÎÎÙÊ ÄÏËÕÍÅÎÔ HTML: %s"
+
+#: ../src/unix/sound.cpp:376
+msgid "Unable to play sound asynchronously."
+msgstr "îÅ×ÏÚÍÏÖÎÏ ÁÓÉÎÈÒÏÎÎÏ ×ÏÓÐÒÏÉÚ×ÅÓÔÉ Ú×ÕË."
+
+#: ../src/common/stockitem.cpp:148
+msgid "Undelete"
+msgstr "ïÔÍÅÎÁ ÕÄÁÌÅÎÉÑ"
+
+#: ../contrib/src/deprecated/resource.cpp:1848
+#: ../contrib/src/deprecated/resource.cpp:1862
+#: ../contrib/src/deprecated/resource.cpp:1879
+#: ../contrib/src/deprecated/resource.cpp:1893
+#: ../contrib/src/deprecated/resource.cpp:1978
+#: ../contrib/src/deprecated/resource.cpp:1992
+#: ../contrib/src/deprecated/resource.cpp:2008
+#: ../contrib/src/deprecated/resource.cpp:2022
+#: ../contrib/src/deprecated/resource.cpp:3070
+#: ../contrib/src/deprecated/resource.cpp:3084
+#: ../contrib/src/deprecated/resource.cpp:3101
+#: ../contrib/src/deprecated/resource.cpp:3115
+msgid "Unexpected end of file while parsing resource."
+msgstr "îÅÏÖÉÄÁÎÎÙÊ ËÏÎÅÃ ÆÁÊÌÁ ×Ï ×ÒÅÍÑ ÒÁÚÂÏÒÁ ÒÅÓÕÒÓÁ."
+
+#: ../src/common/cmdline.cpp:826
+#, c-format
+msgid "Unexpected parameter '%s'"
+msgstr "îÅÏÖÉÄÁÎÎÙÊ ÐÁÒÁÍÅÔÒ '%s'"
+
+#: ../src/common/fmapbase.cpp:137
+msgid "Unicode 16 bit (UTF-16)"
+msgstr "16-ÂÉÔÎÙÊ ÀÎÉËÏÄ (UTF-16)"
+
+#: ../src/common/fmapbase.cpp:138
+msgid "Unicode 16 bit Big Endian (UTF-16BE)"
+msgstr "16-ÂÉÔÎÙÊ ÀÎÉËÏÄ Big Endian (UTF-16BE)"
+
+#: ../src/common/fmapbase.cpp:139
+msgid "Unicode 16 bit Little Endian (UTF-16LE)"
+msgstr "16-ÂÉÔÎÙÊ ÀÎÉËÏÄ Little Endian (UTF-16LE)"
+
+#: ../src/common/fmapbase.cpp:140
+msgid "Unicode 32 bit (UTF-32)"
+msgstr "32-ÂÉÔÎÙÊ ÀÎÉËÏÄ (UTF-32)"
+
+#: ../src/common/fmapbase.cpp:141
+msgid "Unicode 32 bit Big Endian (UTF-32BE)"
+msgstr "32-ÂÉÔÎÙÊ ÀÎÉËÏÄ Big Endian (UTF-32BE)"
+
+#: ../src/common/fmapbase.cpp:142
+msgid "Unicode 32 bit Little Endian (UTF-32LE)"
+msgstr "32-ÂÉÔÎÙÊ ÀÎÉËÏÄ Little Endian (UTF-32LE)"
+
+#: ../src/common/fmapbase.cpp:135
+msgid "Unicode 7 bit (UTF-7)"
+msgstr "7-ÂÉÔÎÙÊ ÀÎÉËÏÄ (UTF-7)"
+
+#: ../src/common/fmapbase.cpp:136
+msgid "Unicode 8 bit (UTF-8)"
+msgstr "8-ÂÉÔÎÙÊ ÀÎÉËÏÄ (UTF-8)"
+
+#: ../src/msw/dde.cpp:1093
+#, c-format
+msgid "Unknown DDE error %08x"
+msgstr "îÅÉÚ×ÅÓÔÎÁÑ ÏÛÉÂËÁ DDE %08x"
+
+#: ../src/common/xtistrm.cpp:370
+msgid "Unknown Object passed to GetObjectClassInfo"
+msgstr "îÅÉÚ×ÅÓÔÎÙÊ ÏÂßÅËÔ ÐÅÒÅÄÁÎ × GetObjectClassInfo"
+
+#: ../src/unix/dlunix.cpp:275
+msgid "Unknown dynamic library error"
+msgstr "îÅÉÚ×ÅÓÔÎÁÑ ÏÛÉÂËÁ ÄÉÎÁÍÉÞÅÓËÏÊ ÂÉÂÌÉÏÔÅËÉ"
+
+#: ../src/common/fmapbase.cpp:695
+#, c-format
+msgid "Unknown encoding (%d)"
+msgstr "îÅÉÚ×ÅÓÔÎÁÑ ËÏÄÉÒÏ×ËÁ (%d)"
+
+#: ../src/unix/mimetype.cpp:2344
+#, c-format
+msgid "Unknown field in file %s, line %d: '%s'."
+msgstr "îÅÉÚ×ÅÓÔÎÏÅ ÐÏÌÅ × ÆÁÊÌÅ %s, ÓÔÒÏËÁ %d: '%s'."
+
+#: ../src/common/cmdline.cpp:599
+#, c-format
+msgid "Unknown long option '%s'"
+msgstr "îÅÉÚ×ÅÓÔÎÙÊ ÄÌÉÎÎÙÊ ÐÁÒÁÍÅÔÒ '%s'"
+
+#: ../src/common/cmdline.cpp:608 ../src/common/cmdline.cpp:629
+#, c-format
+msgid "Unknown option '%s'"
+msgstr "îÅÉÚ×ÅÓÔÎÙÊ ÐÁÒÁÍÅÔÒ '%s'"
+
+#: ../src/xrc/xmlres.cpp:823
+msgid "Unknown style flag "
+msgstr "îÅÉÚ×ÅÓÔÎÙÊ ÆÌÁÇ ÓÔÉÌÑ "
+
+#: ../src/common/xtixml.cpp:324
+#, c-format
+msgid "Unkown Property %s"
+msgstr "îÅÉÚ×ÅÓÔÎÏÅ Ó×ÏÊÓÔ×Ï %s"
+
+#: ../src/common/mimecmn.cpp:163
+#, c-format
+msgid "Unmatched '{' in an entry for mime type %s."
+msgstr "îÅÚÁËÒÙÔÁÑ ÓËÏÂËÁ '{' × ÚÁÐÉÓÉ ÄÌÑ ÔÉÐÁ mime %s."
+
+#: ../src/common/cmdproc.cpp:261 ../src/common/cmdproc.cpp:287
+#: ../src/common/cmdproc.cpp:307
+msgid "Unnamed command"
+msgstr "âÅÚÉÍÑÎÎÁÑ ËÏÍÁÎÄÁ"
+
+#: ../contrib/src/deprecated/resource.cpp:2367
+#, c-format
+msgid "Unrecognized style %s while parsing resource."
+msgstr "îÅÒÁÓÐÏÚÎÁ×ÁÅÍÙÊ ÓÔÉÌØ %s ×Ï ×ÒÅÍÑ ÒÁÚÂÏÒÁ ÒÅÓÕÒÓÁ."
+
+#: ../src/mac/carbon/clipbrd.cpp:68 ../src/mac/classic/clipbrd.cpp:64
+#: ../src/msw/clipbrd.cpp:273 ../src/msw/clipbrd.cpp:445
+msgid "Unsupported clipboard format."
+msgstr "îÅÐÏÄÄÅÒÖÉ×ÁÅÍÙÊ ÆÏÒÍÁÔ ÂÕÆÅÒÁ ÏÂÍÅÎÁ."
+
+#: ../src/common/appcmn.cpp:232
+#, c-format
+msgid "Unsupported theme '%s'."
+msgstr "îÅÐÏÄÄÅÒÖÉ×ÁÅÍÁÑ ÔÅÍÁ '%s'."
+
+#: ../src/generic/fdrepdlg.cpp:158
+msgid "Up"
+msgstr "÷×ÅÒÈ"
+
+#: ../src/common/cmdline.cpp:954
+#, c-format
+msgid "Usage: %s"
+msgstr "éÓÐÏÌØÚÏ×ÁÎÉÅ: %s"
+
+#: ../src/common/valtext.cpp:181
+msgid "Validation conflict"
+msgstr "ëÏÎÆÌÉËÔ ÐÒÏ×ÅÒËÉ"
+
+#: ../contrib/src/mmedia/vidbase.cpp:65
+msgid "Video Output"
+msgstr "÷ÉÄÅÏ-×ÙÈÏÄ"
+
+#: ../src/generic/filedlgg.cpp:972
+msgid "View files as a detailed view"
+msgstr "ðÒÏÓÍÏÔÒ ÆÁÊÌÏ× × ×ÉÄÅ ÐÏÄÒÏÂÎÏÇÏ ÓÐÉÓËÁ"
+
+#: ../src/generic/filedlgg.cpp:965
+msgid "View files as a list view"
+msgstr "ðÒÏÓÍÏÔÒ ÆÁÊÌÏ× × ×ÉÄÅ ÓÐÉÓËÁ"
+
+#: ../src/common/docview.cpp:1777
+msgid "Views"
+msgstr "÷ÉÄÙ"
+
+#: ../src/unix/baseunix.cpp:78
+msgid "Waiting for subprocess termination failed"
+msgstr "ïÛÉÂËÁ ÏÖÉÄÁÎÉÑ ÏËÏÎÞÁÎÉÑ ×ÙÐÏÌÎÅÎÉÑ ÐÏÄÐÒÏÃÅÓÓÁ"
+
+#: ../src/common/docview.cpp:461
+msgid "Warning"
+msgstr "ðÒÅÄÕÐÒÅÖÄÅÎÉÅ"
+
+#: ../src/common/log.cpp:480
+msgid "Warning: "
+msgstr "ðÒÅÄÕÐÒÅÖÄÅÎÉÅ: "
+
+#: ../src/html/htmlpars.cpp:391
+msgid "Warning: attempt to remove HTML tag handler from empty stack."
+msgstr "ðÒÅÄÕÐÒÅÖÄÅÎÉÅ: ÐÏÐÙÔËÁ ÕÄÁÌÉÔØ ÏÂÒÁÂÏÔÞÉË ÔÅÇÁ HTML ÉÚ ÐÕÓÔÏÇÏ ÓÔÅËÁ."
+
+#: ../src/common/fmapbase.cpp:104
+msgid "Western European (ISO-8859-1)"
+msgstr "úÁÐÁÄÎÏ-Å×ÒÏÐÅÊÓËÉÊ (ISO-8859-1)"
+
+#: ../src/common/fmapbase.cpp:118
+msgid "Western European with Euro (ISO-8859-15)"
+msgstr "úÁÐÁÄÎÏ-Å×ÒÏÐÅÊÓËÉÊ Ó ÓÉÍ×ÏÌÏÍ å×ÒÏ (ISO-8859-15)"
+
+#: ../src/generic/fontdlgg.cpp:339 ../src/generic/fontdlgg.cpp:341
+msgid "Whether the font is underlined."
+msgstr "ìÉÂÏ ÛÒÉÆÔ ÂÕÄÅÔ ÐÏÄÞÅÒËÎÕÔ."
+
+#: ../src/generic/fdrepdlg.cpp:150
+msgid "Whole word"
+msgstr "óÌÏ×Ï ÃÅÌÉËÏÍ"
+
+#: ../src/html/helpfrm.cpp:535
+msgid "Whole words only"
+msgstr "ôÏÌØËÏ ÓÌÏ×Á ÃÅÌÉËÏÍ"
+
+#: ../src/univ/themes/win32.cpp:1235
+msgid "Win32 theme"
+msgstr "ôÅÍÁ Win32"
+
+#: ../src/msw/utils.cpp:1063
+msgid "Win32s on Windows 3.1"
+msgstr "Win32s ÎÁ Windows 3.1"
+
+#: ../src/msw/utils.cpp:1112
+#, c-format
+msgid "Windows 2000 (build %lu"
+msgstr "Windows 2000 (ÓÂÏÒËÁ %lu"
+
+#: ../src/msw/utils.cpp:1077
+msgid "Windows 95"
+msgstr "Windows 95"
+
+#: ../src/msw/utils.cpp:1073
+msgid "Windows 95 OSR2"
+msgstr "Windows 95 OSR2"
+
+#: ../src/msw/utils.cpp:1088
+msgid "Windows 98"
+msgstr "Windows 98"
+
+#: ../src/msw/utils.cpp:1084
+msgid "Windows 98 SE"
+msgstr "Windows 98 SE"
+
+#: ../src/msw/utils.cpp:1095
+#, c-format
+msgid "Windows 9x (%d.%d)"
+msgstr "Windows 9x (%d.%d)"
+
+#: ../src/common/fmapbase.cpp:132
+msgid "Windows Arabic (CP 1256)"
+msgstr "áÒÁÂÓËÉÊ Windows (CP 1256)"
+
+#: ../src/common/fmapbase.cpp:133
+msgid "Windows Baltic (CP 1257)"
+msgstr "âÁÌÔÉÊÓËÉÊ Windows (CP 1257)"
+
+#: ../src/common/fmapbase.cpp:126
+msgid "Windows Central European (CP 1250)"
+msgstr "ãÅÎÔÒÁÌØÎÏ-Å×ÒÏÐÅÊÓËÉÊ Windows (CP 1250)"
+
+#: ../src/common/fmapbase.cpp:123
+msgid "Windows Chinese Simplified (CP 936)"
+msgstr "õÐÒÏÝÅÎÎÙÊ ËÉÔÁÊÓËÉÊ Windows (CP 936)"
+
+#: ../src/common/fmapbase.cpp:125
+msgid "Windows Chinese Traditional (CP 950)"
+msgstr "ôÒÁÄÉÃÉÏÎÎÙÊ ËÉÔÁÊÓËÉÊ Windows (CP 950)"
+
+#: ../src/common/fmapbase.cpp:127
+msgid "Windows Cyrillic (CP 1251)"
+msgstr "ëÉÒÉÌÌÉÃÁ Windows (CP 1251)"
+
+#: ../src/common/fmapbase.cpp:129
+msgid "Windows Greek (CP 1253)"
+msgstr "çÒÅÞÅÓËÉÊ Windows (CP 1253)"
+
+#: ../src/common/fmapbase.cpp:131
+msgid "Windows Hebrew (CP 1255)"
+msgstr "é×ÒÉÔ Windows (CP 1255)"
+
+#: ../src/common/fmapbase.cpp:122
+msgid "Windows Japanese (CP 932)"
+msgstr "ñÐÏÎÓËÉÊ Windows (CP 932)"
+
+#: ../src/common/fmapbase.cpp:124
+msgid "Windows Korean (CP 949)"
+msgstr "ëÏÒÅÊÓËÉÊ Windows (CP 949)"
+
+#: ../src/msw/utils.cpp:1092
+msgid "Windows ME"
+msgstr "Windows ME"
+
+#: ../src/msw/utils.cpp:1127
+#, c-format
+msgid "Windows NT %lu.%lu (build %lu"
+msgstr "Windows NT %lu.%lu (ÓÂÏÒËÁ %lu"
+
+#: ../src/msw/utils.cpp:1120
+#, c-format
+msgid "Windows Server 2003 (build %lu"
+msgstr "Windows Server 2003 (ÓÂÏÒËÁ %lu"
+
+#: ../src/common/fmapbase.cpp:121
+#, fuzzy
+msgid "Windows Thai (CP 874)"
+msgstr "âÁÌÔÉÊÓËÉÊ Windows (CP 1257)"
+
+#: ../src/common/fmapbase.cpp:130
+msgid "Windows Turkish (CP 1254)"
+msgstr "ôÕÒÅÃËÉÊ Windows (CP 1254)"
+
+#: ../src/common/fmapbase.cpp:128
+msgid "Windows Western European (CP 1252)"
+msgstr "úÁÐÁÄÎÏ-Å×ÒÏÐÅÊÓËÉÊ Windows (CP 1252)"
+
+#: ../src/msw/utils.cpp:1116
+#, c-format
+msgid "Windows XP (build %lu"
+msgstr "Windows XP (ÓÂÏÒËÁ %lu"
+
+#: ../src/common/fmapbase.cpp:134
+msgid "Windows/DOS OEM (CP 437)"
+msgstr "Windows/DOS OEM (CP 437)"
+
+#: ../src/common/ffile.cpp:158
+#, c-format
+msgid "Write error on file '%s'"
+msgstr "ïÛÉÂËÁ ÚÁÐÉÓÉ × ÆÁÊÌ '%s'"
+
+#: ../src/xml/xml.cpp:562
+#, c-format
+msgid "XML parsing error: '%s' at line %d"
+msgstr "ïÛÉÂËÁ ÒÁÚÂÏÒÁ XML: '%s' × ÓÔÒÏËÅ %d"
+
+#: ../src/common/xpmdecod.cpp:774
+msgid "XPM: Malformed pixel data!"
+msgstr "XPM: îÅ×ÅÒÎÏ ÓÆÏÒÍÉÒÏ×ÁÎÎÙÅ ÄÁÎÎÙÅ ÐÉËÓÅÌÏ×!"
+
+#: ../src/common/xpmdecod.cpp:712 ../src/common/xpmdecod.cpp:721
+#, c-format
+msgid "XPM: malformed colour definition '%s'!"
+msgstr "XPM: ÎÅ×ÅÒÎÏÅ ÓÆÏÒÍÉÒÏ×ÁÎÎÏÅ ÏÐÒÅÄÅÌÅÎÉÅ Ã×ÅÔÁ '%s'!"
+
+#: ../src/xrc/xmlres.cpp:579
+#, c-format
+msgid "XRC resource '%s' (class '%s') not found!"
+msgstr "òÅÓÕÒÓ XRC '%s' (ËÌÁÓÓ '%s') ÎÅ ÎÁÊÄÅÎ!"
+
+#: ../src/xrc/xmlres.cpp:1080 ../src/xrc/xmlres.cpp:1092
+#, c-format
+msgid "XRC resource: Cannot create bitmap from '%s'."
+msgstr "òÅÓÕÒÓ XRC: îÅ×ÏÚÍÏÖÎÏ ÓÏÚÄÁÔØ ÉÚÏÂÒÁÖÅÎÉÅ ÉÚ '%s'."
+
+#: ../src/xrc/xmlres.cpp:1036
+#, c-format
+msgid "XRC resource: Incorrect colour specification '%s' for property '%s'."
+msgstr "òÅÓÕÒÓ XRC: îÅ×ÅÒÎÁÑ ÓÐÅÃÉÆÉËÁÃÉÑ Ã×ÅÔÁ '%s' ÄÌÑ Ó×ÏÊÓÔ×Á '%s'."
+
+#: ../src/mac/carbon/msgdlg.cpp:59 ../src/mac/carbon/msgdlg.cpp:142
+#: ../src/mac/classic/msgdlg.cpp:57 ../src/mac/classic/msgdlg.cpp:139
+#: ../src/motif/msgdlg.cpp:204
+msgid "Yes"
+msgstr "äÁ"
+
+#: ../src/generic/dirdlgg.cpp:306
+msgid "You cannot add a new directory to this section."
+msgstr "÷Ù ÎÅ ÍÏÖÅÔÅ ÄÏÂÁ×ÉÔØ ÎÏ×ÙÊ ËÁÔÁÌÏÇ × ÜÔÕ ÓÅËÃÉÀ."
+
+#: ../src/common/stockitem.cpp:155
+msgid "Zoom &In"
+msgstr "&õ×ÅÌÉÞÉÔØ"
+
+#: ../src/common/stockitem.cpp:156
+msgid "Zoom &Out"
+msgstr "õ&ÍÅÎØÛÉÔØ"
+
+#: ../src/common/stockitem.cpp:154
+msgid "Zoom to &Fit"
+msgstr "&òÁÓÔÑÎÕÔØ"
+
+#: ../src/common/docview.cpp:2133
+msgid "[EMPTY]"
+msgstr "[ðõóôï]"
+
+#: ../src/msw/dde.cpp:1060
+msgid "a DDEML application has created a prolonged race condition."
+msgstr "ÐÒÉÌÏÖÅÎÉÅ DDEML ÓÏÚÄÁÌÏ ÄÌÉÔÅÌØÎÙÊ race condition."
+
+#: ../src/msw/dde.cpp:1048
+msgid ""
+"a DDEML function was called without first calling the DdeInitialize "
+"function,\n"
+"or an invalid instance identifier\n"
+"was passed to a DDEML function."
+msgstr ""
+"ÆÕÎËÃÉÑ DDEML ÂÙÌÁ ×ÙÚ×ÁÎÁ ÂÅÚ ÐÅÒ×ÏÎÁÞÁÌØÎÏÇÏ ×ÙÚÏ×Á ÆÕÎËÃÉÉ "
+"DdeInitialize,\n"
+"ÉÌÉ ÎÅ×ÅÒÎÙÊ ÉÄÅÎÔÉÆÉËÁÔÏÒ ÜËÚÅÍÐÌÑÒÁ\n"
+"ÂÙÌ ÐÅÒÅÄÁÎ × ÆÕÎËÃÉÀ DDEML."
+
+#: ../src/msw/dde.cpp:1066
+msgid "a client's attempt to establish a conversation has failed."
+msgstr "ÐÏÐÙÔËÁ ËÌÉÅÎÔÁ ÕÓÔÁÎÏ×ÉÔØ ÄÉÁÌÏÇ ÎÅ ÕÄÁÌÁÓØ."
+
+#: ../src/msw/dde.cpp:1063
+msgid "a memory allocation failed."
+msgstr "ÏÛÉÂËÁ ×ÙÄÅÌÅÎÉÑ ÐÁÍÑÔÉ."
+
+#: ../src/msw/dde.cpp:1057
+msgid "a parameter failed to be validated by the DDEML."
+msgstr "ÎÅ ÕÄÁÌÏÓØ ÐÒÏ×ÅÒÉÔØ ÐÁÒÁÍÅÔÒ Ó ÐÏÍÏÝØÀ DDEML."
+
+#: ../src/msw/dde.cpp:1039
+msgid "a request for a synchronous advise transaction has timed out."
+msgstr "ÐÒÏÉÚÏÛÅÌ ÔÁÊÍ-ÁÕÔ ÐÒÉ ÚÁÐÒÏÓÅ ÓÉÎÈÒÏÎÎÏÇÏ ÉÚ×ÅÝÅÎÉÑ ÔÒÁÎÚÁËÃÉÉ"
+
+#: ../src/msw/dde.cpp:1045
+msgid "a request for a synchronous data transaction has timed out."
+msgstr "ÐÒÏÉÚÏÛÅÌ ÔÁÊÍ-ÁÕÔ ÐÒÉ ÓÉÎÈÒÏÎÎÏÍ ÚÁÐÒÏÓÅ ÄÁÎÎÙÈ ÔÒÁÎÚÁËÃÉÉ"
+
+#: ../src/msw/dde.cpp:1054
+msgid "a request for a synchronous execute transaction has timed out."
+msgstr "ÐÒÏÉÚÏÛÅÌ ÔÁÊÍ-ÁÕÔ ÐÒÉ ÚÁÐÒÏÓÅ ÓÉÎÈÒÏÎÎÏÇÏ ×ÙÐÏÌÎÅÎÉÑ ÔÒÁÎÚÁËÃÉÉ "
+
+#: ../src/msw/dde.cpp:1072
+msgid "a request for a synchronous poke transaction has timed out."
+msgstr "ÐÒÏÉÚÏÛÅÌ ÔÁÊÍ-ÁÕÔ ÐÒÉ ÚÁÐÒÏÓÅ ÓÉÎÈÒÏÎÎÏÇÏ ÐÏÍÅÝÅÎÉÑ ÔÒÁÎÚÁÃÉÉ"
+
+#: ../src/msw/dde.cpp:1087
+msgid "a request to end an advise transaction has timed out."
+msgstr "ÐÒÏÉÚÏÛÅÌ ÔÁÊÍ-ÁÕÔ ÐÒÉ ÚÁÐÒÏÓÅ ÎÁ ÚÁ×ÅÒÛÅÎÉÅ ÉÚ×ÅÝÅÎÉÑ ÔÒÁÎÚÁËÃÉÉ"
+
+#: ../src/msw/dde.cpp:1081
+msgid ""
+"a server-side transaction was attempted on a conversation\n"
+"that was terminated by the client, or the server\n"
+"terminated before completing a transaction."
+msgstr ""
+"ÔÒÁÎÚÁËÃÉÑ ÎÁ ÓÔÏÒÏÎÅ ÓÅÒ×ÅÒÁ ÐÏÐÙÔÁÌÁÓØ ÐÒÏÉÚ×ÅÓÔÉ ÄÉÁÌÏÇ\n"
+", ÞÔÏ ÂÙÌÏ ÐÒÅÒ×ÁÎÏ ËÌÉÅÎÔÏÍ, ÌÉÂÏ ÒÁÂÏÔÁ ÓÅÒ×ÅÒÁ\n"
+"ÂÙÌÁ ÏÓÔÁÎÏ×ÌÅÎÁ ÄÏ ÚÁ×ÅÒÛÅÎÉÑ ÔÒÁÎÚÁËÃÉÉ."
+
+#: ../src/msw/dde.cpp:1069
+msgid "a transaction failed."
+msgstr "ÔÒÁÎÚÁËÃÉÑ ÚÁ×ÅÒÛÉÌÁÓØ Ó ÏÛÉÂËÏÊ"
+
+#: ../src/common/menucmn.cpp:114
+msgid "alt"
+msgstr "alt"
+
+#: ../src/msw/dde.cpp:1051
+msgid ""
+"an application initialized as APPCLASS_MONITOR has\n"
+"attempted to perform a DDE transaction,\n"
+"or an application initialized as APPCMD_CLIENTONLY has \n"
+"attempted to perform server transactions."
+msgstr ""
+"ÐÒÉÌÏÖÅÎÉÅ, ÉÎÉÃÉÁÌÉÚÉÒÏ×ÁÎÎÏÅ ËÁË APPCLASS_MONITOR\n"
+"ÐÙÔÁÌÏÓØ ×ÙÐÏÌÎÉÔØ ÔÒÁÎÚÁËÃÉÀ DDE,\n"
+"ÉÌÉ ÐÒÉÌÏÖÅÎÉÅ, ÉÎÉÃÉÁÌÉÚÉÒÏ×ÁÎÎÏÅ ËÁË APPCMD_CLIENTONLY\n"
+"ÐÙÔÁÌÏÓØ ÏÓÕÝÅÓÔ×ÉÔØ ÓÅÒ×ÅÒÎÕÀ ÔÒÁÎÚÁËÃÉÀ."
+
+#: ../src/msw/dde.cpp:1075
+msgid "an internal call to the PostMessage function has failed. "
+msgstr "×ÎÕÔÒÅÎÎÉÊ ×ÙÚÏ× ÆÕÎËÃÉÉ PostMessage ÎÅ ÕÄÁÌÓÑ. "
+
+#: ../src/msw/dde.cpp:1084
+msgid "an internal error has occurred in the DDEML."
+msgstr "× DDEML ÐÒÏÉÚÏÛÌÁ ×ÎÕÔÒÅÎÎÑÑ ÏÛÉÂËÁ."
+
+#: ../src/msw/dde.cpp:1090
+msgid ""
+"an invalid transaction identifier was passed to a DDEML function.\n"
+"Once the application has returned from an XTYP_XACT_COMPLETE callback,\n"
+"the transaction identifier for that callback is no longer valid."
+msgstr ""
+"ÎÅ×ÅÒÎÙÊ ÉÄÅÎÔÉÆÉËÁÔÏÒ ÔÒÁÎÚÁËÃÉÉ ÂÙÌ ÐÅÒÅÄÁÎ × ÆÕÎËÃÉÀ DDEML.\n"
+"ëÏÇÄÁ ÐÒÉÌÏÖÅÎÉÅ ×ÏÚ×ÒÁÔÉÔÓÑ ÉÚ ÏÂÒÁÔÎÏÇÏ ×ÙÚÏ×Á XTYP_XACT_COMPLETE,\n"
+"ÉÄÅÎÔÉÆÉËÁÔÏÒ ÔÒÁÎÚÁËÃÉÉ ÄÌÑ ÜÔÏÇÏ ÏÂÒÁÔÎÏÇÏ ×ÙÚÏ×Á ÂÏÌÅÅ ÎÅ ÂÕÄÅÔ ×ÅÒÎÙÍ."
+
+#: ../src/common/zipstrm.cpp:1330
+msgid "assuming this is a multi-part zip concatenated"
+msgstr "ÐÏÄÒÁÚÕÍÅ×ÁÅÔÓÑ, ÞÔÏ ÜÔÏ ÏÂßÅÄÉÎÅÎÉÅ ÍÎÏÇÏÔÏÍÎÏÇÏ zip"
+
+#: ../src/common/fileconf.cpp:1847
+#, c-format
+msgid "attempt to change immutable key '%s' ignored."
+msgstr "ÐÏÐÙÔËÁ ÉÚÍÅÎÉÔØ ÎÅÉÚÍÅÎÑÅÍÙÊ ËÌÀÞ '%s' ÐÒÏÉÇÎÏÒÉÒÏ×ÁÎÁ."
+
+#: ../src/html/chm.cpp:330
+msgid "bad arguments to library function"
+msgstr "ÎÅ×ÅÒÎÙÅ ÁÒÇÕÍÅÎÔÙ Õ ÂÉÂÌÉÏÔÅÞÎÏÊ ÆÕÎËÃÉÉ"
+
+#: ../src/html/chm.cpp:342
+msgid "bad signature"
+msgstr "ÎÅ×ÅÒÎÁÑ ÐÏÄÐÉÓØ"
+
+#: ../src/common/zipstrm.cpp:1580
+msgid "bad zipfile offset to entry"
+msgstr "ÎÅ×ÅÒÎÏÅ ÓÍÅÝÅÎÉÅ × ÜÌÅÍÅÎÔ Õ zipfile"
+
+#: ../src/common/ftp.cpp:385
+msgid "binary"
+msgstr "Ä×ÏÉÞÎÙÊ"
+
+#: ../src/common/fontcmn.cpp:646
+msgid "bold"
+msgstr "ÖÉÒÎÙÊ"
+
+#: ../src/common/fontcmn.cpp:570
+msgid "bold "
+msgstr "ÖÉÒÎÙÊ "
+
+#: ../src/os2/iniconf.cpp:451
+msgid "buffer is too small for Windows directory."
+msgstr ""
+
+#: ../src/common/ffile.cpp:91
+#, c-format
+msgid "can't close file '%s'"
+msgstr "ÎÅ×ÏÚÍÏÖÎÏ ÚÁËÒÙÔØ ÆÁÊÌ '%s'"
+
+#: ../src/common/file.cpp:286
+#, c-format
+msgid "can't close file descriptor %d"
+msgstr "ÎÅ×ÏÚÍÏÖÎÏ ÚÁËÒÙÔØ ÄÅÓËÒÉÐÔÏÒ ÆÁÊÌÁ %d"
+
+#: ../src/common/file.cpp:551
+#, c-format
+msgid "can't commit changes to file '%s'"
+msgstr "ÎÅ×ÏÚÍÏÖÎÏ ÚÁÐÉÓÁÔØ ÉÚÍÅÎÅÎÉÑ × ÆÁÊÌ '%s'"
+
+#: ../src/common/file.cpp:217
+#, c-format
+msgid "can't create file '%s'"
+msgstr "ÎÅ×ÏÚÍÏÖÎÏ ÓÏÚÄÁÔØ ÆÁÊÌ '%s'"
+
+#: ../src/common/fileconf.cpp:1159
+#, c-format
+msgid "can't delete user configuration file '%s'"
+msgstr "ÎÅ×ÏÚÍÏÖÎÏ ÕÄÁÌÉÔØ ÆÁÊÌ ËÏÎÆÉÇÕÒÁÃÉÉ ÐÏÌØÚÏ×ÁÔÅÌÑ '%s'"
+
+#: ../src/common/file.cpp:457
+#, c-format
+msgid "can't determine if the end of file is reached on descriptor %d"
+msgstr "ÎÅ×ÏÚÍÏÖÎÏ ÏÐÒÅÄÅÌÉÔØ ÄÏÓÔÉÖÅÎÉÅ ËÏÎÃÁ ÆÁÊÌÁ Ó ÄÅÓËÒÉÐÔÏÒÏÍ %d"
+
+#: ../src/msdos/utilsdos.cpp:307 ../src/msdos/utilsdos.cpp:466
+#, fuzzy, c-format
+msgid "can't execute '%s'"
+msgstr "îÅ ÕÄÁÌÏÓØ ×ÙÐÏÌÎÉÔØ '%s'\n"
+
+#: ../src/common/zipstrm.cpp:1357
+msgid "can't find central directory in zip"
+msgstr "îÅ×ÏÚÍÏÖÎÏ ÎÁÊÔÉ ÃÅÎÔÒÁÌØÎÙÊ ËÁÔÁÌÏÇ × zip"
+
+#: ../src/common/file.cpp:427
+#, c-format
+msgid "can't find length of file on file descriptor %d"
+msgstr "ÎÅ×ÏÚÍÏÖÎÏ ÎÁÊÔÉ ÄÌÉÎÕ ÆÁÊÌÁ Ó ÄÅÓËÒÉÐÔÏÒÏÍ %d"
+
+#: ../src/msw/utils.cpp:380
+msgid "can't find user's HOME, using current directory."
+msgstr ""
+"ÎÅ×ÏÚÍÏÖÎÏ ÏÐÒÅÄÅÌÉÔØ ÄÏÍÁÛÎÉÊ ËÁÔÁÌÏÇ ÐÏÌØÚÏ×ÁÔÅÌÑ, ÂÕÄÅÔ ÉÓÐÏÌØÚÏ×ÁÎ "
+"ÔÅËÕÝÉÊ ËÁÔÁÌÏÇ."
+
+#: ../src/common/file.cpp:341
+#, c-format
+msgid "can't flush file descriptor %d"
+msgstr "ÎÅ×ÏÚÍÏÖÎÏ ÓÂÒÏÓÉÔØ ÂÕÆÅÒ ÆÁÊÌÁ Ó ÄÅÓËÒÉÐÔÏÒÏÍ %d"
+
+#: ../src/common/file.cpp:399 ../src/msw/wince/filefnwce.cpp:202
+#, c-format
+msgid "can't get seek position on file descriptor %d"
+msgstr "ÎÅ×ÏÚÍÏÖÎÏ ÐÏÌÕÞÉÔØ ÔÅËÕÝÕÀ ÐÏÚÉÃÉÀ ÆÁÊÌÁ Ó ÄÅÓËÒÉÐÔÏÒÏÍ %d"
+
+#: ../src/common/fontmap.cpp:326
+msgid "can't load any font, aborting"
+msgstr "ÎÅ×ÏÚÍÏÖÎÏ ÚÁÇÒÕÚÉÔØ ÎÉ ÏÄÉÎ ÛÒÉÆÔ, ÏÓÔÁÎÏ×"
+
+#: ../src/common/ffile.cpp:75 ../src/common/file.cpp:271
+#, c-format
+msgid "can't open file '%s'"
+msgstr "ÎÅ×ÏÚÍÏÖÎÏ ÏÔËÒÙÔØ ÆÁÊÌ '%s'"
+
+#: ../src/common/fileconf.cpp:404
+#, c-format
+msgid "can't open global configuration file '%s'."
+msgstr "ÎÅ×ÏÚÍÏÖÎÏ ÏÔËÒÙÔØ ÇÌÏÂÁÌØÎÙÊ ÆÁÊÌ ËÏÎÆÉÇÕÒÁÃÉÉ '%s'."
+
+#: ../src/common/fileconf.cpp:419
+#, c-format
+msgid "can't open user configuration file '%s'."
+msgstr "ÎÅ×ÏÚÍÏÖÎÏ ÏÔËÒÙÔØ ÐÏÌØÚÏ×ÁÔÅÌØÓËÉÊ ÆÁÊÌ ËÏÎÆÉÇÕÒÁÃÉÉ '%s'."
+
+#: ../src/common/fileconf.cpp:1005
+msgid "can't open user configuration file."
+msgstr "ÎÅ×ÏÚÍÏÖÎÏ ÏÔËÒÙÔØ ÐÏÌØÚÏ×ÁÔÅÌØÓËÉÊ ÆÁÊÌ ËÏÎÆÉÇÕÒÁÃÉÉ."
+
+#: ../src/common/dynlib.cpp:253
+msgid "can't query for GUI plugins name in console applications"
+msgstr "ÏÐÒÏÓ ÎÁÚ×ÁÎÉÊ ÒÁÓÛÉÒÅÎÉÊ GUI × ËÏÎÓÏÌØÎÙÈ ÐÒÉÌÏÖÅÎÉÑÈ ÎÅ×ÏÚÍÏÖÅÎ"
+
+#: ../src/common/zipstrm.cpp:436
+msgid "can't re-initialize zlib deflate stream"
+msgstr "îÅ×ÏÚÍÏÖÎÏ ÐÅÒÅÉÎÉÃÉÁÌÉÚÉÒÏ×ÁÔØ ÐÏÔÏË ÒÁÓÐÁËÏ×ËÉ zlib"
+
+#: ../src/common/zipstrm.cpp:461
+msgid "can't re-initialize zlib inflate stream"
+msgstr "îÅ×ÏÚÍÏÖÎÏ ÐÅÒÅÉÎÉÃÉÁÌÉÚÉÒÏ×ÁÔØ ÐÏÔÏË ÓÖÁÔÉÑ zlib"
+
+#: ../src/common/file.cpp:310
+#, c-format
+msgid "can't read from file descriptor %d"
+msgstr "ÏÛÉÂËÁ ÞÔÅÎÉÑ ÆÁÊÌÁ Ó ÄÅÓËÒÉÐÔÏÒÏÍ %d"
+
+#: ../src/common/file.cpp:546
+#, c-format
+msgid "can't remove file '%s'"
+msgstr "ÏÛÉÂËÁ ÕÄÁÌÅÎÉÑ ÆÁÊÌÁ '%s'"
+
+#: ../src/common/file.cpp:562
+#, c-format
+msgid "can't remove temporary file '%s'"
+msgstr "ÏÛÉÂËÁ ÕÄÁÌÅÎÉÑ ×ÒÅÍÅÎÎÏÇÏ ÆÁÊÌÁ '%s'"
+
+#: ../src/common/file.cpp:385 ../src/msw/wince/filefnwce.cpp:189
+#, c-format
+msgid "can't seek on file descriptor %d"
+msgstr "ÎÅ×ÏÚÍÏÖÎÏ ÐÅÒÅÍÅÓÔÉÔØÓÑ ÐÏ ÆÁÊÌÕ Ó ÄÅÓËÒÉÐÔÏÒÏÍ %d"
+
+#: ../src/common/textfile.cpp:196
+#, c-format
+msgid "can't write buffer '%s' to disk."
+msgstr "ÏÛÉÂËÁ ÚÁÐÉÓÉ ÂÕÆÅÒÁ '%s' ÎÁ ÄÉÓË."
+
+#: ../src/common/file.cpp:326
+#, c-format
+msgid "can't write to file descriptor %d"
+msgstr "ÎÅ×ÏÚÍÏÖÎÏ ÚÁÐÉÓÁÔØ × ÆÁÊÌ Ó ÄÅÓËÒÉÐÔÏÒÏÍ %d"
+
+#: ../src/common/fileconf.cpp:1016
+msgid "can't write user configuration file."
+msgstr "ÎÅ×ÏÚÍÏÖÎÏ ÚÁÐÉÓÁÔØ ÐÏÌØÚÏ×ÁÔÅÌØÓËÉÊ ÆÁÊÌ ËÏÎÆÉÇÕÒÁÃÉÉ."
+
+#: ../src/common/intl.cpp:1110
+#, c-format
+msgid "catalog file for domain '%s' not found."
+msgstr "ÆÁÊÌ ËÁÔÁÌÏÇÁ ÄÌÑ ÄÏÍÅÎÁ '%s' ÎÅ ÎÁÊÄÅÎ."
+
+#: ../src/html/chm.cpp:346
+msgid "checksum error"
+msgstr "ÏÛÉÂËÁ ËÏÎÔÒÏÌØÎÏÊ ÓÕÍÍÙ"
+
+#: ../src/html/chm.cpp:348
+msgid "compression error"
+msgstr "ÏÛÉÂËÁ ÓÖÁÔÉÑ"
+
+#: ../src/common/regex.cpp:141
+msgid "conversion to 8-bit encoding failed"
+msgstr "ÐÒÅÏÂÒÁÚÏ×ÁÎÉÅ × 8-ÂÉÔÎÕÀ ËÏÄÉÒÏ×ËÕ ÎÅ ÕÄÁÌÏÓØ"
+
+#: ../src/common/menucmn.cpp:112
+msgid "ctrl"
+msgstr "ctrl"
+
+#: ../src/common/cmdline.cpp:1094
+msgid "date"
+msgstr "ÄÁÔÁ"
+
+#: ../src/html/chm.cpp:350
+msgid "decompression error"
+msgstr "ÏÛÉÂËÁ ÒÁÓÐÁËÏ×ËÉ"
+
+#: ../src/common/fmapbase.cpp:705 ../src/common/fmapbase.cpp:737
+msgid "default"
+msgstr "ÐÏ-ÕÍÏÌÞÁÎÉÀ"
+
+#: ../src/common/xtistrm.cpp:843
+msgid "delegate has no type info"
+msgstr "ÄÅÌÅÇÁÔ ÎÅ ÉÍÅÅÔ ÉÎÆÏÒÍÁÃÉÉ Ï ÔÉÐÅ"
+
+#: ../src/common/debugrpt.cpp:524
+msgid "dump of the process state (binary)"
+msgstr "ÄÁÍÐ ÓÏÓÔÏÑÎÉÑ ÐÒÏÃÅÓÓÁ (Ä×ÏÉÞÎÙÊ)"
+
+#: ../src/common/datetime.cpp:3882
+msgid "eighteenth"
+msgstr "×ÏÓÅÍÎÁÄÃÁÔÙÊ"
+
+#: ../src/common/datetime.cpp:3872
+msgid "eighth"
+msgstr "×ÏÓØÍÏÊ"
+
+#: ../src/common/datetime.cpp:3875
+msgid "eleventh"
+msgstr "ÏÄÉÎÎÁÄÃÁÔÙÊ"
+
+#: ../src/common/strconv.cpp:2671
+#, c-format
+msgid "encoding %s"
+msgstr "ËÏÄÉÒÏ×ËÁ %s"
+
+#: ../src/common/fileconf.cpp:1833
+#, c-format
+msgid "entry '%s' appears more than once in group '%s'"
+msgstr "ÐÏÌÅ '%s' ÐÏÑ×ÌÑÅÔÓÑ ÂÏÌÅÅ ÏÄÎÏÇÏ ÒÁÚÁ × ÇÒÕÐÐÅ '%s'"
+
+#: ../src/html/chm.cpp:344
+msgid "error in data format"
+msgstr "ÏÛÉÂËÁ × ÆÏÒÍÁÔÅ ÄÁÎÎÙÈ"
+
+#: ../src/msdos/utilsdos.cpp:407
+#, fuzzy, c-format
+msgid "error opening '%s'"
+msgstr "ÏÛÉÂËÁ ÏÔËÒÙÔÉÑ ÆÁÊÌÁ"
+
+#: ../src/html/chm.cpp:332
+msgid "error opening file"
+msgstr "ÏÛÉÂËÁ ÏÔËÒÙÔÉÑ ÆÁÊÌÁ"
+
+#: ../src/common/zipstrm.cpp:1442
+msgid "error reading zip central directory"
+msgstr "ÏÛÉÂËÁ ÞÔÅÎÉÑ ÃÅÎÔÒÁÌØÎÏÇÏ ËÁÔÁÌÏÇÁ zip"
+
+#: ../src/common/zipstrm.cpp:1520
+msgid "error reading zip local header"
+msgstr "ÏÛÉÂËÁ ÞÔÅÎÉÑ ÌÏËÁÌØÎÏÇÏ ÚÁÇÏÌÏ×ËÁ zip"
+
+#: ../src/common/zipstrm.cpp:2236
+#, c-format
+msgid "error writing zip entry '%s': bad crc or length"
+msgstr "ÏÛÉÂËÁ ÚÁÐÉÓÉ ÜÌÅÍÅÎÔÁ zip '%s': ÎÅ×ÅÒÎÁÑ ÄÌÉÎÁ ÉÌÉ ËÏÎÔÒÏÌØÎÁÑ ÓÕÍÍÁ"
+
+#: ../src/msw/dialup.cpp:881
+msgid "establish"
+msgstr "ÕÓÔÁÎÏ×ÉÔØ"
+
+#: ../src/common/ffile.cpp:172
+#, c-format
+msgid "failed to flush the file '%s'"
+msgstr "ÏÛÉÂËÁ ÓÂÒÏÓÁ ÂÕÆÅÒÁ ÆÁÊÌÁ '%s'."
+
+#: ../src/common/datetime.cpp:3879
+msgid "fifteenth"
+msgstr "ÐÑÔÎÁÄÃÁÔÙÊ"
+
+#: ../src/common/datetime.cpp:3869
+msgid "fifth"
+msgstr "ÐÑÔÙÊ"
+
+#: ../src/common/fileconf.cpp:664
+#, c-format
+msgid "file '%s', line %d: '%s' ignored after group header."
+msgstr "ÆÁÊÌ '%s', ÓÔÒÏËÁ %d: '%s' ÐÒÏÉÇÎÏÒÉÒÏ×ÁÎÏ ÐÏÓÌÅ ÚÁÇÏÌÏ×ËÁ ÇÒÕÐÐÙ."
+
+#: ../src/common/fileconf.cpp:693
+#, c-format
+msgid "file '%s', line %d: '=' expected."
+msgstr "ÆÁÊÌ '%s', ÓÔÒÏËÁ %d: ÏÖÉÄÁÌÓÑ '='."
+
+#: ../src/common/fileconf.cpp:716
+#, c-format
+msgid "file '%s', line %d: key '%s' was first found at line %d."
+msgstr "ÆÁÊÌ '%s', ÓÔÒÏËÁ %d: ËÌÀÞ '%s' ÂÙÌ ÕÖÅ ÚÁÍÅÞÅÎ ÎÁ ÓÔÒÏËÅ %d."
+
+#: ../src/common/fileconf.cpp:706
+#, c-format
+msgid "file '%s', line %d: value for immutable key '%s' ignored."
+msgstr ""
+"ÆÁÊÌ '%s', ÓÔÒÏËÁ %d: ÚÎÁÞÅÎÉÅ ÎÅÉÚÍÅÎÑÅÍÏÇÏ ËÌÀÞÁ '%s' ÐÒÏÉÇÎÏÒÉÒÏ×ÁÎÏ."
+
+#: ../src/common/fileconf.cpp:628
+#, c-format
+msgid "file '%s': unexpected character %c at line %d."
+msgstr "ÆÁÊÌ '%s': ÎÅÏÖÉÄÁÎÎÙÊ ÓÉÍ×ÏÌ %c × ÓÔÒÏËÅ %d."
+
+#: ../src/common/datetime.cpp:3865
+msgid "first"
+msgstr "ÐÅÒ×ÙÊ"
+
+#: ../src/html/helpfrm.cpp:1262
+msgid "font size"
+msgstr "ÒÁÚÍÅÒ ÛÒÉÆÔÁ"
+
+#: ../src/common/datetime.cpp:3878
+msgid "fourteenth"
+msgstr "ÞÅÔÙÒÎÁÄÃÁÔÙÊ"
+
+#: ../src/common/datetime.cpp:3868
+msgid "fourth"
+msgstr "ÞÅÔ×ÅÒÔÙÊ"
+
+#: ../src/common/appbase.cpp:367
+msgid "generate verbose log messages"
+msgstr "ÇÅÎÅÒÉÒÏ×ÁÔØ ÐÏÄÒÏÂÎÙÅ ÓÏÏÂÝÅÎÉÑ ÏÔÌÁÄËÉ"
+
+#: ../src/common/xtixml.cpp:479
+msgid "incorrect event handler string, missing dot"
+msgstr "ÎÅ×ÅÒÎÁÑ ÓÔÒÏËÁ ÏÂÒÁÂÏÔÞÉËÁ ÓÏÂÙÔÉÑ, ÔÏÞËÁ ÐÒÏÐÕÝÅÎÁ"
+
+#: ../src/msw/dialup.cpp:881
+msgid "initiate"
+msgstr "ÎÁÞÁÔØ Ú×ÏÎÉÔØ"
+
+#: ../src/common/file.cpp:459
+msgid "invalid eof() return value."
+msgstr "ÎÅÄÏÐÕÓÔÉÍÏÅ ÚÎÁÞÅÎÉÅ ×ÏÚ×ÒÁÔÁ ÉÚ eof()."
+
+#: ../src/generic/logg.cpp:1179
+msgid "invalid message box return value"
+msgstr "ÎÅÄÏÐÕÓÔÉÍÏÅ ÚÎÁÞÅÎÉÅ ×ÏÚ×ÒÁÔÁ ÉÚ ÏËÎÁ ÓÏÏÂÝÅÎÉÑ"
+
+#: ../src/common/zipstrm.cpp:1306
+msgid "invalid zip file"
+msgstr "ÎÅ×ÅÒÎÙÊ ÆÁÊÌ zip"
+
+#: ../src/common/fontcmn.cpp:586 ../src/common/fontcmn.cpp:650
+msgid "italic"
+msgstr "ËÕÒÓÉ×"
+
+#: ../src/common/fontcmn.cpp:642
+msgid "light"
+msgstr "Ó×ÅÔÌÙÊ"
+
+#: ../src/common/fontcmn.cpp:566
+msgid "light "
+msgstr "Ó×ÅÔÌÙÊ "
+
+#: ../src/common/intl.cpp:1456
+#, c-format
+msgid "locale '%s' can not be set."
+msgstr "ÌÏËÁÌØ '%s' ÎÅ ÍÏÖÅÔ ÂÙÔØ ÕÓÔÁÎÏ×ÌÅÎÁ."
+
+#: ../src/common/intl.cpp:1103
+#, c-format
+msgid "looking for catalog '%s' in path '%s'."
+msgstr "ÐÏÉÓË ËÁÔÁÌÏÇÁ '%s' × ÐÕÔÉ '%s'."
+
+#: ../src/common/datetime.cpp:4029
+msgid "midnight"
+msgstr "ÐÏÌÎÏÞØ"
+
+#: ../src/common/datetime.cpp:3883
+msgid "nineteenth"
+msgstr "ÄÅ×ÑÔÎÁÄÃÁÔÙÊ"
+
+#: ../src/common/datetime.cpp:3873
+msgid "ninth"
+msgstr "ÄÅ×ÑÔÙÊ"
+
+#: ../src/msw/dde.cpp:1035
+msgid "no DDE error."
+msgstr "ÎÅÔ ÏÛÉÂËÉ DDE"
+
+#: ../src/html/chm.cpp:328
+msgid "no error"
+msgstr "ÎÅÔ ÏÛÉÂËÉ"
+
+#: ../src/html/helpdata.cpp:662
+msgid "noname"
+msgstr "ÂÅÚ ÉÍÅÎÉ"
+
+#: ../src/common/datetime.cpp:4028
+msgid "noon"
+msgstr "ÐÏÌÄÅÎØ"
+
+#: ../src/common/cmdline.cpp:1090
+msgid "num"
+msgstr "num"
+
+#: ../src/common/xtixml.cpp:258
+msgid "objects cannot have XML Text Nodes"
+msgstr "ÏÂßÅËÔÙ ÎÅ ÍÏÇÕÔ ÉÍÅÔØ ÔÅËÓÔÏ×ÙÅ ÕÚÌÙ XML"
+
+#: ../src/html/chm.cpp:340
+msgid "out of memory"
+msgstr "ÎÅÄÏÓÔÁÔÏÞÎÏ ÐÁÍÑÔÉ"
+
+#: ../src/common/debugrpt.cpp:500
+msgid "process context description"
+msgstr "ÏÐÉÓÁÎÉÅ ËÏÎÔÅËÓÔÁ ÐÒÏÃÅÓÓÁ"
+
+#: ../src/html/chm.cpp:334
+msgid "read error"
+msgstr "ÏÛÉÂËÁ ÞÔÅÎÉÑ"
+
+#: ../src/common/filename.cpp:181
+msgid "reading"
+msgstr "ÞÔÅÎÉÅ"
+
+#: ../src/common/zipstrm.cpp:1743
+#, c-format
+msgid "reading zip stream (entry %s): bad crc"
+msgstr "ÞÔÅÎÉÅ ÐÏÔÏËÁ zip (ÔÏÞËÁ ×ÈÏÄÁ %s): ÎÅ×ÅÒÎÁÑ ËÏÎÔÒÏÌØÎÁÑ ÓÕÍÍÁ"
+
+#: ../src/common/zipstrm.cpp:1740
+#, c-format
+msgid "reading zip stream (entry %s): bad length"
+msgstr "ÞÔÅÎÉÅ ÐÏÔÏËÁ zip (ÔÏÞËÁ ×ÈÏÄÁ %s): ÎÅ×ÅÒÎÁÑ ÄÌÉÎÁ"
+
+#: ../src/msw/dde.cpp:1078
+msgid "reentrancy problem."
+msgstr "ÐÒÏÂÌÅÍÁ ÐÏ×ÔÏÒÎÏÇÏ ×ÈÏÄÁ."
+
+#: ../src/common/datetime.cpp:3866
+msgid "second"
+msgstr "×ÔÏÒÏÊ"
+
+#: ../src/html/chm.cpp:338
+msgid "seek error"
+msgstr "ÏÛÉÂËÁ ÓÄ×ÉÇÁ"
+
+#: ../src/common/datetime.cpp:3881
+msgid "seventeenth"
+msgstr "ÓÅÍÎÁÄÃÁÔÙÊ"
+
+#: ../src/common/datetime.cpp:3871
+msgid "seventh"
+msgstr "ÓÅÄØÍÏÊ"
+
+#: ../src/common/menucmn.cpp:116
+msgid "shift"
+msgstr "shift"
+
+#: ../src/common/appbase.cpp:357
+msgid "show this help message"
+msgstr "ÐÏËÁÚÁÔØ ÜÔÏ ÓÐÒÁ×ÏÞÎÏÅ ÓÏÏÂÝÅÎÉÅ"
+
+#: ../src/common/datetime.cpp:3880
+msgid "sixteenth"
+msgstr "ÛÅÓÔÎÁÄÃÁÔÙÊ"
+
+#: ../src/common/datetime.cpp:3870
+msgid "sixth"
+msgstr "ÛÅÓÔÏÊ"
+
+#: ../src/common/appcmn.cpp:203
+msgid "specify display mode to use (e.g. 640x480-16)"
+msgstr "ÕËÁÖÉÔÅ ÒÅÖÉÍ ÜËÒÁÎÁ ÄÌÑ ÉÓÐÏÌØÚÏ×ÁÎÉÑ (ÎÁÐÒÉÍÅÒ, 640x480-16)"
+
+#: ../src/common/appcmn.cpp:189
+msgid "specify the theme to use"
+msgstr "ÕËÁÖÉÔÅ ÔÅÍÕ ÄÌÑ ÉÓÐÏÌØÚÏ×ÁÎÉÑ"
+
+#: ../src/common/zipstrm.cpp:1646
+msgid "stored file length not in Zip header"
+msgstr "ÓÏÈÒÁÎÅÎÎÁÑ ÄÌÉÎÁ ÆÁÊÌÁ ÎÅ ÎÁÈÏÄÉÔÓÑ × ÚÁÇÏÌÏ×ËÅ Zip"
+
+#: ../src/common/cmdline.cpp:1086
+msgid "str"
+msgstr "str"
+
+#: ../src/common/datetime.cpp:3874
+msgid "tenth"
+msgstr "ÄÅÓÑÔÙÊ"
+
+#: ../src/msw/dde.cpp:1042
+msgid "the response to the transaction caused the DDE_FBUSY bit to be set."
+msgstr "ÏÔ×ÅÔ ÔÒÁÎÚÁËÃÉÉ ×ÙÚ×ÁÌ ÕÓÔÁÎÏ×ËÕ ÂÉÔÁ DDE_FBUSY."
+
+#: ../src/common/datetime.cpp:3867
+msgid "third"
+msgstr "ÔÒÅÔÉÊ"
+
+#: ../src/common/datetime.cpp:3877
+msgid "thirteenth"
+msgstr "ÔÒÉÎÁÄÃÁÔÙÊ"
+
+#: ../src/common/imagtiff.cpp:145 ../src/common/imagtiff.cpp:161
+#, c-format
+msgid "tiff module: %s"
+msgstr "ÍÏÄÕÌØ tiff: %s"
+
+#: ../src/common/datetime.cpp:3694
+msgid "today"
+msgstr "ÓÅÇÏÄÎÑ"
+
+#: ../src/common/datetime.cpp:3696
+msgid "tomorrow"
+msgstr "ÚÁ×ÔÒÁ"
+
+#: ../src/common/datetime.cpp:3876
+msgid "twelfth"
+msgstr "Ä×ÅÎÁÄÃÁÔÙÊ"
+
+#: ../src/common/datetime.cpp:3884
+msgid "twentieth"
+msgstr "Ä×ÁÄÃÁÔÙÊ"
+
+#: ../src/common/fontcmn.cpp:638
+msgid "underlined"
+msgstr "ÐÏÄÞÅÒËÎÕÔÙÊ"
+
+#: ../src/common/fontcmn.cpp:553
+msgid "underlined "
+msgstr "ÐÏÄÞÅÒËÎÕÔÙÊ "
+
+#: ../src/common/fileconf.cpp:1960
+#, c-format
+msgid "unexpected \" at position %d in '%s'."
+msgstr "ÎÅÏÖÉÄÁÎÎÙÊ \" × ÐÏÚÉÃÉÉ %d × '%s'."
+
+#: ../src/generic/progdlgg.cpp:307
+msgid "unknown"
+msgstr "ÎÅÉÚ×ÅÓÔÎÙÊ"
+
+#: ../src/common/xtixml.cpp:252
+#, c-format
+msgid "unknown class %s"
+msgstr "ÎÅÉÚ×ÅÓÔÎÙÊ ËÌÁÓÓ %s"
+
+#: ../src/common/regex.cpp:163 ../src/html/chm.cpp:352
+msgid "unknown error"
+msgstr "ÎÅÉÚ×ÅÓÔÎÁÑ ÏÛÉÂËÁ"
+
+#: ../src/msw/dialup.cpp:494
+#, c-format
+msgid "unknown error (error code %08x)."
+msgstr "ÎÅÉÚ×ÅÓÔÎÁÑ ÏÛÉÂËÁ (ËÏÄ ÏÛÉÂËÉ %08x)"
+
+#: ../src/common/textbuf.cpp:230
+msgid "unknown line terminator"
+msgstr "ÎÅÉÚ×ÅÓÔÎÙÊ ËÏÎÅÃ ÓÔÒÏËÉ"
+
+#: ../src/common/file.cpp:367 ../src/msw/wince/filefnwce.cpp:170
+msgid "unknown seek origin"
+msgstr "ÎÅÉÚ×ÅÓÔÎÏÅ ÎÁÞÁÌÏ ÓÄ×ÉÇÁ"
+
+#: ../src/common/fmapbase.cpp:719
+#, c-format
+msgid "unknown-%d"
+msgstr "ÎÅÉÚ×ÅÓÔÎÙÊ-%d"
+
+#: ../src/common/docview.cpp:430
+msgid "unnamed"
+msgstr "ÂÅÚÙÍÑÎÎÙÊ"
+
+#: ../src/common/docview.cpp:1401
+#, c-format
+msgid "unnamed%d"
+msgstr "ÂÅÚÙÍÑÎÎÙÊ%d"
+
+#: ../src/common/zipstrm.cpp:1660 ../src/common/zipstrm.cpp:2030
+msgid "unsupported Zip compression method"
+msgstr "ÎÅÐÏÄÄÅÒÖÉ×ÁÅÍÙÊ ÍÅÔÏÄ ÓÖÁÔÉÑ Zip"
+
+#: ../src/common/zipstrm.cpp:1142
+msgid "unsupported zip archive"
+msgstr "ÎÅÐÏÄÄÅÒÖÉ×ÁÅÍÙÊ zip ÁÒÈÉ×"
+
+#: ../src/common/intl.cpp:1115
+#, c-format
+msgid "using catalog '%s' from '%s'."
+msgstr "ÉÓÐÏÌØÚÕÅÔÓÑ ËÁÔÁÌÏÇ '%s' ÉÚ '%s'."
+
+#: ../src/html/chm.cpp:336
+msgid "write error"
+msgstr "ÏÛÉÂËÁ ÚÁÐÉÓÉ"
+
+#: ../src/common/filename.cpp:181
+msgid "writing"
+msgstr "ÚÁÐÉÓØ"
+
+#: ../src/common/stopwatch.cpp:291
+msgid "wxGetTimeOfDay failed."
+msgstr "ÏÛÉÂËÁ wxGetTimeOfDay."
+
+#: ../src/common/socket.cpp:415 ../src/common/socket.cpp:469
+#: ../src/mac/carbon/cfsocket.cpp:452 ../src/mac/carbon/cfsocket.cpp:506
+msgid "wxSocket: invalid signature in ReadMsg."
+msgstr "wxSocket: ÎÅÄÅÊÓÔ×ÉÔÅÌØÎÁÑ ÐÏÄÐÉÓØ × ReadMsg."
+
+#: ../src/common/socket.cpp:966 ../src/mac/carbon/cfsocket.cpp:1006
+msgid "wxSocket: unknown event!."
+msgstr "wxSocket: ÎÅÉÚ×ÅÓÔÎÏÅ ÓÏÂÙÔÉÅ!"
+
+#: ../src/motif/app.cpp:214
+#, c-format
+msgid "wxWidgets could not open display for '%s': exiting."
+msgstr "wxWidgets ÎÅ ÓÍÏÇ ÏÔËÒÙÔØ ÄÉÓÐÌÅÊ ÄÌÑ '%s': ×ÙÈÏÄ."
+
+#: ../src/x11/app.cpp:176
+msgid "wxWidgets could not open display. Exiting."
+msgstr "wxWidgets ÎÅ ÓÍÏÇ ÏÔËÒÙÔØ ÄÉÓÐÌÅÊ. ÷ÙÈÏÄ."
+
+#: ../src/common/datetime.cpp:3695
+msgid "yesterday"
+msgstr "×ÞÅÒÁ"
+
+#: ../src/common/zstream.cpp:165 ../src/common/zstream.cpp:315
+#, c-format
+msgid "zlib error %d"
+msgstr "ÏÛÉÂËÁ zlib %d"
+
+#: ../src/common/prntbase.cpp:886
+msgid "|<<"
+msgstr "|<<"
+
+#~ msgid ""
+#~ "Failed to get stack backtrace:\n"
+#~ "%s"
+#~ msgstr ""
+#~ "îÅ ÕÄÁÌÏÓØ ÐÏÌÕÞÉÔØ backtrace ÓÔÜËÁ:\n"
+#~ "%s"
+
+#~ msgid "Loading Grey Ascii PNM image is not yet implemented."
+#~ msgstr "úÁÇÒÕÚËÁ ÉÚÏÂÒÁÖÅÎÉÑ Grey Ascii PNM ÅÝÅ ÎÅ ÒÅÁÌÉÚÏ×ÁÎÁ."
+
+#~ msgid "Loading Grey Raw PNM image is not yet implemented."
+#~ msgstr "úÁÇÒÕÚËÁ ÉÚÏÂÒÁÖÅÎÉÑ Grey Raw PNM ÅÝÅ ÎÅ ÒÅÁÌÉÚÏ×ÁÎÁ."
